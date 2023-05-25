@@ -1,4 +1,4 @@
-Code;Kind;CompanyName;Role;ValidFrom;InternalCode
+Code;Ausgabestelle;Code-Inhaber;Rolle;Gültig ab;Interner Code
 9800423500004;Dvgw;1&1 Energy GmbH;Bilanzkreisverantwortlicher;14.03.2016 09:08:00;2
 9800423600002;Dvgw;1&1 Energy GmbH;Lieferant / Transportkunde;17.03.2016 16:31:00;2
 9800417400004;Dvgw;17er Oberlandenergie GmbH;Lieferant / Transportkunde;23.10.2015 13:38:00;3
