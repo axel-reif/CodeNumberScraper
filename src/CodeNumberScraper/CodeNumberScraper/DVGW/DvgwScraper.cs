@@ -1,8 +1,7 @@
-﻿using System;
+﻿using Microsoft.Extensions.Logging;
+using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Net;
-using System.Net.Http;
 using System.Text;
 using System.Text.Json.Nodes;
 using System.Text.RegularExpressions;
@@ -10,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace CodeNumberScraper.DVGW
 {
-    internal class DvgwScraper
+    internal class DvgwScraper : ScraperBase
     {
         // Testing showed that it is important to set the following headers for the request to work:
         // Content-Type: application/x-www-form-urlencoded; charset=UTF-8
@@ -118,122 +117,101 @@ namespace CodeNumberScraper.DVGW
          }
         Now all we need to do is to create Marketpartner-instances with all the gathered data.
         */
+        public DvgwScraper(ILogger logger, int maxRowCount = 8000) : base(logger)
+        {
+            MaxRowCount = maxRowCount;
+        }
+
+        public int MaxRowCount { get; }
 
         public async Task<IEnumerable<Marketpartner>> FetchMarketpartners()
         {
+            Logger.LogInformation("Executing DVGW-Codenumber Scraper.");
+
             List<Marketpartner> outList = new List<Marketpartner>();
 
-            using(HttpClient companyDetailsClient = new HttpClient(new HttpClientHandler
+            using (var httpClient = CreateHttpClient())
             {
-                AutomaticDecompression = System.Net.DecompressionMethods.GZip | System.Net.DecompressionMethods.Deflate
-            }))
-            {
-                companyDetailsClient.DefaultRequestHeaders.Add("Accept", "application/json, text/javascript, */*; q=0.01");
-                companyDetailsClient.DefaultRequestHeaders.Add("Accept-Encoding", "gzip, deflate, br");
+                string endpoint = "https://codevergabe.dvgw-sc.de/MarketParticipants/GetCodeCompanies";
 
-                using (HttpClient httpClient = new HttpClient(new HttpClientHandler
+                string requestBody = @"draw=1&columns%5B0%5D%5Bdata%5D=Name&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=true&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=ZipCode&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=true&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=City&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=true&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=false&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=false&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=asc&start=0&length=***LENGTH***&search%5Bvalue%5D=&search%5Bregex%5D=false&selectedMarketFunction=";
+                requestBody = requestBody.Replace("***LENGTH***", MaxRowCount.ToString());
+                var content = new StringContent(requestBody);
+                content.Headers.TryAddWithoutValidation("Content-Type", "application/x-www-form-urlencoded; charset=UTF-8");
+
+                int rowCount = 0;
+
+                Logger.LogInformation($"Fetching header rows. Pagesize: {MaxRowCount}");
+
+                var response = await PostAsyncWithRetry(httpClient, endpoint, content, 3);
+                if (LogIfTrue(!response.IsSuccessStatusCode, $"Error fetching data from DVGW. Status code: {response.StatusCode}"))
+                    return outList;
+
+                var responseContent = response.Content;
+
+                string jsonString = await responseContent.ReadAsStringAsync();
+                var json = JsonObject.Parse(jsonString);
+                if (json != null)
                 {
-                    AutomaticDecompression = System.Net.DecompressionMethods.GZip | System.Net.DecompressionMethods.Deflate
-                }))
-                {
-                    httpClient.DefaultRequestHeaders.Add("Accept", "application/json, text/javascript, */*; q=0.01");
-                    httpClient.DefaultRequestHeaders.Add("Accept-Encoding", "gzip, deflate, br");
-
-                    //We can request an arbitrary number. The response gives always the max result. So we request 5000 which will be enough
-                    string length = "5000";
-                    string requestBody = @"draw=1&columns%5B0%5D%5Bdata%5D=Name&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=true&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=ZipCode&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=true&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=City&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=true&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=false&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=false&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=asc&start=0&length=***LENGTH***&search%5Bvalue%5D=&search%5Bregex%5D=false&selectedMarketFunction=";
-                    requestBody = requestBody.Replace("***LENGTH***", length);
-                                        
-                    var content = new StringContent(requestBody);
-                    content.Headers.TryAddWithoutValidation("Content-Type", "application/x-www-form-urlencoded; charset=UTF-8");
-
-                    int rowCount = 0;
-
-                    Console.WriteLine("Fetching header data.");
-                    var response = await httpClient.PostAsync("https://codevergabe.dvgw-sc.de/MarketParticipants/GetCodeCompanies", content);
-                    if (response.IsSuccessStatusCode)
+                    var dataArray = json["data"]?.AsArray();
+                    if (dataArray != null)
                     {
-                        var responseContent = response.Content;
+                        Console.WriteLine($"Got {dataArray.Count} header-rows.");
 
-                        string jsonString = await responseContent.ReadAsStringAsync();
-                        var json = JsonObject.Parse(jsonString);
-                        if (json != null)
+                        foreach (var dataNode in dataArray)
                         {
-                            var dataArray = json["data"]?.AsArray();
-                            if (dataArray != null)
+                            var id = dataNode["Id"]?.GetValue<int>().ToString();
+                            var name = dataNode["Name"]?.GetValue<string>();
+
+                            var detailsResponse = await GetAsyncWithRetry(httpClient, $"https://codevergabe.dvgw-sc.de/MarketParticipants/GetActiveCompanyCodes?companyId={id}", 3);
+                            if (LogIfTrue(!detailsResponse.IsSuccessStatusCode, $"Error fetching data from DVGW. Status code: {detailsResponse.StatusCode} Company Id: {id} Company name: {name}"))
+                                continue;
+
+                            var detailsJsonString = await detailsResponse.Content.ReadAsStringAsync();
+                            var detailsJson = JsonObject.Parse(detailsJsonString);
+                            if (LogIfNull(detailsJson, $"Error Parsing JSON: {detailsJsonString}"))
+                                continue;
+
+                            var detailsDataArray = detailsJson["data"]?.AsArray();
+                            if (LogIfNull(detailsDataArray, $"Missing data Element in json: {detailsJsonString}"))
+                                continue;
+
+                            foreach (var detailData in detailsDataArray)
                             {
-                                Console.WriteLine($"Got {dataArray.Count} header-rows.");
+                                rowCount++;
 
-                                foreach (var dataNode in dataArray)
+                                Marketpartner mp = new Marketpartner()
                                 {
-                                    var id = dataNode["Id"]?.GetValue<int>().ToString();
-                                    var name = dataNode["Name"]?.GetValue<string>();
-
-                                    var detailsResponse = await companyDetailsClient.GetAsync($"https://codevergabe.dvgw-sc.de/MarketParticipants/GetActiveCompanyCodes?companyId={id}");
-                                    if (detailsResponse.IsSuccessStatusCode)
+                                    InternalCode = id,
+                                    CompanyName = name,
+                                    Code = detailData["Code"]?.GetValue<string>(),
+                                    Role = detailData["MarketFunction"]?.GetValue<string>(),
+                                    Kind = MarketpartnerKind.Dvgw
+                                };
+                                // Try parse the date
+                                var dateString = detailData["DateFrom"]?.GetValue<string>();
+                                if (!string.IsNullOrEmpty(dateString))
+                                {
+                                    // Looks like this: \/Date(1458228660000)\/
+                                    // We parse just the numbers:
+                                    string dateValueString = Regex.Match(dateString, "(?<date>\\d+)").Groups["date"].Value;
+                                    if (!string.IsNullOrEmpty(dateValueString))
                                     {
-                                        try
-                                        {
-                                            var detailsJsonString = await detailsResponse.Content.ReadAsStringAsync();
-                                            var detailsJson = JsonObject.Parse(detailsJsonString);
-                                            if (detailsJson != null)
-                                            {
-                                                var detailsDataArray = detailsJson["data"]?.AsArray();
-                                                if (detailsDataArray == null)
-                                                    continue;
-
-                                                foreach (var detailData in detailsDataArray)
-                                                {
-                                                    rowCount++;
-
-                                                    Marketpartner mp = new Marketpartner()
-                                                    {
-                                                        InternalCode = id,
-                                                        CompanyName = name,
-                                                        Code = detailData["Code"]?.GetValue<string>(),
-                                                        Role = detailData["MarketFunction"]?.GetValue<string>(),
-                                                        Kind = MarketpartnerKind.Dvgw
-                                                    };
-                                                    // Try parse the date
-                                                    var dateString = detailData["DateFrom"]?.GetValue<string>();
-                                                    if (!string.IsNullOrEmpty(dateString))
-                                                    {
-                                                        // Looks like this: \/Date(1458228660000)\/
-                                                        // We parse just the numbers:
-                                                        string dateValueString = Regex.Match(dateString, "(?<date>\\d+)").Groups["date"].Value;
-                                                        if (!string.IsNullOrEmpty(dateValueString))
-                                                        {
-                                                            DateTimeOffset dateTimeOffset = DateTimeOffset.FromUnixTimeMilliseconds(long.Parse(dateValueString));
-                                                            mp.ValidFrom = dateTimeOffset.LocalDateTime;
-                                                        }
-                                                    }
-                                                    outList.Add(mp);
-                                                    if (rowCount % 100 == 0)
-                                                        Console.WriteLine($"Rows added: {rowCount}");
-                                                }
-                                            }
-                                        }
-                                        catch (Exception ex)
-                                        {
-                                            Console.WriteLine("Parsing error: " + ex.Message);
-                                        }
-                                    }
-                                    else
-                                    {
-                                        Console.WriteLine($"Error fetching data from DVGW. Status code: {detailsResponse.StatusCode} Company Id: {id} Company name: {name}");
+                                        DateTimeOffset dateTimeOffset = DateTimeOffset.FromUnixTimeMilliseconds(long.Parse(dateValueString));
+                                        mp.ValidFrom = dateTimeOffset.LocalDateTime;
                                     }
                                 }
+                                outList.Add(mp);
+                                if (rowCount % 100 == 0)
+                                    Logger.LogInformation($"Processed {rowCount} marketpartners.");
                             }
                         }
-                        Console.WriteLine($"Total rows added: {rowCount}");
-                        return outList;
-                    }
-                    else
-                    {
-                        Console.WriteLine($"Error fetching data from DVGW. Status code: {response.StatusCode}");
+                        Logger.LogInformation($"Total marketpartners added: {rowCount}");
                         return outList;
                     }
                 }
+
+                return outList;
             }
         }
     }

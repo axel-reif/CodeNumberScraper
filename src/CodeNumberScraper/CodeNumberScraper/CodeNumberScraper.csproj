@@ -7,13 +7,18 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <PropertyGroup>
+	<Copyright>(c) 2023 Axel Reif, AXP Consulting GmbH &amp; Co. KG</Copyright>
+	<Company>AXP Consulting GmbH &amp; Co. KG</Company>
+	<Version>0.9</Version>
+	<AssemblyTitle>CodeNumberScraper</AssemblyTitle>
+  </PropertyGroup>
+
   <ItemGroup>
     <PackageReference Include="CommandLineParser" Version="2.9.1" />
     <PackageReference Include="CsvHelper" Version="30.0.1" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="BDEW\" />
+    <PackageReference Include="Microsoft.Extensions.Logging" Version="7.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Console" Version="7.0.0" />
   </ItemGroup>
 
 </Project>

@@ -1,6 +1,8 @@
 ﻿using CommandLine;
 using CsvHelper;
 using CsvHelper.Configuration;
+using Microsoft.Extensions.Logging;
+using Microsoft.Extensions.Logging.Configuration;
 using System.Globalization;
 using System.Text;
 
@@ -8,19 +10,71 @@ namespace CodeNumberScraper
 {
     internal class Program
     {
-        static async Task Main(string[] args)
+        static async Task<int> Main(string[] args)
         {
-            var result = Parser.Default.ParseArguments<Options>(args);
-         
-            DVGW.DvgwScraper scraper = new DVGW.DvgwScraper();
-            var marketPartners = await scraper.FetchMarketpartners();
+            string filename = "marketpartners.csv";
+            bool dvgw = true;
+            bool bdew = true;
 
-            var csvConfig = new CsvConfiguration(CultureInfo.CurrentCulture) { Delimiter = ";", Encoding = Encoding.UTF8 };
-            using (var writer = new StreamWriter(@"C:\temp\dvgw_codes.csv"))
-            using (var csv = new CsvWriter(writer, csvConfig))
+            var result = Parser.Default.ParseArguments<Options>(args);
+            if (result != null)
             {
-                csv.WriteRecords(marketPartners);
+                if (result.Errors.Any())
+                {
+                    return -1;
+                }
+                if (result.Value != null)
+                {
+                    if (!string.IsNullOrEmpty(result.Value.Out))
+                        filename = result.Value.Out;
+                }
             }
+
+            var logger = CreateLogger();
+
+            List<Marketpartner> marketpartners = new List<Marketpartner>();
+            
+            if (dvgw)
+            {
+                DVGW.DvgwScraper scraper = new DVGW.DvgwScraper(logger);
+                marketpartners.AddRange(await scraper.FetchMarketpartners());
+            }
+            
+            if (bdew)
+            {
+                BDEW.BdewScraper bdewScraper = new BDEW.BdewScraper(logger);
+                marketpartners.AddRange(await bdewScraper.FetchMarketpartners());
+            }
+
+            Console.WriteLine("Writing CSV");
+            MarketpartnerWriter writer = new MarketpartnerWriter();
+
+            try
+            {
+                await writer.Write(filename, marketpartners);
+            }
+            catch (Exception ex)
+            {
+                logger.LogCritical("Cannot write csv: " + ex.Message);
+                return -1;
+            }
+
+            logger.LogInformation("Done.");
+            return 0;
+        }
+
+        static ILogger CreateLogger()
+        {
+            using var loggerFactory = LoggerFactory.Create(builder =>
+            {
+                builder
+                    .AddFilter("Microsoft", LogLevel.Warning)
+                    .AddFilter("System", LogLevel.Warning)
+                    .AddFilter("CodeNumberScraper.Program", LogLevel.Debug)
+                    .AddConsole();
+            });
+            ILogger logger = loggerFactory.CreateLogger("CodeNumberScraper");
+            return logger;
         }
     }
 }
