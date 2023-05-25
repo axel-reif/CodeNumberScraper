@@ -6,6 +6,7 @@ using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using CodeNumberScraper.ColumnMaps;
 
 namespace CodeNumberScraper
 {
@@ -22,6 +23,7 @@ namespace CodeNumberScraper
             using (var writer = new StreamWriter(path))
             using (var csv = new CsvWriter(writer, csvConfig))
             {
+                csv.Context.RegisterClassMap<GermanMap>();
                 await csv.WriteRecordsAsync(marketpartners);
             }
         }
