@@ -12,11 +12,11 @@ namespace CodeNumberScraper.ColumnMaps
         public GermanMap()
         {
             Map(m => m.Code).Name("Code");
-            Map(m => m.ValidFrom).Name("Gültig ab");
-            Map(m => m.InternalCode).Name("Interner Code");
-            Map(m => m.CompanyName).Name("Code-Inhaber");
             Map(m => m.Kind).Name("Ausgabestelle");
+            Map(m => m.CompanyName).Name("Code-Inhaber");
             Map(m => m.Role).Name("Rolle");
+            Map(m => m.ValidFrom).Name("Gültig ab");
+            Map(m => m.InternalCode).Name("Interner Code");  
         }
     }
 }

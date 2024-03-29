@@ -55,15 +55,15 @@ Code;Ausgabestelle;Code-Inhaber;Rolle;Gültig ab;Interner Code
 37X000000000146N;Dvgw;Amos Finance AG;Market Operator;21.08.2023 14:01:25;9250
 9800523600001;Dvgw;Amos Finance AG;Lieferant / Transportkunde;21.08.2023 14:01:25;9250
 9800425100000;Dvgw;Amper Market, a.s.;Bilanzkreisverantwortlicher;07.07.2022 18:08:51;63
-9800198100006;Dvgw;Andel Energi A/S;Lieferant / Transportkunde;03.08.2011 13:38:00;1091
-9800474900005;Dvgw;Andel Energi A/S;Bilanzkreisverantwortlicher;05.08.2019 02:00:00;1091
-9800552300002;Dvgw;Andel Energi A/S;Kapazitätsnutzer;09.01.2023 01:00:00;1091
+9800198100006;Dvgw;Andel Energi A/S;Lieferant / Transportkunde;23.02.2024 01:00:00;1091
+9800474900005;Dvgw;Andel Energi A/S;Bilanzkreisverantwortlicher;23.02.2024 01:00:00;1091
+9800552300002;Dvgw;Andel Energi A/S;Kapazitätsnutzer;23.02.2024 01:00:00;1091
 37X000000000283D;Dvgw;Anthrazit GmbH;Trade Responsible Party;14.09.2023 02:00:00;12335
 9800425500002;Dvgw;AOT Energy Switzerland AG;Bilanzkreisverantwortlicher;04.05.2016 11:56:00;70
 9800565300007;Dvgw;Apensen Verflüssigungs GmbH & Co. KG;Lieferant / Transportkunde;24.10.2023 02:00:00;13528
 9800527700005;Dvgw;Aplus Energy GmbH;Lieferant / Transportkunde;03.12.2021 01:00:00;9269
 9800342200008;Dvgw;ArcelorMittal Bremen GmbH;Lieferant / Transportkunde;09.01.2013 11:21:00;76
-9800412700003;Dvgw;ArcelorMittal Bremen GmbH;Bilanzkreisverantwortlicher;08.09.2015 18:05:00;76
+9800412700003;Dvgw;ArcelorMittal Bremen GmbH;Bilanzkreisverantwortlicher;01.03.2024 01:00:00;76
 9800501400001;Dvgw;ArcelorMittal Bremen GmbH;Kapazitätsnutzer;27.08.2020 02:00:00;76
 9800411000008;Dvgw;ArcelorMittal Eisenhüttenstadt GmbH;Lieferant / Transportkunde;19.08.2015 12:08:00;77
 9800451100008;Dvgw;ArcelorMittal Eisenhüttenstadt GmbH;Messstellenbetreiber;10.04.2018 02:00:00;77
@@ -77,6 +77,7 @@ Code;Ausgabestelle;Code-Inhaber;Rolle;Gültig ab;Interner Code
 9800447600004;Dvgw;ARTIBack GmbH;Netznutzer ohne-all-inklusive Vertrag;01.01.2023 01:00:00;2821
 9800543300003;Dvgw;AS Eesti Gaas;Bilanzkreisverantwortlicher;07.07.2022 02:00:00;10302
 9800555500005;Dvgw;AS Eesti Gaas;Lieferant / Transportkunde;11.04.2023 02:00:00;10302
+9800571400007;Dvgw;AS Eesti Gaas;Kapazitätsnutzer;19.03.2024 01:00:00;10302
 9800206100005;Dvgw;ASCANETZ GmbH;Messstellenbetreiber;04.03.2013 17:10:00;84
 9870105100000;Dvgw;ASCANETZ GmbH;Netzbetreiber;04.03.2013 17:11:00;84
 9800055600008;Dvgw;Aschaffenburger Versorgungs-GmbH;Lieferant / Transportkunde;30.09.2009 13:10:00;85
@@ -87,6 +88,7 @@ Code;Ausgabestelle;Code-Inhaber;Rolle;Gültig ab;Interner Code
 9800379600007;Dvgw;astora GmbH;Messstellenbetreiber;09.05.2014 13:02:00;90
 9800513000005;Dvgw;astora GmbH;Bilanzkreisverantwortlicher;24.11.2020 01:00:00;90
 9800529800001;Dvgw;ASTRA Software GmbH;Messstellenbetreiber;22.02.2022 01:00:00;9287
+9800569800003;Dvgw;"Atlas Energy Designated Activity Company ";Bilanzkreisverantwortlicher;16.02.2024 01:00:00;13557
 37X000000000123Z;Dvgw;Atp Commodities GmbH;Balance Group Responsible Party;03.05.2022 11:25:47;7133
 9800501800003;Dvgw;Atp Commodities GmbH;Bilanzkreisverantwortlicher;03.05.2022 11:25:47;7133
 9800402900001;Dvgw;Audax Energie GmbH;Lieferant / Transportkunde;30.08.2016 18:28:00;95
@@ -125,13 +127,13 @@ Code;Ausgabestelle;Code-Inhaber;Rolle;Gültig ab;Interner Code
 9870007400003;Dvgw;badenovaNETZE GmbH;Netzbetreiber;01.07.2014 17:29:00;202
 9800549400005;Dvgw;badenovaWÄRMEPLUS GmbH & Co. KG;Lieferant / Transportkunde;25.10.2022 02:00:00;12328
 9800185500003;Dvgw;Badische-Kraftwerk GmbH & Co. KG;Lieferant / Transportkunde;11.04.2013 16:45:00;117
-9800352600008;Dvgw;Balance Bio-Erdgas Schwedt GmbH;Lieferant / Transportkunde;25.01.2022 10:27:48;846
 37X0000000000038;Dvgw;BALANCE Erneuerbare Energien GmbH;Balance Supplier;16.03.2015 11:07:00;18
 9800400300005;Dvgw;BALANCE Erneuerbare Energien GmbH;Lieferant / Transportkunde;16.03.2015 11:07:00;18
 9800561800001;Dvgw;Baltic Energy Partners OÜ;Bilanzkreisverantwortlicher;25.07.2023 02:00:00;13387
 9800561900009;Dvgw;Baltic Energy Partners OÜ;Kapazitätsnutzer;25.07.2023 02:00:00;13387
 37X000000000073O;Dvgw;BarMalGas GmbH;Balance Group Responsible Party;14.05.2017 02:00:00;123
 9800422200001;Dvgw;BarMalGas GmbH;Lieferant / Transportkunde;13.03.2023 10:30:08;123
+9800569500009;Dvgw;BarMalGas GmbH;Bilanzkreisverantwortlicher;09.02.2024 01:00:00;123
 9800455200002;Dvgw;Barter SA;Bilanzkreisverantwortlicher;21.08.2023 14:22:56;3870
 9800419300004;Dvgw;Basell Polyolefine GmbH;Netznutzer ohne-all-inklusive Vertrag;30.11.2015 18:20:00;128
 9800463500006;Dvgw;BASF Schwarzheide GmbH;Lieferant / Transportkunde;07.12.2018 01:00:00;2681
@@ -149,7 +151,7 @@ Code;Ausgabestelle;Code-Inhaber;Rolle;Gültig ab;Interner Code
 9800368000002;Dvgw;Bayerngas Energy GmbH;Lieferant / Transportkunde;06.07.2016 15:56:00;134
 9800368500002;Dvgw;Bayerngas Energy GmbH;Bilanzkreisverantwortlicher;06.07.2016 16:13:00;134
 9800494900001;Dvgw;Bayerngas Energy GmbH;Kapazitätsnutzer;30.07.2020 02:00:00;134
-9800049300002;Dvgw;Bayerngas GmbH;Lieferant / Transportkunde;26.05.2011 12:14:00;136
+9800049300002;Dvgw;Bayerngas GmbH;Lieferant / Transportkunde;11.01.2024 01:00:00;136
 37X0000000000151;Dvgw;bayernugs GmbH;Balance Responsible Party;12.10.2016 20:03:00;138
 9800557000003;Dvgw;bayernugs GmbH;Lieferant / Transportkunde;10.05.2023 02:00:00;138
 9800199600005;Dvgw;Bayernwerk Netz GmbH;Messstellenbetreiber;28.06.2013 15:47:00;139
@@ -161,6 +163,7 @@ Code;Ausgabestelle;Code-Inhaber;Rolle;Gültig ab;Interner Code
 9800189700005;Dvgw;Behrenswerth Energieservice GmbH;Lieferant / Transportkunde;02.06.2014 14:00:00;148
 9800046400003;Dvgw;BELKAW GmbH;Lieferant / Transportkunde;25.02.2009 10:45:00;149
 9800451200006;Dvgw;BELKAW GmbH;Bilanzkreisverantwortlicher;13.04.2018 02:00:00;149
+9800570300000;Dvgw;Bema Biogas GmbH;Lieferant / Transportkunde;20.02.2024 01:00:00;13562
 9800383800007;Dvgw;Benergie-Service GmbH;Lieferant / Transportkunde;01.08.2014 18:26:00;153
 9800379800003;Dvgw;Benol Energieservice GmbH;Lieferant / Transportkunde;09.12.2022 10:41:23;154
 9800381700001;Dvgw;Berg Energie GmbH;Lieferant / Transportkunde;03.07.2014 16:36:00;155
@@ -187,9 +190,9 @@ Code;Ausgabestelle;Code-Inhaber;Rolle;Gültig ab;Interner Code
 9800512400008;Dvgw;bikosigma GmbH;Kapazitätsnutzer;17.11.2020 01:00:00;7193
 9800512500006;Dvgw;bikosigma GmbH;Lieferant / Transportkunde;17.11.2020 01:00:00;7193
 9800557900005;Dvgw;Bilstein Service GmbH;Bilanzkreisverantwortlicher;30.05.2023 02:00:00;13366
+9800388200004;Dvgw;BioCycling GmbH;Lieferant / Transportkunde;25.09.2014 17:29:00;1662
 9800561100005;Dvgw;Bioenenergie Gellersen GmbH & Co. KG;Lieferant / Transportkunde;13.07.2023 02:00:00;13383
 9800196000000;Dvgw;Bio-Energie Allendorf GmbH;Lieferant / Transportkunde;14.10.2014 11:30:00;173
-9800462900009;Dvgw;Bio-Energie Allendorf GmbH;Bilanzkreisverantwortlicher;21.01.2022 01:00:00;173
 9800371400009;Dvgw;Bioenergie Badeleben GmbH & Co. KG;Lieferant / Transportkunde;10.12.2013 16:11:00;174
 9800311500009;Dvgw;Bioenergie Marienthal GmbH & Co. KG;Lieferant / Transportkunde;28.11.2012 16:44:00;175
 9800527900001;Dvgw;Bioenergie Niederröblingen GmbH;Lieferant / Transportkunde;08.12.2021 01:00:00;9271
@@ -198,7 +201,6 @@ Code;Ausgabestelle;Code-Inhaber;Rolle;Gültig ab;Interner Code
 9800417300006;Dvgw;Bioenergie Wiesenburg GmbH & Co. KG;Lieferant / Transportkunde;21.10.2015 20:20:00;178
 9800407700000;Dvgw;Bioenergiepark Raitzen GmbH;Lieferant / Transportkunde;18.07.2015 18:37:00;179
 9800567100009;Dvgw;Bioerdgas Isenhagen GmbH;Lieferant / Transportkunde;06.12.2023 01:00:00;13541
-9800523700009;Dvgw;Biogas Express A/S;Bilanzkreisverantwortlicher;15.09.2021 02:00:00;9249
 9800358100002;Dvgw;Biogas Gardelegen GmbH & Co. KG;Lieferant / Transportkunde;27.06.2013 18:19:00;181
 37X0000000000305;Dvgw;Biogas Neuburg Steinhausen GmbH & Co. KG;Balance Responsible Party;11.01.2016 13:01:00;182
 9800420100005;Dvgw;Biogas Neuburg Steinhausen GmbH & Co. KG;Lieferant / Transportkunde;06.01.2016 12:05:00;182
@@ -208,9 +210,11 @@ Code;Ausgabestelle;Code-Inhaber;Rolle;Gültig ab;Interner Code
 37X000000000093I;Dvgw;Biogas Wetscher Bruch GmbH & Co. KG;Producer;17.08.2018 15:15:51;4867
 9800455800000;Dvgw;Biogas Wetscher Bruch GmbH & Co. KG;Lieferant / Transportkunde;20.08.2018 02:00:00;4867
 9800496900009;Dvgw;Biogas Wetscher Bruch GmbH & Co. KG;Kapazitätsnutzer;10.08.2020 02:00:00;4867
+9800523700009;Dvgw;BioGem A/S;Bilanzkreisverantwortlicher;15.09.2021 02:00:00;9249
 9800544200004;Dvgw;BioGem Express AG;Bilanzkreisverantwortlicher;21.07.2022 02:00:00;11306
 9800544300002;Dvgw;BioGem Express AG;Lieferant / Transportkunde;21.07.2022 02:00:00;11306
 9800544400000;Dvgw;BioGem Express AG;Kapazitätsnutzer;21.07.2022 02:00:00;11306
+9800571900007;Dvgw;Biolandhof Klein Biogas GmbH;Lieferant / Transportkunde;26.03.2024 01:00:00;13571
 37X000000000125V;Dvgw;Biomethan Feldberg GmbH;Balance Responsible Party;20.10.2020 15:49:32;201
 9800362600006;Dvgw;Biomethan Feldberg GmbH;Lieferant / Transportkunde;09.09.2013 18:57:00;201
 9800471500006;Dvgw;Biomethan Feldberg GmbH;Bilanzkreisverantwortlicher;13.06.2019 02:00:00;201
@@ -321,6 +325,7 @@ Code;Ausgabestelle;Code-Inhaber;Rolle;Gültig ab;Interner Code
 CW;Dvgw;citiworks AG;Lieferant / Transportkunde;13.03.2015 15:41:00;260
 9800202500001;Dvgw;co.met GmbH;Messstellenbetreiber;05.08.2011 12:10:00;274
 9800557700009;Dvgw;Cobblestone Energy DMCC;Bilanzkreisverantwortlicher;25.05.2023 02:00:00;13364
+9800570700002;Dvgw;Cobblestone Energy DMCC;Lieferant / Transportkunde;27.02.2024 01:00:00;13364
 37X000000000281H;Dvgw;Commerzbank AG;Trade Responsible Party;13.07.2023 15:16:53;13377
 9800468100009;Dvgw;ConocoPhillips (U.K.) Marketing and Trading Limited;Bilanzkreisverantwortlicher;06.03.2019 01:00:00;5952
 9800468300005;Dvgw;ConocoPhillips (U.K.) Marketing and Trading Limited;Lieferant / Transportkunde;12.03.2019 01:00:00;5952
@@ -379,7 +384,7 @@ CW;Dvgw;citiworks AG;Lieferant / Transportkunde;13.03.2015 15:41:00;260
 9800465500004;Dvgw;Deutsche Energie Versorgung GmbH & Co. KG;Bilanzkreisverantwortlicher;03.05.2022 11:17:26;5933
 9800557500003;Dvgw;Deutsche Energy Terminal GmbH;Lieferant / Transportkunde;22.05.2023 02:00:00;12362
 9800560400000;Dvgw;Deutsche Energy Terminal GmbH;Bilanzkreisverantwortlicher;06.07.2023 02:00:00;12362
-9870134300001;Dvgw;Deutsche Energy Terminal GmbH;Netzbetreiber;13.09.2023 15:12:03;12362
+9870134300001;Dvgw;Deutsche Energy Terminal GmbH;Netzbetreiber;01.01.2024 01:00:00;12362
 37X000000000265F;Dvgw;Deutsche ReGas GmbH & Co. KGaA;LNG System Operator;09.12.2022 09:39:29;12322
 9870133800002;Dvgw;Deutsche ReGas GmbH & Co. KGaA;Netzbetreiber;18.10.2022 15:12:06;12322
 37X000000000055Q;Dvgw;Deutz-Erdgas GmbH & Co. KG;Balance Responsible Party;19.04.2016 21:08:00;328
@@ -388,7 +393,6 @@ CW;Dvgw;citiworks AG;Lieferant / Transportkunde;13.03.2015 15:41:00;260
 9800410200005;Dvgw;DIG Deutsche Industriegas GmbH;Bilanzkreisverantwortlicher;12.08.2015 17:19:00;332
 9800453800002;Dvgw;DIGImeto GmbH & Co. KG;Messstellenbetreiber;21.06.2018 02:00:00;3862
 9800234400005;Dvgw;Dirk Rossmann GmbH;Messstellenbetreiber;07.09.2011 10:44:00;336
-9800129700007;Dvgw;Discovergy GmbH;Messstellenbetreiber;30.09.2014 11:45:00;337
 37X000000000025Z;Dvgw;Dörrenberg Edelstahl GmbH;Consumer;06.11.2015 15:53:00;345
 9800418100009;Dvgw;Dörrenberg Edelstahl GmbH;Lieferant / Transportkunde;09.12.2015 16:27:00;345
 9800500900002;Dvgw;Dörrenberg Edelstahl GmbH;Kapazitätsnutzer;26.08.2020 02:00:00;345
@@ -400,6 +404,7 @@ CW;Dvgw;citiworks AG;Lieferant / Transportkunde;13.03.2015 15:41:00;260
 9870090300004;Dvgw;Dortmunder Netz GmbH;Netzbetreiber;13.01.2015 16:36:00;347
 9800558000002;Dvgw;Dow Olefinverbund GmbH;Lieferant / Transportkunde;31.05.2023 02:00:00;13365
 9800567500001;Dvgw;Dow Olefinverbund GmbH;Messstellenbetreiber;06.12.2023 01:00:00;13365
+9800568800004;Dvgw;Dow Olefinverbund GmbH;Kapazitätsnutzer;15.01.2024 01:00:00;13365
 9800563700001;Dvgw;Dr. Otto Suwelack Nachf. GmbH & Co. KG;Bilanzkreisverantwortlicher;14.09.2023 02:00:00;350
 9800342600000;Dvgw;Dreischtrom GmbH;Lieferant / Transportkunde;01.01.2023 01:00:00;352
 9800513100003;Dvgw;Dreischtrom GmbH;Bilanzkreisverantwortlicher;01.01.2023 01:00:00;352
@@ -429,13 +434,13 @@ CW;Dvgw;citiworks AG;Lieferant / Transportkunde;13.03.2015 15:41:00;260
 9800080300003;Dvgw;E.ON Energie Deutschland GmbH;Lieferant / Transportkunde;21.07.2015 15:35:00;378
 9800315100003;Dvgw;E.ON Energie Deutschland GmbH;Bilanzkreisverantwortlicher;29.07.2015 11:59:00;378
 9800488400009;Dvgw;E.ON Energie Deutschland GmbH;Kapazitätsnutzer;01.07.2020 02:00:00;378
+9800571100003;Dvgw;E.ON Energy Markets GmbH;Bilanzkreisverantwortlicher;11.03.2024 01:00:00;13563
 9800545600005;Dvgw;E.ON Energy Solutions GmbH;Bilanzkreisverantwortlicher;09.08.2022 02:00:00;11311
 9800548900006;Dvgw;E.ON Energy Solutions GmbH;Lieferant / Transportkunde;17.10.2022 02:00:00;11311
 37X000000000140Z;Dvgw;E.ON Gas Mobil GmbH;Consumer;30.06.2021 10:13:11;7135
 9800503800001;Dvgw;E.ON Gas Mobil GmbH;Lieferant / Transportkunde;07.09.2020 02:00:00;7135
 9800503900009;Dvgw;E.ON Gas Mobil GmbH;Bilanzkreisverantwortlicher;07.09.2020 02:00:00;7135
 9800520500006;Dvgw;E.ON Gas Mobil GmbH;Kapazitätsnutzer;28.06.2021 02:00:00;7135
-4260214033003;Dvgw;E.ON Metering GmbH;Messstellenbetreiber;23.03.2022 01:00:00;381
 9800517900003;Dvgw;E.ON Portfolio Solutions GmbH;Lieferant / Transportkunde;12.04.2021 02:00:00;8216
 9800518000000;Dvgw;E.ON Portfolio Solutions GmbH;Bilanzkreisverantwortlicher;12.04.2021 02:00:00;8216
 9800518100008;Dvgw;E.ON Portfolio Solutions GmbH;Kapazitätsnutzer;12.04.2021 02:00:00;8216
@@ -445,7 +450,6 @@ CW;Dvgw;citiworks AG;Lieferant / Transportkunde;13.03.2015 15:41:00;260
 9800518400002;Dvgw;e.optimum home GmbH;Lieferant / Transportkunde;15.04.2021 02:00:00;8219
 9800518500000;Dvgw;e.optimum home GmbH;Bilanzkreisverantwortlicher;15.04.2021 02:00:00;8219
 9800518600008;Dvgw;e.optimum home GmbH;Kapazitätsnutzer;15.04.2021 02:00:00;8219
-9800469700006;Dvgw;E.Q Energy GmbH;Bilanzkreisverantwortlicher;17.04.2019 02:00:00;5961
 9800147700005;Dvgw;E.VITA GmbH;Lieferant / Transportkunde;27.03.2015 09:21:00;389
 9800289900000;Dvgw;E.VITA GmbH;Bilanzkreisverantwortlicher;13.10.2011 10:38:00;389
 9800026000005;Dvgw;e.wa riss GmbH & Co. KG;Lieferant / Transportkunde;25.04.2012 14:43:00;390
@@ -534,6 +538,8 @@ EDFT;Dvgw;EDF Trading Limited;Lieferant / Transportkunde;13.03.2015 15:41:00;416
 9870113400004;Dvgw;Elektrizitätswerke Schönau Netze GmbH;Netzbetreiber;15.02.2013 17:05:00;460
 9800093000004;Dvgw;Elektrizitätswerke Schönau Vertriebs GmbH;Lieferant / Transportkunde;02.09.2009 18:58:00;461
 9800553900009;Dvgw;ELENGER SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ;Bilanzkreisverantwortlicher;14.02.2023 01:00:00;12352
+9800571600003;Dvgw;ELENGER SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ;Lieferant / Transportkunde;25.03.2024 01:00:00;12352
+9800571700001;Dvgw;ELENGER SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ;Kapazitätsnutzer;25.03.2024 01:00:00;12352
 9800480000005;Dvgw;"Elgabo Energiehandel AG                 ";Bilanzkreisverantwortlicher;15.02.2023 01:00:00;7050
 9800480100003;Dvgw;"Elgabo Energiehandel AG                 ";Lieferant / Transportkunde;10.05.2023 02:00:00;7050
 37X000000000086F;Dvgw;e-loops GmbH;Balance Responsible Party;14.03.2018 11:21:29;2843
@@ -553,7 +559,7 @@ EDFT;Dvgw;EDF Trading Limited;Lieferant / Transportkunde;13.03.2015 15:41:00;416
 9800559800005;Dvgw;Emsland-Stärke GmbH;Bilanzkreisverantwortlicher;23.06.2023 02:00:00;12363
 9800266500005;Dvgw;ENA Energienetze Apolda GmbH;Messstellenbetreiber;21.09.2011 12:10:00;471
 9870105500002;Dvgw;ENA Energienetze Apolda GmbH;Netzbetreiber;11.07.2007 15:57:00;471
-9800113700005;Dvgw;EnBW Contracting GmbH;Lieferant / Transportkunde;01.07.2013 09:53:00;1640
+9800113700005;Dvgw;EnBW Contracting GmbH;Lieferant / Transportkunde;23.01.2024 01:00:00;1640
 9800019800008;Dvgw;EnBW Energie Baden-Württemberg AG;Lieferant / Transportkunde;12.12.2014 10:48:00;472
 9800065300002;Dvgw;EnBW Energie Baden-Württemberg AG;Bilanzkreisverantwortlicher;24.11.2015 09:53:00;472
 9800490300007;Dvgw;EnBW Energie Baden-Württemberg AG;Kapazitätsnutzer;21.07.2020 02:00:00;472
@@ -581,6 +587,7 @@ EDFT;Dvgw;EDF Trading Limited;Lieferant / Transportkunde;13.03.2015 15:41:00;416
 9800100900006;Dvgw;eneREGIO GmbH;Lieferant / Transportkunde;30.11.2012 11:55:00;488
 9800337800003;Dvgw;eneREGIO GmbH;Messstellenbetreiber;25.10.2012 14:06:00;488
 9870114400003;Dvgw;eneREGIO GmbH;Netzbetreiber;30.11.2012 11:53:00;488
+9800489500006;Dvgw;Energ Power AG;Bilanzkreisverantwortlicher;17.07.2020 02:00:00;7121
 9800543800003;Dvgw;Energetech Europe B.V.;Bilanzkreisverantwortlicher;15.07.2022 02:00:00;11303
 9800552200004;Dvgw;Energetech Europe B.V.;Lieferant / Transportkunde;06.01.2023 01:00:00;11303
 9800552400000;Dvgw;Energetech Europe B.V.;Kapazitätsnutzer;09.01.2023 01:00:00;11303
@@ -605,6 +612,7 @@ EDFT;Dvgw;EDF Trading Limited;Lieferant / Transportkunde;13.03.2015 15:41:00;416
 9800516700008;Dvgw;Energie für Immobilien GmbH;Lieferant / Transportkunde;26.02.2021 01:00:00;8208
 9800547700001;Dvgw;Energie Kreuzlingen, Stadt Kreuzlingen;Bilanzkreisverantwortlicher;20.09.2022 02:00:00;11322
 9800547800009;Dvgw;Energie Kreuzlingen, Stadt Kreuzlingen;Lieferant / Transportkunde;20.09.2022 02:00:00;11322
+9800570900008;Dvgw;Energie Marburg Biedenkopf GmbH & Co. KG;Lieferant / Transportkunde;29.02.2024 01:00:00;13564
 9800042100003;Dvgw;Energie Mittelsachsen GmbH;Lieferant / Transportkunde;06.04.2016 13:51:00;696
 9800107700003;Dvgw;Energie Mittelsachsen GmbH;Messstellenbetreiber;08.05.2009 13:29:00;696
 9800460900001;Dvgw;Energie Mittelsachsen GmbH;Bilanzkreisverantwortlicher;09.11.2018 01:00:00;696
@@ -627,7 +635,9 @@ EDFT;Dvgw;EDF Trading Limited;Lieferant / Transportkunde;13.03.2015 15:41:00;416
 9870092200004;Dvgw;Energie und Versorgung Butzbach GmbH;Netzbetreiber;12.08.2008 16:26:00;513
 9800022300003;Dvgw;Energie und Wasser Potsdam GmbH;Lieferant / Transportkunde;03.01.2013 15:21:00;514
 9800409000002;Dvgw;Energie und Wasser Potsdam GmbH;Bilanzkreisverantwortlicher;03.08.2015 11:09:00;514
+37X0000000002891;Dvgw;Energie und Wasser Wahlstedt/Bad Segeberg GmbH&Co.KG;Balance Responsible Party;31.01.2024 08:33:53;515
 9800059900008;Dvgw;Energie und Wasser Wahlstedt/Bad Segeberg GmbH&Co.KG;Lieferant / Transportkunde;31.08.2016 19:50:00;515
+9800568900002;Dvgw;Energie und Wasser Wahlstedt/Bad Segeberg GmbH&Co.KG;Bilanzkreisverantwortlicher;16.01.2024 01:00:00;515
 9800029300006;Dvgw;Energie- und Wasserversorgung Altenburg GmbH;Lieferant / Transportkunde;06.01.2011 11:06:00;517
 9800215700002;Dvgw;Energie- und Wasserversorgung Altenburg GmbH;Messstellenbetreiber;25.08.2011 15:10:00;517
 9870044500006;Dvgw;Energie- und Wasserversorgung Altenburg GmbH;Netzbetreiber;12.01.2016 18:30:00;517
@@ -658,6 +668,7 @@ EDFT;Dvgw;EDF Trading Limited;Lieferant / Transportkunde;13.03.2015 15:41:00;416
 9870042900000;Dvgw;Energie- und Wasserwerke Bautzen GmbH;Netzbetreiber;17.10.2016 13:55:00;525
 9800451500000;Dvgw;Energie- und Wirtschaftsberatung Herbert Oepen;Messstellenbetreiber;02.05.2018 02:00:00;2854
 9800024300001;Dvgw;Energie Vorpommern GmbH;Lieferant / Transportkunde;08.07.2015 12:17:00;892
+9800569600007;Dvgw;Energie Vorpommern GmbH;Bilanzkreisverantwortlicher;14.02.2024 01:00:00;892
 9800004400003;Dvgw;Energie Waldeck-Frankenberg GmbH;Lieferant / Transportkunde;15.11.2013 10:08:00;526
 9800197800003;Dvgw;Energie Waldeck-Frankenberg GmbH;Messstellenbetreiber;25.07.2011 12:32:00;526
 9800383500003;Dvgw;Energie Waldeck-Frankenberg GmbH;Bilanzkreisverantwortlicher;01.08.2014 17:52:00;526
@@ -716,6 +727,7 @@ EDFT;Dvgw;EDF Trading Limited;Lieferant / Transportkunde;13.03.2015 15:41:00;416
 9800475700008;Dvgw;EnergieServicePlus GmbH;Lieferant / Transportkunde;15.08.2019 02:00:00;7028
 9800559700007;Dvgw;EnergieServicePlus GmbH;Bilanzkreisverantwortlicher;22.06.2023 02:00:00;7028
 9800054700007;Dvgw;EnergieSüdwest AG;Lieferant / Transportkunde;25.09.2012 15:48:00;559
+9800570800000;Dvgw;EnergieSüdwest AG;Kapazitätsnutzer;28.02.2024 01:00:00;559
 9800228400003;Dvgw;EnergieSüdwest Netz GmbH;Messstellenbetreiber;06.09.2011 12:18:00;560
 9870019100005;Dvgw;EnergieSüdwest Netz GmbH;Netzbetreiber;11.02.2011 10:30:00;560
 9800086700009;Dvgw;ENERGIEUNION GmbH;Bilanzkreisverantwortlicher;05.11.2012 14:27:00;562
@@ -756,6 +768,7 @@ EDFT;Dvgw;EDF Trading Limited;Lieferant / Transportkunde;13.03.2015 15:41:00;416
 9800006000009;Dvgw;Energieversorgung Leverkusen GmbH & Co. KG;Lieferant / Transportkunde;11.06.2013 08:34:00;583
 9800058800001;Dvgw;Energieversorgung Limburg GmbH;Lieferant / Transportkunde;31.08.2016 19:51:00;584
 9800108700002;Dvgw;Energieversorgung Limburg GmbH;Messstellenbetreiber;18.05.2009 15:42:00;584
+9800571800009;Dvgw;Energieversorgung Limburg GmbH;Bilanzkreisverantwortlicher;26.03.2024 01:00:00;584
 9870075500009;Dvgw;Energieversorgung Limburg GmbH;Netzbetreiber;18.11.2010 16:12:00;584
 9800036200009;Dvgw;Energieversorgung Lohr-Karlstadt und Umgebung GmbH & Co. KG;Lieferant / Transportkunde;16.07.2007 17:09:00;585
 9800108400008;Dvgw;Energieversorgung Lohr-Karlstadt und Umgebung GmbH & Co. KG;Messstellenbetreiber;12.05.2009 11:37:00;585
@@ -824,6 +837,7 @@ EDFT;Dvgw;EDF Trading Limited;Lieferant / Transportkunde;13.03.2015 15:41:00;416
 9800370200004;Dvgw;Energy & More Energiebroker GmbH und Co. KG;Bilanzkreisverantwortlicher;02.12.2013 10:35:00;613
 9800370300002;Dvgw;Energy & More Management GmbH;Lieferant / Transportkunde;02.12.2013 10:35:00;614
 9800370400000;Dvgw;Energy & More Management GmbH;Bilanzkreisverantwortlicher;02.12.2013 10:35:00;614
+9800568700006;Dvgw;ENERGY EXPERIENCE;Lieferant / Transportkunde;12.01.2024 01:00:00;13549
 9800524500002;Dvgw;Energy Gate Europe Sp. z o.o.;Bilanzkreisverantwortlicher;11.10.2021 02:00:00;9253
 9800555600003;Dvgw;ENERGY TRADING COMPANY, s.r.o.;Bilanzkreisverantwortlicher;14.04.2023 02:00:00;12357
 9800160900004;Dvgw;Energy2day GmbH;Lieferant / Transportkunde;31.07.2015 10:46:00;624
@@ -843,8 +857,6 @@ EDFT;Dvgw;EDF Trading Limited;Lieferant / Transportkunde;13.03.2015 15:41:00;416
 9800160300006;Dvgw;enewo eG;Messstellenbetreiber;11.10.2010 18:28:00;636
 9800118100002;Dvgw;enexion GmbH;Bilanzkreisverantwortlicher;16.12.2021 01:00:00;637
 9800566000002;Dvgw;enexion GmbH;Lieferant / Transportkunde;08.11.2023 01:00:00;637
-4260690090002;Dvgw;EnExpert GmbH;Lieferant / Transportkunde;07.03.2022 01:00:00;7118
-9800488900009;Dvgw;EnExpert GmbH;Bilanzkreisverantwortlicher;07.03.2022 01:00:00;7118
 37X0000000000899;Dvgw;ENGIE Deutschland AG;Balance Responsible Party;07.05.2018 16:29:59;639
 9800061700008;Dvgw;ENGIE Deutschland AG;Lieferant / Transportkunde;10.02.2016 12:18:00;639
 9800438100005;Dvgw;ENGIE Deutschland AG;Bilanzkreisverantwortlicher;08.03.2017 01:00:00;639
@@ -916,9 +928,6 @@ EGENOI;Dvgw;ENOI S.r.l. in Liquidazione;Lieferant / Transportkunde;07.06.2023 17
 9800563500005;Dvgw;EnviTec Bioenergie Güstrow GmbH;Kapazitätsnutzer;06.09.2023 02:00:00;8220
 9800330600004;Dvgw;EnviTec Energy GmbH & Co. KG;Lieferant / Transportkunde;28.11.2012 16:44:00;683
 9800558100000;Dvgw;EnviTec Energy GmbH & Co. KG;Kapazitätsnutzer;01.06.2023 02:00:00;683
-37X000000000108V;Dvgw;envitra Energie GmbH;Balance Group Responsible Party;21.02.2022 11:52:21;3871
-9800455300000;Dvgw;envitra Energie GmbH;Lieferant / Transportkunde;21.02.2022 11:52:21;3871
-9800472100003;Dvgw;envitra Energie GmbH;Bilanzkreisverantwortlicher;21.02.2022 11:52:21;3871
 9800026200001;Dvgw;enwag energie- und wassergesellschaft mbh;Lieferant / Transportkunde;03.05.2007 13:49:00;684
 9800193300007;Dvgw;enwag energie- und wassergesellschaft mbh;Messstellenbetreiber;13.07.2011 13:30:00;684
 9870031100009;Dvgw;enwag energie- und wassergesellschaft mbh;Netzbetreiber;03.05.2007 13:49:00;684
@@ -938,6 +947,7 @@ EGENOI;Dvgw;ENOI S.r.l. in Liquidazione;Lieferant / Transportkunde;07.06.2023 17
 9800485000000;Dvgw;EPR Metering GmbH;Messstellenbetreiber;30.03.2020 02:00:00;5956
 9800049500008;Dvgw;eprimo GmbH;Lieferant / Transportkunde;19.02.2016 12:49:00;690
 9800411300002;Dvgw;eprimo GmbH;Bilanzkreisverantwortlicher;19.08.2015 12:10:00;690
+9800469700006;Dvgw;EQ.energy GmbH;Bilanzkreisverantwortlicher;17.04.2019 02:00:00;5961
 9800089400002;Dvgw;Equinor ASA;Lieferant / Transportkunde;14.04.2011 17:27:00;2284
 9800349400007;Dvgw;Equinor ASA;Bilanzkreisverantwortlicher;03.04.2013 18:13:00;2284
 9800491500002;Dvgw;Equinor ASA;Kapazitätsnutzer;21.07.2020 02:00:00;2284
@@ -1123,7 +1133,7 @@ ESFORIN;Dvgw;ES FOR IN SE;Bilanzkreisverantwortlicher;29.07.2015 12:07:00;721
 9800178900004;Dvgw;FORTUM Marketing and Sales Polska S.A.;Bilanzkreisverantwortlicher;29.08.2013 10:05:00;361
 37X000000000142V;Dvgw;Forward Energie GmbH;Market Operator;22.07.2021 16:33:38;8199
 9800521900007;Dvgw;Forward Energie GmbH;Lieferant / Transportkunde;22.07.2021 02:00:00;8199
-9800547000005;Dvgw;Frankenmetering GmbH & Co. KG;Messstellenbetreiber;05.09.2022 02:00:00;11320
+9800547000005;Dvgw;Frankenmetering GmbH & Co. KG;Messstellenbetreiber;31.01.2024 01:00:00;11320
 9800391500003;Dvgw;Franz X. Heinritzi & Söhne GmbH;Lieferant / Transportkunde;03.11.2014 16:36:00;813
 9800467300006;Dvgw;Freepoint Commodities B.V;Bilanzkreisverantwortlicher;13.02.2019 01:00:00;5946
 9800310600008;Dvgw;Freepoint Commodities Europe LLP;Bilanzkreisverantwortlicher;06.02.2012 18:08:00;814
@@ -1161,13 +1171,13 @@ ESFORIN;Dvgw;ES FOR IN SE;Bilanzkreisverantwortlicher;29.07.2015 12:07:00;721
 9800486600007;Dvgw;Gas and Electricity Trading GmbH;Lieferant / Transportkunde;30.04.2020 02:00:00;7102
 9800162700006;Dvgw;GAS IN GmbH;Lieferant / Transportkunde;03.08.2023 18:15:07;833
 9800408600001;Dvgw;GAS IN GmbH;Bilanzkreisverantwortlicher;03.08.2023 18:15:07;833
-9800192100002;Dvgw;Gas Natural Europe SAS;Lieferant / Transportkunde;14.03.2022 01:00:00;834
-9800358300008;Dvgw;Gas Natural Europe SAS;Bilanzkreisverantwortlicher;14.03.2022 01:00:00;834
+9800568600008;Dvgw;Gas Natural Comercializadora, S.A;Bilanzkreisverantwortlicher;11.01.2024 01:00:00;13548
+9800569100007;Dvgw;Gas Natural Comercializadora, S.A;Lieferant / Transportkunde;29.01.2024 01:00:00;13548
 9800061400004;Dvgw;Gas- und Energiegenossenschaft Ost- und Mitteldeutschland eg (GEG);Lieferant / Transportkunde;29.08.2012 16:20:00;838
 9800421100004;Dvgw;Gas- und Energiegenossenschaft Ost- und Mitteldeutschland eg (GEG);Bilanzkreisverantwortlicher;18.01.2016 14:19:00;838
 9800441000002;Dvgw;Gas- und Energiegesellschaft mbH;Bilanzkreisverantwortlicher;05.06.2017 02:00:00;1262
 9800468700007;Dvgw;Gas- und Energiegesellschaft mbH;Lieferant / Transportkunde;26.03.2019 01:00:00;1262
-9800512100004;Dvgw;Gas und Strom Mittelrhein GmbH;Lieferant / Transportkunde;11.11.2020 01:00:00;7192
+9800512100004;Dvgw;Gas und Strom Mittelrhein GmbH;Lieferant / Transportkunde;21.02.2024 01:00:00;7192
 37X000000000034Y;Dvgw;Gas und Wärme GmbH Bad Aibling;Balance Supplier;12.02.2016 17:09:00;840
 9800070300005;Dvgw;Gas und Wärme GmbH Bad Aibling;Lieferant / Transportkunde;12.01.2011 11:32:00;840
 9800136300006;Dvgw;Gas und Wärme GmbH Bad Aibling;Messstellenbetreiber;06.04.2010 14:53:00;840
@@ -1395,9 +1405,6 @@ GXP;Dvgw;Gazprom Export LLC;Lieferant / Transportkunde;01.01.2023 01:00:00;904
 9870010400008;Dvgw;Gemeindewerke Trappenkamp;Netzbetreiber;20.03.2012 12:51:00;961
 9800126600002;Dvgw;Gemeindewerke Umkirch GmbH;Lieferant / Transportkunde;08.03.2016 12:20:00;962
 9800259100002;Dvgw;Gemeindewerke Umkirch GmbH;Messstellenbetreiber;17.09.2014 12:31:00;962
-9800054800005;Dvgw;Gemeindewerke Weidenthal;Lieferant / Transportkunde;14.06.2013 13:35:00;963
-9800342000002;Dvgw;Gemeindewerke Weidenthal;Messstellenbetreiber;08.01.2013 15:23:00;963
-9870075600007;Dvgw;Gemeindewerke Weidenthal;Netzbetreiber;14.06.2013 13:36:00;963
 37X000000000060X;Dvgw;Gemeindewerke Wendelstein Gasversorgung GmbH;Balance Supplier;20.06.2016 17:22:00;965
 9800385700007;Dvgw;Gemeindewerke Wendelstein Gasversorgung GmbH;Messstellenbetreiber;15.08.2014 11:44:00;965
 9800426200007;Dvgw;Gemeindewerke Wendelstein Gasversorgung GmbH;Lieferant / Transportkunde;12.05.2016 19:04:00;965
@@ -1458,7 +1465,7 @@ GLEN;Dvgw;Glencore Energy UK Ltd;Lieferant / Transportkunde;13.03.2015 15:41:00;
 9800531100001;Dvgw;Glotec Team Vermögensverwaltung GmbH & Co. KG;Bilanzkreisverantwortlicher;05.04.2022 02:00:00;9292
 9800091400008;Dvgw;goldgas GmbH;Lieferant / Transportkunde;10.02.2016 16:36:00;1002
 9800411400000;Dvgw;goldgas GmbH;Bilanzkreisverantwortlicher;27.04.2016 16:51:00;1002
-9800137600009;Dvgw;Goldman Sachs;Lieferant / Transportkunde;01.01.2023 01:00:00;1004
+9800137600009;Dvgw;Goldman Sachs International;Lieferant / Transportkunde;01.01.2023 01:00:00;1004
 9800474100001;Dvgw;Göteborg Energi AB;Bilanzkreisverantwortlicher;30.07.2019 02:00:00;1005
 37X0000000001042;Dvgw;Goxx Energie GmbH;Balance Responsible Party;27.03.2019 16:18:38;5955
 37X000000000080R;Dvgw;GOXX Ltd. Niederlassung Deutschland;Balance Responsible Party;08.11.2017 14:25:20;2818
@@ -1495,6 +1502,7 @@ GLEN;Dvgw;Glencore Energy UK Ltd;Lieferant / Transportkunde;13.03.2015 15:41:00;
 37X0000000001018;Dvgw;Gunvor Raffinerie Ingolstadt GmbH;Balance Supplier;12.12.2018 11:05:37;2660
 9800464200001;Dvgw;Gunvor Raffinerie Ingolstadt GmbH;Lieferant / Transportkunde;12.12.2018 01:00:00;2660
 9800552800002;Dvgw;"GUS TRADE Hungary KFT ";Bilanzkreisverantwortlicher;17.01.2023 01:00:00;12331
+9800571500005;Dvgw;Gut Gröbers GmbH & Co. KG;Lieferant / Transportkunde;22.03.2024 01:00:00;13570
 9800022100007;Dvgw;GVG Rhein-Erft GmbH;Lieferant / Transportkunde;02.09.2011 10:22:00;899
 9800124500006;Dvgw;GVG Rhein-Erft GmbH;Messstellenbetreiber;03.11.2009 15:39:00;899
 9800026600003;Dvgw;GVH Gasversorgung Haar GmbH;Lieferant / Transportkunde;01.07.2010 16:13:00;1030
@@ -1530,6 +1538,7 @@ GLEN;Dvgw;Glencore Energy UK Ltd;Lieferant / Transportkunde;13.03.2015 15:41:00;
 9800347000007;Dvgw;HANDEN Sp. z o.o.;Lieferant / Transportkunde;28.02.2013 12:50:00;1051
 9800485900002;Dvgw;HANDEN Sp. z o.o.;Bilanzkreisverantwortlicher;03.04.2020 02:00:00;1051
 9800412100005;Dvgw;Hans Engelke Energie OHG;Lieferant / Transportkunde;02.09.2015 17:27:00;1052
+9800570100004;Dvgw;Hansa Baustoffwerke Parchim GmbH;Bilanzkreisverantwortlicher;20.02.2024 01:00:00;13560
 9800137100009;Dvgw;HanseGas GmbH;Messstellenbetreiber;30.09.2014 15:22:00;1053
 9870033900001;Dvgw;HanseGas GmbH;Netzbetreiber;30.09.2014 15:19:00;1053
 9800149500007;Dvgw;HanseWerk Natur GmbH;Lieferant / Transportkunde;15.10.2014 10:18:00;1054
@@ -1563,7 +1572,6 @@ GLEN;Dvgw;Glencore Energy UK Ltd;Lieferant / Transportkunde;13.03.2015 15:41:00;
 9800404500007;Dvgw;Henkel AG & Co. KGaA;Netznutzer ohne-all-inklusive Vertrag;28.05.2015 02:00:00;1077
 9800102600000;Dvgw;Hera Trading S.r.l;Bilanzkreisverantwortlicher;19.03.2013 11:13:00;1078
 9800196200006;Dvgw;Herm GmbH & Co. KG;Lieferant / Transportkunde;02.06.2014 14:51:00;1079
-9800102800006;Dvgw;Hermann Bantleon GmbH;Lieferant / Transportkunde;01.02.2022 11:32:10;1080
 9800086800007;Dvgw;Hertener Energiehandelsgesellschaft mbH;Lieferant / Transportkunde;10.09.2008 14:52:00;1082
 9800040800001;Dvgw;Hertener Stadtwerke GmbH;Lieferant / Transportkunde;03.11.2014 11:48:00;1083
 9800260100009;Dvgw;Hertener Stadtwerke GmbH;Messstellenbetreiber;16.09.2011 14:46:00;1083
@@ -1582,6 +1590,7 @@ GLEN;Dvgw;Glencore Energy UK Ltd;Lieferant / Transportkunde;13.03.2015 15:41:00;
 4260342980002;Dvgw;Hingsen Energie Consultants GmbH;Netznutzer ohne-all-inklusive Vertrag;01.01.2023 01:00:00;1090
 9800382700000;Dvgw;Hingsen Energie Consultants GmbH;Bilanzkreisverantwortlicher;01.01.2023 01:00:00;1090
 9800128100000;Dvgw;HochsauerlandEnergie GmbH;Lieferant / Transportkunde;14.12.2009 14:04:00;1094
+9800570200002;Dvgw;Hochwald Foods GmbH;Bilanzkreisverantwortlicher;20.02.2024 01:00:00;13554
 9800556000004;Dvgw;Hock Biogas kann's GmbH;Lieferant / Transportkunde;20.04.2023 02:00:00;12358
 9800134200000;Dvgw;Hofer Energiedienstleistungen GmbH;Lieferant / Transportkunde;16.03.2010 15:30:00;1095
 9800555000005;Dvgw;homee GmbH;Lieferant / Transportkunde;23.03.2023 01:00:00;12354
@@ -1633,6 +1642,7 @@ GLEN;Dvgw;Glencore Energy UK Ltd;Lieferant / Transportkunde;13.03.2015 15:41:00;
 9800511900009;Dvgw;INEOS Phenol GmbH;Lieferant / Transportkunde;06.11.2020 01:00:00;7188
 9800115900009;Dvgw;inetz GmbH;Messstellenbetreiber;25.08.2014 18:22:00;1128
 9870047100001;Dvgw;inetz GmbH;Netzbetreiber;25.08.2014 18:13:00;1128
+9800129700007;Dvgw;inexogy smart metering GmbH & Co. KG;Messstellenbetreiber;30.09.2014 11:45:00;337
 9800057600006;Dvgw;infra fürth gmbh;Lieferant / Transportkunde;06.09.2011 11:41:00;1131
 9800103200007;Dvgw;infra fürth gmbh;Messstellenbetreiber;30.03.2009 15:26:00;1131
 9800508700008;Dvgw;infra fürth gmbh;Kapazitätsnutzer;29.09.2020 02:00:00;1131
@@ -1662,8 +1672,6 @@ GLEN;Dvgw;Glencore Energy UK Ltd;Lieferant / Transportkunde;13.03.2015 15:41:00;
 9870039900005;Dvgw;INNergie GmbH;Netzbetreiber;14.07.2014 17:12:00;1141
 9800470100005;Dvgw;innogy Energie s.r.o.;Lieferant / Transportkunde;30.04.2019 02:00:00;5960
 9800511000007;Dvgw;innogy Energie s.r.o.;Bilanzkreisverantwortlicher;19.10.2020 02:00:00;5960
-9800113800003;Dvgw;innogy SE;Lieferant / Transportkunde;24.01.2022 17:50:53;1143
-9800368800006;Dvgw;innogy SE;Messdienstleister;24.01.2022 17:50:53;1143
 37X000000000056O;Dvgw;Inovyn Deutschland GmbH;Balance Responsible Party;27.04.2016 17:42:00;1146
 9800425300006;Dvgw;Inovyn Deutschland GmbH;Lieferant / Transportkunde;04.05.2016 11:48:00;1146
 9800389700003;Dvgw;inteligy GmbH;Bilanzkreisverantwortlicher;01.01.2024 01:00:00;1147
@@ -1756,6 +1764,8 @@ GLEN;Dvgw;Glencore Energy UK Ltd;Lieferant / Transportkunde;13.03.2015 15:41:00;
 9800288100007;Dvgw;KU Stadtwerke Klingenberg (AöR);Messstellenbetreiber;11.10.2011 14:45:00;1223
 9800510400000;Dvgw;KU Stadtwerke Klingenberg (AöR);Kapazitätsnutzer;12.10.2020 02:00:00;1223
 9870090700006;Dvgw;KU Stadtwerke Klingenberg (AöR);Netzbetreiber;13.12.2007 16:25:00;1223
+9800572000004;Dvgw;Land Nordrhein-Westfalen vertreten durch Bau- und Liegenschaftsbetrieb NRW;Lieferant / Transportkunde;26.03.2024 01:00:00;13567
+9800572100002;Dvgw;Land Nordrhein-Westfalen vertreten durch Bau- und Liegenschaftsbetrieb NRW;Bilanzkreisverantwortlicher;26.03.2024 01:00:00;13567
 9800424400005;Dvgw;LandStrom GmbH & Co.KG;Lieferant / Transportkunde;31.03.2016 19:53:00;1244
 9800522100002;Dvgw;Landwärme CE Trading Kft;Lieferant / Transportkunde;29.07.2021 02:00:00;9239
 9800522200000;Dvgw;Landwärme CE Trading Kft;Bilanzkreisverantwortlicher;29.07.2021 02:00:00;9239
@@ -1786,7 +1796,7 @@ GLEN;Dvgw;Glencore Energy UK Ltd;Lieferant / Transportkunde;13.03.2015 15:41:00;
 9800325900005;Dvgw;Leitungspartner GmbH;Messstellenbetreiber;08.01.2013 09:35:00;1251
 9870116800003;Dvgw;Leitungspartner GmbH;Netzbetreiber;21.12.2012 10:52:00;1251
 9800019100002;Dvgw;lekker Energie GmbH;Lieferant / Transportkunde;20.05.2016 11:52:00;1252
-9800307400007;Dvgw;Lenz Energie AG;Lieferant / Transportkunde;02.06.2014 15:03:00;1253
+9800307400007;Dvgw;Lenz Energie AG;Lieferant / Transportkunde;02.06.2014 02:00:00;1253
 37X0000000001123;Dvgw;Leu Energie GmbH & Co. KG;Balance Responsible Party;30.09.2019 18:53:02;1254
 9800340800008;Dvgw;Leu Energie GmbH & Co. KG;Lieferant / Transportkunde;08.07.2014 13:57:00;1254
 9800478100007;Dvgw;Leu Energie GmbH & Co. KG;Bilanzkreisverantwortlicher;30.09.2019 02:00:00;1254
@@ -1868,11 +1878,9 @@ MCQ;Dvgw;Macquarie Bank Limited;Lieferant / Transportkunde;13.03.2015 15:41:00;1
 9800144600000;Dvgw;Mark-E Aktiengesellschaft;Messstellenbetreiber;31.05.2010 16:02:00;1294
 9800170500000;Dvgw;Mark-E Aktiengesellschaft;Bilanzkreisverantwortlicher;12.01.2016 12:25:00;1294
 9800502200004;Dvgw;Mark-E Aktiengesellschaft;Kapazitätsnutzer;31.08.2020 02:00:00;1294
-9800557200009;Dvgw;Markus Jacobs Bio-Energie;Lieferant / Transportkunde;11.05.2023 02:00:00;13361
 9800251700008;Dvgw;Martinrea Honsel Germany GmbH;Lieferant / Transportkunde;14.09.2011 11:38:00;1297
-37X000000000117U;Dvgw;MAVEG Industrieausrüstungen GmbH;Balance Group Responsible Party;11.03.2022 01:00:00;7076
 9800072000009;Dvgw;MaxEnergy GmbH;Lieferant / Transportkunde;08.09.2008 17:15:00;1300
-9800171400001;Dvgw;Mediaelektrik Bock GmbH & Co. KG;Messstellenbetreiber;01.02.2011 11:49:00;462
+9800171400001;Dvgw;Mediaelektrik Bock GmbH & Co. KG;Messstellenbetreiber;24.02.2024 01:00:00;462
 9800006900001;Dvgw;medl GmbH;Lieferant / Transportkunde;28.10.2016 17:16:00;1304
 9800109800009;Dvgw;medl GmbH;Messstellenbetreiber;20.12.2011 12:22:00;1304
 9800547500005;Dvgw;medl GmbH;Bilanzkreisverantwortlicher;15.09.2022 02:00:00;1304
@@ -1894,7 +1902,7 @@ MCQ;Dvgw;Macquarie Bank Limited;Lieferant / Transportkunde;13.03.2015 15:41:00;1
 9800524600000;Dvgw;Mercer Stendal GmbH;Lieferant / Transportkunde;11.10.2021 02:00:00;9241
 9870134000007;Dvgw;Mercer Stendal GmbH;Netzbetreiber;09.03.2023 10:20:16;9241
 9800076000005;Dvgw;Mercuria Energy Trading SA;Bilanzkreisverantwortlicher;23.08.2011 12:38:00;1312
-37X000000000272I;Dvgw;Merkel Energy GmbH;Consumer;11.05.2023 15:00:13;13360
+37X000000000272I;Dvgw;Merkel Energy GmbH;Consumer;12.05.2023 02:00:00;13360
 9800514000004;Dvgw;MET Germany GmbH;Lieferant / Transportkunde;18.12.2020 01:00:00;7200
 9800515800007;Dvgw;MET Germany GmbH;Bilanzkreisverantwortlicher;03.02.2021 01:00:00;7200
 9800528700004;Dvgw;MET Germany GmbH;Kapazitätsnutzer;12.01.2022 01:00:00;7200
@@ -1949,6 +1957,8 @@ MCQ;Dvgw;Macquarie Bank Limited;Lieferant / Transportkunde;13.03.2015 15:41:00;1
 9800422700001;Dvgw;Mondelez Deutschland Snacks Production GmbH & Co. KG;Messstellenbetreiber;19.02.2016 11:37:00;1346
 9800060500003;Dvgw;MONTANA Energieversorgung GmbH & Co. KG;Lieferant / Transportkunde;15.05.2014 11:27:00;1349
 9800350800006;Dvgw;MONTANA Energieversorgung GmbH & Co. KG;Bilanzkreisverantwortlicher;12.05.2014 16:29:00;1349
+9800076800009;Dvgw;Morgan Stanley Capital Group Inc.;Lieferant / Transportkunde;14.04.2011 02:00:00;1351
+9800569200005;Dvgw;Morgan Stanley Capital Group Inc.;Bilanzkreisverantwortlicher;02.02.2024 01:00:00;1351
 9800324900006;Dvgw;Mundt GmbH Hannover;Lieferant / Transportkunde;04.08.2015 15:45:00;1357
 9800516500002;Dvgw;MVM CEEnergy CZ s.r.o.;Bilanzkreisverantwortlicher;19.02.2021 01:00:00;8201
 9800516600000;Dvgw;MVM CEEnergy CZ s.r.o.;Lieferant / Transportkunde;19.02.2021 01:00:00;8201
@@ -1977,14 +1987,15 @@ MCQ;Dvgw;Macquarie Bank Limited;Lieferant / Transportkunde;13.03.2015 15:41:00;1
 9800460500009;Dvgw;Nature Energy Green Gas Sales A/S;Lieferant / Transportkunde;05.11.2018 01:00:00;5899
 9800461400000;Dvgw;Nature Energy Green Gas Sales A/S;Bilanzkreisverantwortlicher;12.11.2018 01:00:00;5899
 4260016042005;Dvgw;naturenergie hochrhein AG;Lieferant / Transportkunde;07.10.2011 18:33:00;529
+9800557200009;Dvgw;Natur-Energie Ostharz GmbH & Co. KG;Lieferant / Transportkunde;11.05.2023 02:00:00;13361
 9800417500002;Dvgw;NatürlichEnergie EMH GmbH;Lieferant / Transportkunde;23.10.2015 15:39:00;1375
 9800128200008;Dvgw;NaturStromHandel GmbH;Lieferant / Transportkunde;14.12.2015 10:39:00;1376
 9800123800001;Dvgw;NBB Netzgesellschaft Berlin-Brandenburg mbH & Co. KG;Messstellenbetreiber;05.04.2011 15:50:00;1377
 9870008200006;Dvgw;NBB Netzgesellschaft Berlin-Brandenburg mbH & Co. KG;Netzbetreiber;31.07.2014 16:37:00;1377
 9800326600000;Dvgw;Neander-Energie GmbH;Lieferant / Transportkunde;09.07.2012 17:25:00;1378
-37X000000000068H;Dvgw;Neckermann Strom GmbH;Balance Responsible Party;28.07.2023 11:06:06;1380
-9800424700009;Dvgw;Neckermann Strom GmbH;Lieferant / Transportkunde;28.07.2023 11:06:06;1380
-9800424800007;Dvgw;Neckermann Strom GmbH;Bilanzkreisverantwortlicher;28.07.2023 11:06:06;1380
+37X000000000068H;Dvgw;Neckermann Strom GmbH;Balance Responsible Party;01.01.2023 01:00:00;1380
+9800424700009;Dvgw;Neckermann Strom GmbH;Lieferant / Transportkunde;28.10.2016 02:00:00;1380
+9800424800007;Dvgw;Neckermann Strom GmbH;Bilanzkreisverantwortlicher;26.04.2016 02:00:00;1380
 9800554600004;Dvgw;NEL Gastransport GmbH;Bilanzkreisverantwortlicher;14.03.2023 01:00:00;1381
 9870117000008;Dvgw;NEL Gastransport GmbH;Netzbetreiber;13.09.2012 15:33:00;1381
 9800069800008;Dvgw;N-ERGIE Aktiengesellschaft;Lieferant / Transportkunde;30.08.2010 16:55:00;1383
@@ -2083,6 +2094,7 @@ MCQ;Dvgw;Macquarie Bank Limited;Lieferant / Transportkunde;13.03.2015 15:41:00;1
 9870122200007;Dvgw;Nord Stream AG;Netzbetreiber;26.11.2019 10:24:00;7056
 9800186500002;Dvgw;Nordhausen Netz GmbH;Messstellenbetreiber;01.12.2014 11:51:00;1446
 9870108700005;Dvgw;Nordhausen Netz GmbH;Netzbetreiber;01.12.2014 11:50:00;1446
+9800570000006;Dvgw;Nord-KS GmbH & Co. KG;Bilanzkreisverantwortlicher;20.02.2024 01:00:00;13559
 9800544100006;Dvgw;NordNetz GmbH;Messstellenbetreiber;19.07.2022 02:00:00;10306
 9870133600006;Dvgw;NordNetz GmbH;Netzbetreiber;15.07.2022 11:57:49;10306
 9800459400004;Dvgw;Norlys Energi A/S;Lieferant / Transportkunde;08.06.2022 02:00:00;7063
@@ -2111,8 +2123,6 @@ MCQ;Dvgw;Macquarie Bank Limited;Lieferant / Transportkunde;13.03.2015 15:41:00;1
 9870036100004;Dvgw;nvb Nordhorner Versorgungsbetriebe GmbH;Netzbetreiber;01.10.2015 14:29:00;1459
 9800519600007;Dvgw;NWG Metering GmbH;Messstellenbetreiber;15.08.2023 14:23:28;8228
 9800377600009;Dvgw;NWG Power GmbH;Lieferant / Transportkunde;04.04.2014 11:35:00;1460
-9800195400003;Dvgw;NWS Netzwerke Saarwellingen GmbH;Messstellenbetreiber;15.03.2022 16:23:55;1461
-9870046500004;Dvgw;NWS Netzwerke Saarwellingen GmbH;Netzbetreiber;15.03.2022 16:23:55;1461
 9800550000000;Dvgw;Nyrstar Stolberg GmbH;Lieferant / Transportkunde;09.11.2022 01:00:00;12330
 9800550500000;Dvgw;Nyrstar Stolberg GmbH;Bilanzkreisverantwortlicher;11.11.2022 01:00:00;12330
 9800521700001;Dvgw;Oberbillig Energie GmbH;Lieferant / Transportkunde;21.07.2021 02:00:00;9236
@@ -2130,6 +2140,8 @@ MCQ;Dvgw;Macquarie Bank Limited;Lieferant / Transportkunde;13.03.2015 15:41:00;1
 37X000000000151U;Dvgw;Octopus Energy Germany GmbH;Balance Responsible Party;13.12.2021 13:28:17;2755
 9800441100000;Dvgw;Octopus Energy Germany GmbH;Lieferant / Transportkunde;06.06.2017 02:00:00;2755
 9800443500000;Dvgw;Octopus Energy Germany GmbH;Bilanzkreisverantwortlicher;14.08.2017 02:00:00;2755
+9800406200001;Dvgw;Octopus Energy Germany Operations GmbH;Lieferant / Transportkunde;23.06.2015 12:27:00;800
+9800435500000;Dvgw;Octopus Energy Germany Operations GmbH;Bilanzkreisverantwortlicher;20.12.2016 10:05:00;800
 9800018200001;Dvgw;Ohra Energie GmbH;Lieferant / Transportkunde;05.04.2016 10:06:00;1469
 9800203600008;Dvgw;Ohra Energie GmbH;Messstellenbetreiber;18.10.2012 11:10:00;1469
 9870006300006;Dvgw;Ohra Energie GmbH;Netzbetreiber;05.04.2016 10:08:00;1469
@@ -2204,7 +2216,6 @@ MCQ;Dvgw;Macquarie Bank Limited;Lieferant / Transportkunde;13.03.2015 15:41:00;1
 9800512900008;Dvgw;PGNiG S.A.;Bilanzkreisverantwortlicher;01.01.2023 01:00:00;1516
 9800316200000;Dvgw;PGNiG Supply & Trading GmbH;Bilanzkreisverantwortlicher;24.05.2016 11:06:00;1517
 9800543700005;Dvgw;PGNiG Supply & Trading GmbH;Lieferant / Transportkunde;12.07.2022 02:00:00;1517
-9800529600005;Dvgw;Pilkington Deutschland AG;Kapazitätsnutzer;10.02.2022 01:00:00;9285
 9800561400009;Dvgw;PitPoint.DE GmbH;Lieferant / Transportkunde;18.07.2023 02:00:00;13384
 9800137400003;Dvgw;Plattform Energie GmbH;Lieferant / Transportkunde;12.04.2010 10:51:00;1522
 9800474200009;Dvgw;Plattform Energie GmbH;Bilanzkreisverantwortlicher;30.07.2019 02:00:00;1522
@@ -2216,6 +2227,8 @@ MCQ;Dvgw;Macquarie Bank Limited;Lieferant / Transportkunde;13.03.2015 15:41:00;1
 9800401500000;Dvgw;PortfolioWerkStadt GmbH;Bilanzkreisverantwortlicher;14.04.2015 13:56:00;1529
 9800509700007;Dvgw;Powermart Aps;Bilanzkreisverantwortlicher;07.10.2020 02:00:00;7185
 9800510500008;Dvgw;Powermart Aps;Lieferant / Transportkunde;13.10.2020 02:00:00;7185
+9800487700004;Dvgw;Powertica Commodities AG;Bilanzkreisverantwortlicher;12.06.2020 02:00:00;7111
+9800500400002;Dvgw;Powertica Commodities AG;Lieferant / Transportkunde;25.08.2020 02:00:00;7111
 9800454200003;Dvgw;PPD Global SA;Bilanzkreisverantwortlicher;04.07.2018 02:00:00;3863
 9800179700007;Dvgw;Präg Strom & Gas GmbH & Co. KG;Lieferant / Transportkunde;06.04.2011 16:38:00;1536
 9800434300005;Dvgw;Präg Strom & Gas GmbH & Co. KG;Bilanzkreisverantwortlicher;15.11.2016 12:19:00;1536
@@ -2232,7 +2245,6 @@ MCQ;Dvgw;Macquarie Bank Limited;Lieferant / Transportkunde;13.03.2015 15:41:00;1
 37X000000000280J;Dvgw;primavolt GmbH;Balance Responsible Party;10.07.2023 11:28:23;13381
 9800560500008;Dvgw;primavolt GmbH;Lieferant / Transportkunde;07.07.2023 02:00:00;13381
 9800560600006;Dvgw;primavolt GmbH;Bilanzkreisverantwortlicher;07.07.2023 02:00:00;13381
-9800458700009;Dvgw;"Priogen Energy B.V. ";Lieferant / Transportkunde;24.02.2022 01:00:00;5879
 9800516900004;Dvgw;PRO-E Preußisch Oldendorfer Energieversorgung GmbH;Lieferant / Transportkunde;04.03.2021 01:00:00;8198
 9800296300003;Dvgw;proefa GmbH;Lieferant / Transportkunde;09.11.2011 09:14:00;1548
 9800372700002;Dvgw;Proengeno GmbH & Co. KG;Lieferant / Transportkunde;23.07.2014 12:52:00;1549
@@ -2300,6 +2312,7 @@ MCQ;Dvgw;Macquarie Bank Limited;Lieferant / Transportkunde;13.03.2015 15:41:00;1
 9800530100002;Dvgw;Respect Energy Fuels Sp. z o.o.;Lieferant / Transportkunde;02.03.2022 01:00:00;7204
 37X000000000260P;Dvgw;revis bioenergy GmbH;Energy Supplier;25.10.2022 11:15:31;12327
 9800549300007;Dvgw;revis bioenergy GmbH;Lieferant / Transportkunde;24.10.2022 02:00:00;12327
+9800571000005;Dvgw;revis bioenergy GmbH;Kapazitätsnutzer;29.02.2024 01:00:00;12327
 9800002000003;Dvgw;REWAG Regensburger Energie- und Wasserversorgung AG & Co KG;Lieferant / Transportkunde;28.10.2016 17:15:00;1589
 9800304800002;Dvgw;REWAG Regensburger Energie- und Wasserversorgung AG & Co KG;Messstellenbetreiber;15.09.2016 08:52:00;1589
 9800371000007;Dvgw;REWAG Regensburger Energie- und Wasserversorgung AG & Co KG;Bilanzkreisverantwortlicher;04.12.2013 17:24:00;1589
@@ -2359,10 +2372,11 @@ MCQ;Dvgw;Macquarie Bank Limited;Lieferant / Transportkunde;13.03.2015 15:41:00;1
 9870075000009;Dvgw;SachsenNetze GmbH;Netzbetreiber;01.02.2012 14:28:00;354
 9800100500004;Dvgw;SachsenNetze HS.HD GmbH;Messstellenbetreiber;20.09.2011 13:56:00;670
 9870076300002;Dvgw;SachsenNetze HS.HD GmbH;Netzbetreiber;20.09.2011 13:55:00;670
-9120011070005;Dvgw;Salzburg AG für Energie, Verkehr und Telekommunikation;Bilanzkreisverantwortlicher;14.04.2011 16:46:00;1641
+9110015317664;Dvgw;Salzburg AG für Energie, Verkehr und Telekommunikation;Bilanzkreisverantwortlicher;14.04.2011 16:46:00;1641
 37X000000000067J;Dvgw;Salzgitter Mannesmann Grobblech GmbH;Consumer;27.10.2016 16:53:00;1642
 9800456200001;Dvgw;SANIA Power AG;Bilanzkreisverantwortlicher;20.08.2018 02:00:00;4873
 9800459100000;Dvgw;SANIA Power AG;Lieferant / Transportkunde;03.10.2018 02:00:00;4873
+9800570500006;Dvgw;Sapphire Crest LTD;Bilanzkreisverantwortlicher;22.02.2024 01:00:00;13558
 9800362100006;Dvgw;Sasol Italy S.p.A.;Lieferant / Transportkunde;28.09.2015 13:36:00;1648
 9800416000003;Dvgw;Sasol Italy S.p.A.;Bilanzkreisverantwortlicher;08.10.2015 17:49:00;1648
 9800130000008;Dvgw;Scharr Wärme GmbH & Co. KG;Lieferant / Transportkunde;24.01.2012 17:28:00;1652
@@ -2376,18 +2390,22 @@ MCQ;Dvgw;Macquarie Bank Limited;Lieferant / Transportkunde;13.03.2015 15:41:00;1
 9870114300005;Dvgw;Schleswig-Holstein Netz AG;Netzbetreiber;15.08.2011 13:59:00;1659
 9800568400002;Dvgw;Schleupen SE;Messstellenbetreiber;04.01.2024 01:00:00;13539
 9800568500000;Dvgw;Schleupen SE;Netznutzer ohne-all-inklusive Vertrag;04.01.2024 01:00:00;13539
+9800569900001;Dvgw;Schoellershammer GmbH;Bilanzkreisverantwortlicher;20.02.2024 01:00:00;13561
 37X000000000095E;Dvgw;Scholt Energy Control GmbH;Balance Supplier;28.09.2018 13:19:21;1660
 9800420000007;Dvgw;Scholt Energy Control GmbH;Bilanzkreisverantwortlicher;23.12.2015 12:40:00;1660
 9800429600006;Dvgw;Scholt Energy Control GmbH;Lieferant / Transportkunde;22.07.2016 15:47:00;1660
 9800500800004;Dvgw;Scholt Energy Control GmbH;Kapazitätsnutzer;26.08.2020 02:00:00;1660
 9800131200003;Dvgw;Schöpper & Knoll - Taubertal GmbH;Lieferant / Transportkunde;29.10.2012 16:34:00;1661
-9800388200004;Dvgw;Schradenbiogas GmbH & Co. KG;Lieferant / Transportkunde;25.09.2014 17:29:00;1662
+9800571300009;Dvgw;Schulze Bölling Naturenergien GmbH;Lieferant / Transportkunde;19.03.2024 01:00:00;13566
 9800300400004;Dvgw;Schuster & Sohn KG;Lieferant / Transportkunde;31.12.2022 01:00:00;1663
 9800121200005;Dvgw;schwaben netz gmbh;Messstellenbetreiber;05.10.2009 12:35:00;1664
 9870032500000;Dvgw;schwaben netz gmbh;Netzbetreiber;04.07.2011 16:10:00;1664
 9800511700003;Dvgw;schwaben netz regional gmbh;Messstellenbetreiber;03.11.2020 01:00:00;7189
 9870122600009;Dvgw;schwaben netz regional gmbh;Netzbetreiber;30.10.2020 11:09:20;7189
 9800435000000;Dvgw;schwarzwald energy GmbH;Lieferant / Transportkunde;16.12.2016 17:57:00;1665
+37X000000000290G;Dvgw;SCMI GmbH;Balance Responsible Party;02.02.2024 10:51:34;13552
+9800569300003;Dvgw;SCMI GmbH;Bilanzkreisverantwortlicher;02.02.2024 01:00:00;13552
+9800569400001;Dvgw;SCMI GmbH;Lieferant / Transportkunde;02.02.2024 01:00:00;13552
 9800434600009;Dvgw;SCMI LIMITED;Lieferant / Transportkunde;21.11.2016 18:57:00;1666
 9800434700007;Dvgw;SCMI LIMITED;Bilanzkreisverantwortlicher;29.11.2016 19:28:00;1666
 9800342500002;Dvgw;SE Energy Trading GmbH;Bilanzkreisverantwortlicher;14.01.2013 16:48:00;1667
@@ -2408,18 +2426,14 @@ MCQ;Dvgw;Macquarie Bank Limited;Lieferant / Transportkunde;13.03.2015 15:41:00;1
 9800475300006;Dvgw;SET Swiss Energy Trading AG;Bilanzkreisverantwortlicher;12.08.2019 02:00:00;1674
 37X0000000002875;Dvgw;SE-TECH energielenker GmbH & Co. KG;Trade Responsible Party;06.12.2023 13:10:25;13542
 9800567200007;Dvgw;SE-TECH energielenker GmbH & Co. KG;Lieferant / Transportkunde;06.12.2023 01:00:00;13542
-9800487700004;Dvgw;Sev.en Commodities AG;Bilanzkreisverantwortlicher;12.06.2020 02:00:00;7111
-9800500400002;Dvgw;Sev.en Commodities AG;Lieferant / Transportkunde;25.08.2020 02:00:00;7111
 9800480200001;Dvgw;SEW Stromversorgungs GmbH;Lieferant / Transportkunde;08.05.2023 02:00:00;2803
 9800522000004;Dvgw;SGB Energie GmbH;Lieferant / Transportkunde;27.07.2021 02:00:00;9235
 9800522300008;Dvgw;SGB Energie GmbH;Bilanzkreisverantwortlicher;04.08.2021 02:00:00;9235
 37X0000000000062;Dvgw;Shell Energy Deutschland GmbH;Balance Group Responsible Party;14.04.2015 15:08:00;1676
 9800029400004;Dvgw;Shell Energy Deutschland GmbH;Lieferant / Transportkunde;04.04.2011 16:46:00;1676
+9800378400002;Dvgw;Shell Energy Deutschland GmbH;Bilanzkreisverantwortlicher;17.04.2014 15:51:00;1676
 9800496300001;Dvgw;Shell Energy Deutschland GmbH;Kapazitätsnutzer;06.08.2020 02:00:00;1676
 9800076200001;Dvgw;Shell Energy Europe Limited;Lieferant / Transportkunde;17.12.2021 12:53:04;1677
-9800406200001;Dvgw;Shell Energy Retail GmbH c/o Mindspace;Lieferant / Transportkunde;23.06.2015 12:27:00;800
-9800435500000;Dvgw;Shell Energy Retail GmbH c/o Mindspace;Bilanzkreisverantwortlicher;20.12.2016 10:05:00;800
-9800378400002;Dvgw;Shell Erdgas Marketing GmbH & Co. KG;Bilanzkreisverantwortlicher;17.04.2014 15:51:00;1679
 9800053900004;Dvgw;Siegener Versorgungsbetriebe GmbH;Lieferant / Transportkunde;22.07.2008 11:19:00;1684
 9800232800009;Dvgw;Siegener Versorgungsbetriebe GmbH;Messstellenbetreiber;06.09.2011 16:22:00;1684
 9800375700009;Dvgw;Siegener Versorgungsbetriebe GmbH;Bilanzkreisverantwortlicher;25.02.2014 16:06:00;1684
@@ -3009,6 +3023,7 @@ MCQ;Dvgw;Macquarie Bank Limited;Lieferant / Transportkunde;13.03.2015 15:41:00;1
 9870007200007;Dvgw;Stadtwerke Greifswald GmbH;Netzbetreiber;10.05.2016 13:37:00;875
 9800064200005;Dvgw;Stadtwerke Greven GmbH;Lieferant / Transportkunde;17.08.2011 13:31:00;1924
 9800125700001;Dvgw;Stadtwerke Greven GmbH;Messstellenbetreiber;30.06.2016 15:26:00;1924
+9800570600004;Dvgw;Stadtwerke Greven GmbH;Bilanzkreisverantwortlicher;26.02.2024 01:00:00;1924
 9870079200001;Dvgw;Stadtwerke Greven GmbH;Netzbetreiber;30.06.2016 15:27:00;1924
 9800096200007;Dvgw;Stadtwerke Grevesmühlen GmbH;Lieferant / Transportkunde;07.12.2016 16:56:00;1925
 9800267300008;Dvgw;Stadtwerke Grevesmühlen GmbH;Messstellenbetreiber;28.12.2012 16:43:00;1925
@@ -3069,7 +3084,6 @@ MCQ;Dvgw;Macquarie Bank Limited;Lieferant / Transportkunde;13.03.2015 15:41:00;1
 9800453900000;Dvgw;Stadtwerke Havelberg GmbH;Bilanzkreisverantwortlicher;21.06.2018 02:00:00;1944
 9870029600003;Dvgw;Stadtwerke Havelberg GmbH;Netzbetreiber;06.09.2007 12:59:00;1944
 9800069400006;Dvgw;Stadtwerke Hechingen;Lieferant / Transportkunde;18.06.2008 17:31:00;1945
-9800285500002;Dvgw;Stadtwerke Hechingen;Messstellenbetreiber;18.01.2022 01:00:00;1945
 9870086400008;Dvgw;Stadtwerke Hechingen;Netzbetreiber;30.10.2013 12:36:00;1945
 9800032600005;Dvgw;Stadtwerke Heide GmbH;Lieferant / Transportkunde;12.06.2007 11:44:00;1946
 9800153900003;Dvgw;Stadtwerke Heide GmbH;Messstellenbetreiber;07.11.2011 15:30:00;1946
@@ -3236,7 +3250,7 @@ MCQ;Dvgw;Macquarie Bank Limited;Lieferant / Transportkunde;13.03.2015 15:41:00;1
 9870021700009;Dvgw;Stadtwerke Leine - Solling GmbH;Netzbetreiber;06.11.2011 18:51:00;2008
 9800120300004;Dvgw;Stadtwerke Leinfelden-Echterdingen Vertriebs GmbH;Lieferant / Transportkunde;13.04.2011 18:22:00;2009
 9800039700006;Dvgw;Stadtwerke Leipzig GmbH;Lieferant / Transportkunde;18.07.2016 17:38:00;2010
-9800143300007;Dvgw;Stadtwerke Leipzig GmbH;Messstellenbetreiber;13.01.2015 12:44:00;2010
+9800143300007;Dvgw;Stadtwerke Leipzig GmbH;Messstellenbetreiber;28.03.2024 01:00:00;2010
 9800292000003;Dvgw;Stadtwerke Leipzig GmbH;Bilanzkreisverantwortlicher;28.06.2012 15:10:00;2010
 9800094900005;Dvgw;Stadtwerke Lemgo GmbH;Lieferant / Transportkunde;06.11.2014 14:20:00;2012
 9800161200007;Dvgw;Stadtwerke Lemgo GmbH;Messstellenbetreiber;06.10.2016 13:24:00;2012
@@ -3353,7 +3367,7 @@ MCQ;Dvgw;Macquarie Bank Limited;Lieferant / Transportkunde;13.03.2015 15:41:00;1
 9800115300001;Dvgw;Stadtwerke MüllheimStaufen GmbH;Lieferant / Transportkunde;29.10.2012 01:00:00;2051
 9800233900006;Dvgw;Stadtwerke Münchberg;Messstellenbetreiber;07.09.2011 10:42:00;2052
 9870011700001;Dvgw;Stadtwerke Münchberg;Netzbetreiber;08.01.2008 12:40:00;2052
-9800232300009;Dvgw;Stadtwerke München GmbH;Lieferant / Transportkunde;06.09.2011 13:19:00;2053
+9800232300009;Dvgw;Stadtwerke München GmbH;Lieferant / Transportkunde;21.02.2024 01:00:00;2053
 9800067600004;Dvgw;Stadtwerke Münsingen GmbH;Lieferant / Transportkunde;12.11.2015 10:09:00;2054
 9800278300005;Dvgw;Stadtwerke Münsingen GmbH;Messstellenbetreiber;13.11.2015 14:28:00;2054
 9870017100007;Dvgw;Stadtwerke Münsingen GmbH;Netzbetreiber;12.11.2015 10:09:00;2054
@@ -3390,6 +3404,7 @@ MCQ;Dvgw;Macquarie Bank Limited;Lieferant / Transportkunde;13.03.2015 15:41:00;1
 9870007100009;Dvgw;Stadtwerke Neu-Isenburg GmbH;Netzbetreiber;15.08.2011 19:01:00;2065
 9800058400009;Dvgw;Stadtwerke Neumarkt i.d.OPf. Energie GmbH;Lieferant / Transportkunde;17.12.2007 12:31:00;2066
 9800171600007;Dvgw;Stadtwerke Neumarkt i.d.OPf. Energie GmbH;Messstellenbetreiber;01.02.2011 11:49:00;2066
+9800569000009;Dvgw;Stadtwerke Neumarkt i.d.OPf. Energie GmbH;Bilanzkreisverantwortlicher;17.01.2024 01:00:00;2066
 9870013700009;Dvgw;Stadtwerke Neumarkt i.d.OPf. Energie GmbH;Netzbetreiber;31.01.2011 14:39:00;2066
 9800083000006;Dvgw;Stadtwerke Neuruppin GmbH;Lieferant / Transportkunde;04.05.2016 17:25:00;2067
 9800252100009;Dvgw;Stadtwerke Neuruppin GmbH;Messstellenbetreiber;14.09.2011 12:45:00;2067
@@ -3532,6 +3547,7 @@ MCQ;Dvgw;Macquarie Bank Limited;Lieferant / Transportkunde;13.03.2015 15:41:00;1
 9800504400008;Dvgw;Stadtwerke Pritzwalk GmbH;Kapazitätsnutzer;08.09.2020 02:00:00;2115
 9870018000008;Dvgw;Stadtwerke Pritzwalk GmbH;Netzbetreiber;10.09.2007 16:36:00;2115
 9800122100006;Dvgw;Stadtwerke Pulheim GmbH;Lieferant / Transportkunde;18.06.2015 13:36:00;2116
+9800569700005;Dvgw;Stadtwerke Pulheim GmbH;Bilanzkreisverantwortlicher;15.02.2024 01:00:00;2116
 9800085700000;Dvgw;Stadtwerke Quedlinburg GmbH;Lieferant / Transportkunde;28.08.2008 13:10:00;2118
 9800198000008;Dvgw;Stadtwerke Quedlinburg GmbH;Messstellenbetreiber;25.07.2011 19:06:00;2118
 9800500600008;Dvgw;Stadtwerke Quedlinburg GmbH;Kapazitätsnutzer;25.08.2020 02:00:00;2118
@@ -3986,6 +4002,8 @@ MCQ;Dvgw;Macquarie Bank Limited;Lieferant / Transportkunde;13.03.2015 15:41:00;1
 37X0000000002778;Dvgw;Stromspitzen GmbH & Co. KG;Energy Supplier;15.06.2023 18:35:42;13371
 9800558900004;Dvgw;Stromspitzen GmbH & Co. KG;Lieferant / Transportkunde;15.06.2023 02:00:00;13371
 9800562600004;Dvgw;Stromspitzen GmbH & Co. KG;Kapazitätsnutzer;16.08.2023 02:00:00;13371
+9800571200001;Dvgw;Stuttgart Netze GmbH;Messstellenbetreiber;14.03.2024 01:00:00;13546
+9870134400009;Dvgw;Stuttgart Netze GmbH;Netzbetreiber;15.03.2024 08:47:42;13546
 9800007300002;Dvgw;StWB Stadtwerke Brandenburg an der Havel GmbH & Co. KG;Lieferant / Transportkunde;02.03.2015 12:18:00;1814
 9800269400004;Dvgw;StWB Stadtwerke Brandenburg an der Havel GmbH & Co. KG;Messstellenbetreiber;02.03.2015 12:50:00;1814
 9800513800009;Dvgw;StWB Stadtwerke Brandenburg an der Havel GmbH & Co. KG;Bilanzkreisverantwortlicher;10.12.2020 01:00:00;1814
@@ -4096,6 +4114,9 @@ MCQ;Dvgw;Macquarie Bank Limited;Lieferant / Transportkunde;13.03.2015 15:41:00;1
 9800084700001;Dvgw;T.W.O. Technische Werke Osning GmbH;Lieferant / Transportkunde;21.08.2008 12:47:00;2363
 9800314600004;Dvgw;T.W.O. Technische Werke Osning GmbH;Messstellenbetreiber;01.03.2012 11:01:00;2363
 9870105900004;Dvgw;T.W.O. Technische Werke Osning GmbH;Netzbetreiber;16.11.2006 17:25:00;2363
+9800054800005;Dvgw;Talwerk GmbH;Lieferant / Transportkunde;14.06.2013 13:35:00;963
+9800342000002;Dvgw;Talwerk GmbH;Messstellenbetreiber;08.01.2013 15:23:00;963
+9870075600007;Dvgw;Talwerk GmbH;Netzbetreiber;14.06.2013 13:36:00;963
 9800405200002;Dvgw;TauberEnergie Kuhn Karl und Andreas Kuhn OHG;Lieferant / Transportkunde;15.06.2015 12:56:00;2366
 9800013400002;Dvgw;TaunaGas Oberursel (Taunus) GmbH;Lieferant / Transportkunde;08.08.2016 15:43:00;2367
 9800181700003;Dvgw;TaunaGas Oberursel (Taunus) GmbH;Messstellenbetreiber;05.08.2016 13:04:00;2367
@@ -4159,9 +4180,9 @@ MCQ;Dvgw;Macquarie Bank Limited;Lieferant / Transportkunde;13.03.2015 15:41:00;1
 9800156500008;Dvgw;thyssenkrupp Steel Europe AG;Lieferant / Transportkunde;19.04.2016 10:29:00;2405
 9800464300009;Dvgw;thyssenkrupp Steel Europe AG;Bilanzkreisverantwortlicher;12.12.2018 01:00:00;2405
 9800503700003;Dvgw;thyssenkrupp Steel Europe AG;Kapazitätsnutzer;07.09.2020 02:00:00;2405
-9800153000001;Dvgw;TIGAS-Erdgas Tirol GmbH;Lieferant / Transportkunde;03.08.2011 13:07:00;2406
-9800457700000;Dvgw;TIGAS-Erdgas Tirol GmbH;Bilanzkreisverantwortlicher;18.09.2018 02:00:00;2406
-9800505900007;Dvgw;TIGAS-Erdgas Tirol GmbH;Kapazitätsnutzer;16.09.2020 02:00:00;2406
+9800153000001;Dvgw;TIGAS-Wärme Tirol GmbH;Lieferant / Transportkunde;03.08.2011 13:07:00;2406
+9800457700000;Dvgw;TIGAS-Wärme Tirol GmbH;Bilanzkreisverantwortlicher;18.09.2018 02:00:00;2406
+9800505900007;Dvgw;TIGAS-Wärme Tirol GmbH;Kapazitätsnutzer;16.09.2020 02:00:00;2406
 9800494800003;Dvgw;Tilly Hedrich GmbH & Co. KG;Lieferant / Transportkunde;01.01.2024 01:00:00;7127
 9800462500007;Dvgw;TIWAG-Tiroler Wasserkraft AG;Bilanzkreisverantwortlicher;29.11.2018 01:00:00;5914
 9800532600000;Dvgw;TIWAG-Tiroler Wasserkraft AG;Lieferant / Transportkunde;31.05.2022 02:00:00;5914
@@ -4207,7 +4228,7 @@ TGPL;Dvgw;Total Gas & Power Ltd;Lieferant / Transportkunde;13.03.2015 15:41:00;2
 37X000000000147L;Dvgw;UDI Bioenergie GmbH;Energy Supplier;25.10.2021 14:42:50;9255
 9800525300005;Dvgw;UDI Bioenergie GmbH;Lieferant / Transportkunde;25.10.2021 02:00:00;9255
 9800316000004;Dvgw;uegas GmbH & Co. KG;Lieferant / Transportkunde;28.11.2012 16:48:00;2435
-9800379000009;Dvgw;Uhlenbruck Energie GmbH & Co. KG;Lieferant / Transportkunde;05.05.2014 11:33:00;2436
+9800379000009;Dvgw;Uhlenbruck Energie GmbH & Co. KG;Lieferant / Transportkunde;05.05.2014 02:00:00;2436
 9800510300002;Dvgw;UniCredit Bank GmbH;Bilanzkreisverantwortlicher;12.10.2020 02:00:00;7186
 9800410300003;Dvgw;UNIMOT S.A.;Lieferant / Transportkunde;03.09.2015 11:20:00;2439
 9800488100005;Dvgw;UNIMOT S.A.;Bilanzkreisverantwortlicher;01.07.2020 02:00:00;2439
@@ -4312,6 +4333,7 @@ VITOL;Dvgw;Vitol S.A.;Lieferant / Transportkunde;13.03.2015 15:41:00;2509
 9800335100009;Dvgw;voestalpine Rohstoffbeschaffungs GmbH;Lieferant / Transportkunde;18.09.2012 18:40:00;2518
 9800335200007;Dvgw;voestalpine Rohstoffbeschaffungs GmbH;Bilanzkreisverantwortlicher;18.09.2012 18:40:00;2518
 9800564900006;Dvgw;Volta Energy Designated Activity Company;Bilanzkreisverantwortlicher;12.10.2023 02:00:00;13524
+9800570400008;Dvgw;Volta Energy Designated Activity Company;Lieferant / Transportkunde;22.02.2024 01:00:00;13524
 9800198200004;Dvgw;VOLTARIS GmbH;Messstellenbetreiber;27.07.2011 10:58:00;2519
 9800484600009;Dvgw;Voltego GmbH;Bilanzkreisverantwortlicher;25.03.2020 01:00:00;7095
 37X000000000075K;Dvgw;Vonovia Energie Service GmbH;Balance Responsible Party;07.08.2017 12:51:15;2770
@@ -4361,7 +4383,6 @@ VITOL;Dvgw;Vitol S.A.;Lieferant / Transportkunde;13.03.2015 15:41:00;2509
 9800128800006;Dvgw;Westenergie Metering GmbH;Messstellenbetreiber;01.09.2016 10:35:00;1142
 9800388800002;Dvgw;Westerwald-Netz GmbH;Messstellenbetreiber;04.12.2014 17:11:00;2549
 9870119600004;Dvgw;Westerwald-Netz GmbH;Netzbetreiber;04.12.2014 17:12:00;2549
-9800324600002;Dvgw;Westfalen AG;Lieferant / Transportkunde;14.11.2023 01:00:00;2550
 9800180500008;Dvgw;Westfalen Weser Netz GmbH;Messstellenbetreiber;22.07.2014 11:25:00;2551
 9870010900008;Dvgw;Westfalen Weser Netz GmbH;Netzbetreiber;12.01.2016 10:49:00;2551
 9800488500007;Dvgw;WestfalenWIND Strom GmbH;Lieferant / Transportkunde;06.07.2020 02:00:00;7117
@@ -4502,6 +4523,7 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 8589000071255;Bdew;A.En CZ, s.r.o.;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;5604
 9981601000006;Bdew;A/E Solarpark GmbH & Co. KG;Betreiber einer technischen Ressource;01.01.1900 00:00:00;58255
 9982567000007;Bdew;A/E Solarpark GmbH & Co. KG;Einsatzverantwortlicher;01.01.1900 00:00:00;58255
+4399902507448;Bdew;A/S Global Risk Management Ltd. Holding;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;60965
 8099999000575;Bdew;A2A S.p.A.;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;20199
 9983155000003;Bdew;AB Management & Beteiligungsgesellschaft mbH & Co.KG;Betreiber einer technischen Ressource;01.01.1900 00:00:00;59163
 9981597000003;Bdew;ABASA Neue Energien GmbH & Co. KG;Einsatzverantwortlicher;01.01.1900 00:00:00;58253
@@ -4545,6 +4567,7 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9981931000007;Bdew;Achim und Jochen Ilzhöfer GBR;Betreiber einer technischen Ressource;01.01.1900 00:00:00;58437
 9981925000005;Bdew;Achim und Jochen Ilzhöfer GBR;Einsatzverantwortlicher;01.01.1900 00:00:00;58437
 9980333000003;Bdew;Achim und Margit Ruf GbR;Einsatzverantwortlicher;01.01.1900 00:00:00;57519
+9984976000008;Bdew;Acta Energy GmbH;Messstellenbetreiber;01.01.1900 00:00:00;60939
 9910668000006;Bdew;acteno energy GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;221
 9910675000007;Bdew;acteno energy GmbH;Messstellenbetreiber;01.01.1900 00:00:00;221
 9978300000007;Bdew;acteno energy GmbH;Lieferant;01.01.1900 00:00:00;221
@@ -4562,6 +4585,7 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9979160000005;Bdew;Adolf Roth GmbH & Co. KG;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;2931
 9979616000004;Bdew;Adwind Renewables;Betreiber einer technischen Ressource;01.01.1900 00:00:00;56950
 9979617000003;Bdew;Adwind Renewables;Einsatzverantwortlicher;01.01.1900 00:00:00;56950
+9984954000004;Bdew;Aerodata Aktiengesellschaft;Betreiber einer technischen Ressource;01.01.1900 00:00:00;60899
 9979403000001;Bdew;Aerzener Bastkunst Gebr. Cramer GmbH;Messstellenbetreiber;01.01.1900 00:00:00;56867
 9982275000000;Bdew;AGC Glass Osterweddingen GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;58647
 9982276000009;Bdew;AGC Glass Osterweddingen GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;58647
@@ -4690,6 +4714,7 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9981215000004;Bdew;AMEOS Klinikum Hildesheim GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;58025
 9981216000003;Bdew;AMEOS Klinikum Hildesheim GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;58025
 9979754000007;Bdew;AMEOS Krankenhausgesellschaft Oberhausen mbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;57174
+9985027000004;Bdew;Amessai Energy Research Limited;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;60220
 9911382000009;Bdew;Ammer-Loisach Energie GmbH;Lieferant;01.01.1900 00:00:00;253
 9984259000006;Bdew;AMPEERS ENERGY GmbH;Energieserviceanbieter des Anschlussnutzers;01.01.1900 00:00:00;60126
 9983281000000;Bdew;ampere.cloud Energy Services GmbH;Lieferant;01.01.1900 00:00:00;59278
@@ -4752,6 +4777,7 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9979389000000;Bdew;Aplus Energy GmbH;Lieferant;01.01.1900 00:00:00;56847
 9984553000009;Bdew;Aplus Energy GmbH;Messstellenbetreiber;01.01.1900 00:00:00;56847
 9978283000009;Bdew;apoll.on GmbH;Messstellenbetreiber;01.01.1900 00:00:00;13774
+9984951000007;Bdew;Apollo IoT Energie Software GmbH;Energieserviceanbieter des Anschlussnutzers;01.01.1900 00:00:00;60897
 9911098000004;Bdew;AQUATECH Umwelt- und Energietechnik AG;Messstellenbetreiber;01.01.1900 00:00:00;260
 9912113000002;Bdew;ArcelorMittal Bremen GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;2934
 9984758000002;Bdew;ArcelorMittal Bremen GmbH;Messstellenbetreiber;01.01.1900 00:00:00;2934
@@ -4765,6 +4791,8 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9978062000006;Bdew;Areal M GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;8649
 9977934000003;Bdew;ARGE Rundfunk-Betriebstechnik;Netznutzer ohne All-Inklusiv-Vertrag;01.01.1900 00:00:00;4577
 9979705000006;Bdew;Armbruster Biogas GbR;Einsatzverantwortlicher;01.01.1900 00:00:00;57137
+5790002823169;Bdew;Arosource ApS;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;60957
+4037908000005;Bdew;ARYZTA Bakeries Deutschland GmbH;Netznutzer ohne All-Inklusiv-Vertrag;01.01.1900 00:00:00;60955
 9906608000007;Bdew;ASCANETZ GmbH;Messstellenbetreiber;01.01.1900 00:00:00;265
 9900963000009;Bdew;ASCANETZ GmbH;Netzbetreiber;01.01.1900 00:00:00;265
 9978952000009;Bdew;ASCANETZ GmbH;Lieferant;01.01.1900 00:00:00;265
@@ -4797,6 +4825,7 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9983782000004;Bdew;Auto Denk e.K.;Einsatzverantwortlicher;01.01.1900 00:00:00;59652
 9984862000005;Bdew;Auto Michels GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;56816
 9984116000008;Bdew;Autobahn Tank & Rast Betriebsgesellschaft mbH;Einsatzverantwortlicher;01.01.1900 00:00:00;59979
+9984981000001;Bdew;Autohaus-Gramling Sportwagen GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;60943
 9978751000002;Bdew;Auxilius Services GmbH;Messstellenbetreiber;01.01.1900 00:00:00;30451
 9978744000001;Bdew;Avacon AG;Messstellenbetreiber;01.01.1900 00:00:00;274
 9910603000003;Bdew;Avacon Natur GmbH;Lieferant;01.01.1900 00:00:00;275
@@ -4878,8 +4907,6 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9980583000001;Bdew;Bär Metall- und Anlagenbau GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;57662
 9977981000006;Bdew;BarMalGas GmbH;Lieferant;01.01.1900 00:00:00;6595
 9984159000007;Bdew;Barmherzige Brüder Kostenz, Tagungs- und Erholungshaus, Träger: Barmherzige Brüder, Bayerische Ordensprovinz KdöR;Einsatzverantwortlicher;01.01.1900 00:00:00;60024
-9981131000005;Bdew;barth Logistik-Systeme GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;57970
-9981132000004;Bdew;barth Logistik-Systeme GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;57970
 9911825000003;Bdew;Basell Polyolefine GmbH;Lieferant;01.01.1900 00:00:00;298
 9983059000000;Bdew;Basell Polyolefine GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;298
 9982389000003;Bdew;BASF Lampertheim GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;58714
@@ -4903,7 +4930,6 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9983652000001;Bdew;Bauer Hubert;Einsatzverantwortlicher;01.01.1900 00:00:00;59584
 9900113000007;Bdew;Bauer Netz GmbH & Co. KG;Netzbetreiber;01.01.1900 00:00:00;3561
 9910442000008;Bdew;Bauer Netz GmbH & Co. KG;Messstellenbetreiber;01.01.1900 00:00:00;3561
-9979213000001;Bdew;Bauer Netz GmbH & Co. KG;Lieferant;01.01.1900 00:00:00;3561
 9980892000007;Bdew;Bauer und Ritter GbR;Betreiber einer technischen Ressource;01.01.1900 00:00:00;57834
 9980941000007;Bdew;Bauer und Ritter GbR;Einsatzverantwortlicher;01.01.1900 00:00:00;57834
 9983342000006;Bdew;Bauma Elektro GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;59323
@@ -4960,6 +4986,7 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9979424000006;Bdew;BEG-Energietechnik GmbH;Messstellenbetreiber;01.01.1900 00:00:00;56898
 9983085000008;Bdew;BEG-Energietechnik GmbH;Lieferant;01.01.1900 00:00:00;56898
 9911353000004;Bdew;Behrenswerth Energieservice GmbH;Lieferant;01.01.1900 00:00:00;318
+9985006000009;Bdew;BEKW Bioenergiekraftwerk Emsland GmbH & Co. KG;Betreiber einer technischen Ressource;01.01.1900 00:00:00;60972
 9980974000008;Bdew;BELECTRIC GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;57883
 9903681000004;Bdew;BELKAW GmbH;Lieferant;01.01.1900 00:00:00;324
 9982938000008;Bdew;Belmont Farms GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;59019
@@ -4981,7 +5008,6 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9978755000008;Bdew;Berliner Stadtwerke EnergiePartner GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;31448
 9978759000004;Bdew;Berliner Stadtwerke EnergiePartner GmbH;Lieferant;01.01.1900 00:00:00;31448
 9977772000009;Bdew;Berliner Stadtwerke GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;3474
-9977803000001;Bdew;Berliner Stadtwerke GmbH;Lieferant;01.01.1900 00:00:00;3474
 9978756000007;Bdew;Berliner Stadtwerke KommunalPartner GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;31449
 9978760000001;Bdew;Berliner Stadtwerke KommunalPartner GmbH;Lieferant;01.01.1900 00:00:00;31449
 9980975000007;Bdew;Berliner Stadtwerke KommunalPartner GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;31449
@@ -5038,6 +5064,7 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9981585000007;Bdew;Bijou Brigitte modische Accessoires Aktiengesellschaft;Betreiber einer technischen Ressource;01.01.1900 00:00:00;58240
 9982108000002;Bdew;Bijou Brigitte modische Accessoires Aktiengesellschaft;Einsatzverantwortlicher;01.01.1900 00:00:00;58240
 9984288000001;Bdew;bill-X GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;60159
+9984979000005;Bdew;BILSTEIN GmbH & Co. KG;Netznutzer ohne All-Inklusiv-Vertrag;01.01.1900 00:00:00;60941
 9984443000002;Bdew;BILSTEIN SERVICE GmbH;Netznutzer ohne All-Inklusiv-Vertrag;01.01.1900 00:00:00;60334
 9904973000009;Bdew;Binderholz Kösching GmbH;Netznutzer ohne All-Inklusiv-Vertrag;01.01.1900 00:00:00;343
 9904842000007;Bdew;Binderholz Oberrot | Baruth GmbH;Netznutzer ohne All-Inklusiv-Vertrag;01.01.1900 00:00:00;1452
@@ -5097,7 +5124,6 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9979144000005;Bdew;BKW Energie AG;Einsatzverantwortlicher;01.01.1900 00:00:00;354
 9979733000002;Bdew;BKW Energie AG;Betreiber einer technischen Ressource;01.01.1900 00:00:00;354
 9981983000005;Bdew;Blechverarbeitung und Apparatebau Dreyer GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;58474
-9984492000003;Bdew;Blog Lake;Einsatzverantwortlicher;01.01.1900 00:00:00;60395
 9907010000007;Bdew;Blomberg Netz GmbH & Co. KG;Netzbetreiber;01.01.1900 00:00:00;50621
 9910582000009;Bdew;Blomberg Netz GmbH & Co. KG;Messstellenbetreiber;01.01.1900 00:00:00;50621
 9904033000006;Bdew;Blomberger Versorgungsbetriebe GmbH;Lieferant;01.01.1900 00:00:00;356
@@ -5229,8 +5255,6 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9900122000006;Bdew;Butzbacher Netzbetrieb GmbH & Co. KG;Netzbetreiber;01.01.1900 00:00:00;393
 9910654000002;Bdew;Butzbacher Netzbetrieb GmbH & Co. KG;Messstellenbetreiber;01.01.1900 00:00:00;393
 9978961000008;Bdew;Butzbacher Netzbetrieb GmbH & Co. KG;Lieferant;01.01.1900 00:00:00;393
-9904342000002;Bdew;BVMKW eG;Lieferant;01.01.1900 00:00:00;396
-9979110000005;Bdew;BVMKW eG;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;396
 9983872000005;Bdew;BWZ Baumwollweberei Zittau GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;59772
 9978432000008;Bdew;BYTE MEE Softwareentwicklung GmbH;Messstellenbetreiber;01.01.1900 00:00:00;399
 9979455000009;Bdew;BYTE MEE Softwareentwicklung GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;399
@@ -5266,6 +5290,8 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9978513000000;Bdew;Castleton Commodities Merchant Global LLC;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;20202
 9910142000001;Bdew;CB Energie GmbH;Lieferant;01.01.1900 00:00:00;412
 9978200000008;Bdew;CB Energie GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;412
+9907826000001;Bdew;CCF Cassella Chemiepark Frankfurt GmbH;Netzbetreiber;01.01.1900 00:00:00;60950
+9985002000003;Bdew;CCF Cassella Chemiepark Frankfurt GmbH;Messstellenbetreiber;01.01.1900 00:00:00;60950
 9979790000003;Bdew;CCP Austria Abwicklungsstelle für Börsengeschäfte GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;57197
 9981956000008;Bdew;Celil Adigüzel;Einsatzverantwortlicher;01.01.1900 00:00:00;58460
 9900126000002;Bdew;Celle-Uelzen Netz GmbH;Netzbetreiber;01.01.1900 00:00:00;413
@@ -5289,7 +5315,6 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9981043000002;Bdew;CEWE Stiftung & Co. KGaA;Betreiber einer technischen Ressource;01.01.1900 00:00:00;57914
 9981078000001;Bdew;CEWE Stiftung & Co. KGaA;Einsatzverantwortlicher;01.01.1900 00:00:00;57914
 9904293000002;Bdew;CEZ, a.s.;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;417
-9978649000007;Bdew;CEZ, a.s.;Lieferant;01.01.1900 00:00:00;417
 4399902463164;Bdew;CF Flex Power GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;60130
 9984399000007;Bdew;CF Flex Power GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;60130
 9984400000003;Bdew;CF Flex Power GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;60130
@@ -5343,6 +5368,8 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9982828000001;Bdew;Clemens Jilg;Betreiber einer technischen Ressource;01.01.1900 00:00:00;58955
 9981292000001;Bdew;Clemens Thanheiser;Einsatzverantwortlicher;01.01.1900 00:00:00;58071
 9981294000009;Bdew;Clemens Thanheiser;Betreiber einer technischen Ressource;01.01.1900 00:00:00;58071
+9984959000009;Bdew;CM Runnebaum Grundstückserwerbs - und Verwaltungsgesellschaft GbR;Einsatzverantwortlicher;01.01.1900 00:00:00;60907
+9984960000006;Bdew;CM Runnebaum Grundstückserwerbs - und Verwaltungsgesellschaft GbR;Betreiber einer technischen Ressource;01.01.1900 00:00:00;60907
 9983171000003;Bdew;CNC-Althaus;Betreiber einer technischen Ressource;01.01.1900 00:00:00;59179
 9904377000001;Bdew;co.met GmbH;Messstellenbetreiber;01.01.1900 00:00:00;449
 9984321000009;Bdew;co.met GmbH;Energieserviceanbieter des Anschlussnutzers;01.01.1900 00:00:00;449
@@ -5358,7 +5385,6 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9978395000004;Bdew;Consorzio Toscana Energia S.p.A.;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;19111
 9904926000006;Bdew;Contigo Energie AG;Lieferant;01.01.1900 00:00:00;446
 4399902467438;Bdew;Contigo Energie AG;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;446
-9984717000001;Bdew;ContoPlus Solar Sinn GmbH & Co. KG;Einsatzverantwortlicher;01.01.1900 00:00:00;60642
 9978509000006;Bdew;Convex Energy GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;20229
 9979829000007;Bdew;Cooltours GmbH;Lieferant;01.01.1900 00:00:00;57220
 5790002638114;Bdew;Copenhagen Energy Trading A/S;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;60225
@@ -5456,7 +5482,6 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9910919000002;Bdew;DeESA GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;470
 9982144000008;Bdew;DEFAMA Zubehör GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;58564
 9982396000004;Bdew;DEFAMA Zubehör GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;58564
-9911738000009;Bdew;degewo netzWerk GmbH;Messstellenbetreiber;01.01.1900 00:00:00;1243
 9981590000000;Bdew;degewo netzWerk GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;1243
 9982116000002;Bdew;degewo netzWerk GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;1243
 9911509000006;Bdew;DEH Deutsche Energiehandels GmbH;Lieferant;01.01.1900 00:00:00;471
@@ -5512,7 +5537,6 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9978675000005;Bdew;DIGImeto GmbH & Co. KG;Messstellenbetreiber;01.01.1900 00:00:00;25415
 9982407000000;Bdew;Dirk Clausen;Betreiber einer technischen Ressource;01.01.1900 00:00:00;58718
 9906318000008;Bdew;Dirk Rossmann GmbH;Messstellenbetreiber;01.01.1900 00:00:00;492
-9905048000007;Bdew;discovergy GmbH;Messstellenbetreiber;01.01.1900 00:00:00;493
 9984920000004;Bdew;DK Recycling und Roheisen GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;60850
 9982966000004;Bdew;Döderlein Spedition GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;59034
 9983343000005;Bdew;Döderlein Spedition GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;59034
@@ -5547,6 +5571,8 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9983447000000;Bdew;Dr. Heinz-Jörg Nölck;Betreiber einer technischen Ressource;01.01.1900 00:00:00;59411
 9983432000007;Bdew;DR. JOHANNES HEIDENHAIN GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;59396
 9983431000008;Bdew;DR. JOHANNES HEIDENHAIN GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;59396
+9984950000008;Bdew;DR. JOHANNES HEIDENHAIN GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;59396
+9984949000001;Bdew;DR. JOHANNES HEIDENHAIN GmbH;Lieferant;01.01.1900 00:00:00;59396
 9982214000003;Bdew;Dr. Kilian Lange;Betreiber einer technischen Ressource;01.01.1900 00:00:00;58608
 9984501000001;Bdew;Dr. Markus Richter;Einsatzverantwortlicher;01.01.1900 00:00:00;60410
 9984502000000;Bdew;Dr. Markus Richter;Betreiber einer technischen Ressource;01.01.1900 00:00:00;60410
@@ -5603,6 +5629,7 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9978414000000;Bdew;E.ON Energie Deutschland GmbH;Messstellenbetreiber;01.01.1900 00:00:00;1027
 9978571000000;Bdew;E.ON Energie Deutschland GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;1027
 9979608000004;Bdew;E.ON Energie Deutschland GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;1027
+9984986000006;Bdew;E.ON Energy Markets GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;55710
 9978854000008;Bdew;E.ON Energy Projects GmbH;Lieferant;01.01.1900 00:00:00;1030
 9978937000008;Bdew;E.ON Energy Solutions GmbH;Messstellenbetreiber;01.01.1900 00:00:00;2943
 9980988000002;Bdew;E.ON Energy Solutions GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;2943
@@ -5631,8 +5658,8 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9984414000007;Bdew;E1 Energiemanagement GmbH;Energieserviceanbieter des Anschlussnutzers;01.01.1900 00:00:00;60300
 9977693000005;Bdew;e2m Wind & Solar GmbH;Lieferant;01.01.1900 00:00:00;3400
 9977692000006;Bdew;e2m Wind & Solar GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;3400
-7609999151408;Bdew;E6 SA;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;3383
-9978692000004;Bdew;E6 SA;Lieferant;01.01.1900 00:00:00;3383
+7609999151408;Bdew;E6;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;3383
+9978692000004;Bdew;E6;Lieferant;01.01.1900 00:00:00;3383
 9977965000006;Bdew;EAG Energie Abrechnungs- und Service GmbH;Lieferant;01.01.1900 00:00:00;5607
 9978871000007;Bdew;EAG Energie Abrechnungs- und Service GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;5607
 9980666000001;Bdew;EAM Beteiligungen GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;57716
@@ -5680,10 +5707,6 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9979247000001;Bdew;ecoworks energy services GmbH;Lieferant;01.01.1900 00:00:00;53648
 9980123000007;Bdew;ED Naturenergie Borgentreich GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;57403
 9980124000006;Bdew;ED Naturenergie Borgentreich GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;57403
-4260016040117;Bdew;ED Netze GmbH;Netzbetreiber;01.01.1900 00:00:00;551
-9904647000004;Bdew;ED Netze GmbH;Messstellenbetreiber;01.01.1900 00:00:00;551
-4260016050086;Bdew;ED Netze GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;551
-4260016040131;Bdew;ED Netze GmbH;Lieferant;01.01.1900 00:00:00;551
 9983075000000;Bdew;ED Photovoltaik GbR;Betreiber einer technischen Ressource;01.01.1900 00:00:00;59103
 9904127000003;Bdew;EDEKA Versorgungsgesellschaft mbH;Lieferant;01.01.1900 00:00:00;553
 9984405000008;Bdew;EDEKA Versorgungsgesellschaft mbH;Energieserviceanbieter des Anschlussnutzers;01.01.1900 00:00:00;553
@@ -5706,6 +5729,7 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9905246000007;Bdew;EEG Energie- Einkaufs- und Service GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;561
 9981371000005;Bdew;EES ENERKO Energy Solutions GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;20204
 9981372000004;Bdew;EES ENERKO Energy Solutions GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;20204
+9984955000003;Bdew;EES ENERKO Energy Solutions GmbH;Energieserviceanbieter des Anschlussnutzers;01.01.1900 00:00:00;20204
 9978383000008;Bdew;EEW Energy from Waste GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;13884
 9978393000006;Bdew;EEW Energy from Waste GmbH;Lieferant;01.01.1900 00:00:00;13884
 9981075000004;Bdew;EEW Energy from Waste Göppingen GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;57937
@@ -5785,6 +5809,7 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9982598000000;Bdew;Eigenbetrieb Abfallwirtschaft Rheingau-Taunus-Kreis;Betreiber einer technischen Ressource;01.01.1900 00:00:00;58842
 9982031000004;Bdew;Eigenbetrieb der Gemeinde Bad Endbach - Kur-Tourismus-Energie;Betreiber einer technischen Ressource;01.01.1900 00:00:00;58501
 9982030000005;Bdew;Eigenbetrieb der Gemeinde Bad Endbach - Kur-Tourismus-Energie;Einsatzverantwortlicher;01.01.1900 00:00:00;58501
+9984996000004;Bdew;Eigenbetrieb Stadtentwässerung Mannheim;Betreiber einer technischen Ressource;01.01.1900 00:00:00;60962
 9905559000009;Bdew;Einhorn Energie GmbH & Co. KG;Lieferant;01.01.1900 00:00:00;588
 9906159000001;Bdew;Einhorn Energie GmbH & Co. KG;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;588
 9978400000006;Bdew;EINHUNDERT Energie GmbH;Lieferant;01.01.1900 00:00:00;19116
@@ -5802,6 +5827,7 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9982155000005;Bdew;EJB-Immobilien GbR (Photovoltaik);Einsatzverantwortlicher;01.01.1900 00:00:00;58572
 9984640000003;Bdew;EJB-Immobilien GbR (Photovoltaik);Betreiber einer technischen Ressource;01.01.1900 00:00:00;58572
 9984873000002;Bdew;EKOCity GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;60798
+9985001000004;Bdew;ekviso GmbH;Energieserviceanbieter des Anschlussnutzers;01.01.1900 00:00:00;60967
 9983331000009;Bdew;ELARIS AG;Betreiber einer technischen Ressource;01.01.1900 00:00:00;59317
 9905983000005;Bdew;ELE Verteilnetz GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;593
 9905778000004;Bdew;ELE Verteilnetz GmbH;Messstellenbetreiber;01.01.1900 00:00:00;593
@@ -5926,7 +5952,6 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9906291000000;Bdew;Elektrizitätswerk Diessen Stadler GmbH;Messstellenbetreiber;01.01.1900 00:00:00;636
 9906290000001;Bdew;Elektrizitätswerk Diessen Stadler GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;636
 9904046000001;Bdew;Elektrizitätswerk Georg Grandl e.K.;Lieferant;01.01.1900 00:00:00;637
-9900628000005;Bdew;Elektrizitätswerk Georg Grandl e.K.;Netzbetreiber;01.01.1900 00:00:00;637
 9906000000001;Bdew;Elektrizitätswerk Georg Grandl e.K.;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;637
 9910466000000;Bdew;Elektrizitätswerk Georg Grandl e.K.;Messstellenbetreiber;01.01.1900 00:00:00;637
 9905183000003;Bdew;Elektrizitätswerk Goldbach-Hösbach GmbH & Co. KG;Messstellenbetreiber;01.01.1900 00:00:00;638
@@ -5969,7 +5994,6 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9904057000008;Bdew;Elektrizitätswerk Rosenmühle e.K.;Lieferant;01.01.1900 00:00:00;648
 9910266000002;Bdew;Elektrizitätswerk S c h w e i g e r o.H.G.;Messstellenbetreiber;01.01.1900 00:00:00;534
 9900584000008;Bdew;Elektrizitätswerk S c h w e i g e r o.H.G.;Netzbetreiber;01.01.1900 00:00:00;534
-9904114000008;Bdew;Elektrizitätswerk S c h w e i g e r o.H.G.;Lieferant;01.01.1900 00:00:00;534
 9981151000001;Bdew;Elektrizitätswerk S c h w e i g e r o.H.G.;Betreiber einer technischen Ressource;01.01.1900 00:00:00;534
 9981152000000;Bdew;Elektrizitätswerk S c h w e i g e r o.H.G.;Einsatzverantwortlicher;01.01.1900 00:00:00;534
 9900597000003;Bdew;Elektrizitätswerk Simbach GmbH;Netzbetreiber;01.01.1900 00:00:00;650
@@ -6035,12 +6059,14 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9904673000002;Bdew;Elektro-Findeisen;Messstellenbetreiber;01.01.1900 00:00:00;666
 9980950000006;Bdew;Elektroinstallation Udo Leipe;Einsatzverantwortlicher;01.01.1900 00:00:00;57863
 9983027000008;Bdew;Elektroinstallation Udo Leipe;Betreiber einer technischen Ressource;01.01.1900 00:00:00;57863
+9984973000001;Bdew;Elektro-Klupsch;Einsatzverantwortlicher;01.01.1900 00:00:00;60927
+9984998000002;Bdew;Elektrolyse Mitteldeutschland GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;60964
 9982701000003;Bdew;elektro-service Werner Noppinger GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;58896
 9983651000002;Bdew;Elektrotechnik Kellner GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;59569
 9984199000009;Bdew;Elektrotechnik Schuster;Einsatzverantwortlicher;01.01.1900 00:00:00;60062
 9984230000009;Bdew;Elektrotechnik Schuster;Betreiber einer technischen Ressource;01.01.1900 00:00:00;60062
-9979089000003;Bdew;Elgabo Energiehandel AG;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;46580
-9979091000009;Bdew;Elgabo Energiehandel AG;Lieferant;01.01.1900 00:00:00;46580
+9979089000003;Bdew;Elgabo Energiehandel AG in Liquidation;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;46580
+9979091000009;Bdew;Elgabo Energiehandel AG in Liquidation;Lieferant;01.01.1900 00:00:00;46580
 9981429000006;Bdew;Elmos Semiconductor SE;Einsatzverantwortlicher;01.01.1900 00:00:00;58155
 9981444000007;Bdew;Elmos Semiconductor SE;Betreiber einer technischen Ressource;01.01.1900 00:00:00;58155
 9984041000008;Bdew;ELRS Anlagenbau GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;59916
@@ -6091,7 +6117,6 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9981090000005;Bdew;EnBW Contracting GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;1912
 9981091000004;Bdew;EnBW Contracting GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;1912
 4041404000001;Bdew;EnBW Energie Baden-Württemberg AG;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;72
-9904198000008;Bdew;EnBW Energie Baden-Württemberg AG;Messstellenbetreiber;01.01.1900 00:00:00;72
 4041409000006;Bdew;EnBW Energie Baden-Württemberg AG;Lieferant;01.01.1900 00:00:00;72
 4041404000032;Bdew;EnBW Energie Baden-Württemberg AG;Einsatzverantwortlicher;01.01.1900 00:00:00;72
 4041404000049;Bdew;EnBW Energie Baden-Württemberg AG;Betreiber einer technischen Ressource;01.01.1900 00:00:00;72
@@ -6107,6 +6132,8 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9903267000006;Bdew;EnBW Ostwürttemberg DonauRies AG;Lieferant;01.01.1900 00:00:00;717
 9905529000005;Bdew;EnBW Ostwürttemberg DonauRies AG;Messstellenbetreiber;01.01.1900 00:00:00;717
 9984562000008;Bdew;EnBW Smart Meter GmbH;Messstellenbetreiber;01.01.1900 00:00:00;60481
+9985003000002;Bdew;Encadi GmbH;Energieserviceanbieter des Anschlussnutzers;01.01.1900 00:00:00;60968
+9984992000008;Bdew;En-Concept Energy Consultancy GmbH;Energieserviceanbieter des Anschlussnutzers;01.01.1900 00:00:00;60954
 9903230000009;Bdew;Endesa Energía S.A. Zweigniederlassung Frankfurt am Main;Lieferant;01.01.1900 00:00:00;721
 9905680000001;Bdew;Endesa Generacíon S.A.;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;722
 9983593000003;Bdew;Endres Peter;Einsatzverantwortlicher;01.01.1900 00:00:00;59538
@@ -6127,6 +6154,7 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9979639000007;Bdew;enercity Aktiengesellschaft;Einsatzverantwortlicher;01.01.1900 00:00:00;2189
 9979640000004;Bdew;enercity Aktiengesellschaft;Betreiber einer technischen Ressource;01.01.1900 00:00:00;2189
 9983600000003;Bdew;enercity Erneuerbare GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;59544
+9984991000009;Bdew;enercity Erneuerbare GmbH;Energieserviceanbieter des Anschlussnutzers;01.01.1900 00:00:00;59544
 9907818000001;Bdew;enercity Flughafen Netz GmbH;Netzbetreiber;01.01.1900 00:00:00;60211
 9984334000004;Bdew;enercity Flughafen Netz GmbH;Messstellenbetreiber;01.01.1900 00:00:00;60211
 9907824000003;Bdew;enercity GridPartner GmbH;Netzbetreiber;01.01.1900 00:00:00;60841
@@ -6162,6 +6190,7 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9979702000009;Bdew;Energie Forchhammer GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;57132
 9979426000004;Bdew;Energie für Immobilien GmbH;Lieferant;01.01.1900 00:00:00;56899
 9978075000001;Bdew;Energie Hub Moorburg GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;8658
+9984994000006;Bdew;Energie Marburg-Biedenkopf GmbH & Co. KG;Lieferant;01.01.1900 00:00:00;60960
 9905782000008;Bdew;Energie Mittelsachsen GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;943
 9904866000009;Bdew;Energie Mittelsachsen GmbH;Lieferant;01.01.1900 00:00:00;943
 9978652000002;Bdew;Energie Mittelsachsen GmbH;Messstellenbetreiber;01.01.1900 00:00:00;943
@@ -6187,6 +6216,7 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9911875000003;Bdew;Energie und Wasser Potsdam GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;772
 9979983000000;Bdew;Energie und Wasser Potsdam GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;772
 9903619000000;Bdew;Energie und Wasser Wahlstedt/Bad Segeberg GmbH & Co. KG (ews);Lieferant;01.01.1900 00:00:00;773
+9984989000003;Bdew;Energie und Wasser Wahlstedt/Bad Segeberg GmbH & Co. KG (ews);Bilanzkreisverantwortlicher;01.01.1900 00:00:00;773
 9906457000000;Bdew;Energie- und Wassergesellschaft mbH;Messstellenbetreiber;01.01.1900 00:00:00;935
 9910706000009;Bdew;Energie- und Wassergesellschaft mbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;935
 9903919000007;Bdew;Energie- und Wassergesellschaft mbH;Lieferant;01.01.1900 00:00:00;935
@@ -6229,6 +6259,7 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9982165000003;Bdew;Energie Vertrieb Deutschland EVD GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;777
 9982169000009;Bdew;Energie Vertrieb Deutschland EVD GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;777
 9911574000007;Bdew;Energie Vorpommern GmbH;Lieferant;01.01.1900 00:00:00;1096
+9984970000004;Bdew;Energie Vorpommern GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;1096
 9906508000008;Bdew;Energie Waldeck-Frankenberg GmbH;Messstellenbetreiber;01.01.1900 00:00:00;778
 9905795000003;Bdew;Energie Waldeck-Frankenberg GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;778
 9900357000003;Bdew;Energie Waldeck-Frankenberg GmbH;Netzbetreiber;01.01.1900 00:00:00;778
@@ -6251,7 +6282,7 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9979258000008;Bdew;Energiedienste der Landeshauptstadt Stuttgart GmbH;Messstellenbetreiber;01.01.1900 00:00:00;31459
 9911497000001;Bdew;Energiedienstleistungen Main-Kinzig GmbH;Lieferant;01.01.1900 00:00:00;784
 9980404000007;Bdew;Energiedienstleistungen Rhein-Neckar GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;13866
-9905272000005;Bdew;Energieeinkaufs- und -handelsgesellshaft Mecklenburg-Vorpommern mbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;785
+9905272000005;Bdew;Energieeinkaufs- und -handelsgesellschaft Mecklenburg-Vorpommern mbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;785
 9977998000007;Bdew;Energiefeld Geel GmbH & Co. KG;Lieferant;01.01.1900 00:00:00;6611
 9910626000006;Bdew;Energiegenossenschaft für Wittmund eG;Messstellenbetreiber;01.01.1900 00:00:00;788
 9907083000000;Bdew;Energiegenossenschaft für Wittmund eG;Netzbetreiber;01.01.1900 00:00:00;788
@@ -6481,6 +6512,7 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9906470000003;Bdew;energis-Netzgesellschaft mbH;Messstellenbetreiber;01.01.1900 00:00:00;875
 9905927000003;Bdew;energis-Netzgesellschaft mbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;875
 9978966000003;Bdew;energis-Netzgesellschaft mbH;Lieferant;01.01.1900 00:00:00;875
+9984882000001;Bdew;ENERGO Zone GmbH;Lieferant;01.01.1900 00:00:00;60814
 9978042000000;Bdew;Energora GmbH;Lieferant;01.01.1900 00:00:00;6647
 9978191000000;Bdew;Energora GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;6647
 9978015000003;Bdew;Energovia EOOD (Ltd.);Bilanzkreisverantwortlicher;01.01.1900 00:00:00;6624
@@ -6502,6 +6534,7 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9905506000002;Bdew;ENERGY TRADING COMPANY, s.r.o.;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;882
 9904536000008;Bdew;Energy2day GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;886
 9904471000006;Bdew;Energy2day GmbH;Lieferant;01.01.1900 00:00:00;886
+9985013000000;Bdew;energy2flat Service GmbH & CO. KG;Energieserviceanbieter des Anschlussnutzers;01.01.1900 00:00:00;60985
 9905648000001;Bdew;Energy2market GmbH;Lieferant;01.01.1900 00:00:00;887
 9905110000000;Bdew;Energy2market GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;887
 9979433000005;Bdew;Energy2market GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;887
@@ -6525,6 +6558,7 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9979166000009;Bdew;ENERTRAG Netz GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;898
 9982890000005;Bdew;ENERTRAG Netz GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;898
 9983063000004;Bdew;ENERTRAG SE;Netznutzer ohne All-Inklusiv-Vertrag;01.01.1900 00:00:00;59089
+9985010000003;Bdew;ENERTRAG SE;Energieserviceanbieter des Anschlussnutzers;01.01.1900 00:00:00;59089
 9905719000005;Bdew;ENERVIE Vernetzt GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;900
 9907409000006;Bdew;ENERVIE Vernetzt GmbH;Netzbetreiber;01.01.1900 00:00:00;900
 9904724000000;Bdew;ENERVIE Vernetzt GmbH;Messstellenbetreiber;01.01.1900 00:00:00;900
@@ -6594,6 +6628,7 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9984477000002;Bdew;Enpal B.V.;Lieferant;01.01.1900 00:00:00;56832
 9979241000007;Bdew;Enpal Energy GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;51648
 9979242000006;Bdew;Enpal Energy GmbH;Lieferant;01.01.1900 00:00:00;51648
+9984961000005;Bdew;Enpal Energy GmbH;Messstellenbetreiber;01.01.1900 00:00:00;51648
 9979101000006;Bdew;Enphase Energy Germany AG;Lieferant;01.01.1900 00:00:00;46582
 9979262000002;Bdew;enplify eG;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;53663
 9984388000000;Bdew;enplify eG;Energieserviceanbieter des Anschlussnutzers;01.01.1900 00:00:00;53663
@@ -6620,6 +6655,7 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9904325000003;Bdew;Ensys GmbH;Lieferant;01.01.1900 00:00:00;922
 9904435000000;Bdew;Ensys GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;922
 9980561000007;Bdew;ensyte GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;57649
+9984967000009;Bdew;Entarc.eu GmbH;Energieserviceanbieter des Anschlussnutzers;01.01.1900 00:00:00;60920
 9984704000006;Bdew;Entega Iqony Wärme GmbH;Lieferant;01.01.1900 00:00:00;60630
 9904611000006;Bdew;ENTEGA Plus GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;924
 9903144000004;Bdew;ENTEGA Plus GmbH;Lieferant;01.01.1900 00:00:00;924
@@ -6701,6 +6737,7 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9978371000002;Bdew;ESB Wärme GmbH;Lieferant;01.01.1900 00:00:00;3517
 9980785000007;Bdew;ESB Wärme GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;3517
 9981476000009;Bdew;ESB Wärme GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;3517
+9985009000006;Bdew;Eselhof Allinger;Lieferant;01.01.1900 00:00:00;60977
 9978590000007;Bdew;ESF Elbe-Stahlwerke Feralpi GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;22324
 9978972000005;Bdew;ESF Elbe-Stahlwerke Feralpi GmbH;Netznutzer ohne All-Inklusiv-Vertrag;01.01.1900 00:00:00;22324
 9911261000005;Bdew;e-shelter power grid GmbH;Messstellenbetreiber;01.01.1900 00:00:00;523
@@ -6791,7 +6828,6 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9906014000005;Bdew;EW Geiger GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;990
 9910620000002;Bdew;EW Geiger GmbH;Messstellenbetreiber;01.01.1900 00:00:00;990
 9903788000006;Bdew;EW Geiger GmbH;Lieferant;01.01.1900 00:00:00;990
-9900406000003;Bdew;EW Schmid GmbH;Netzbetreiber;01.01.1900 00:00:00;991
 9906015000004;Bdew;EW Schmid GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;991
 9911298000002;Bdew;EW Schmid GmbH;Messstellenbetreiber;01.01.1900 00:00:00;991
 9903865000002;Bdew;EW Schmid GmbH;Lieferant;01.01.1900 00:00:00;991
@@ -6841,6 +6877,7 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9910001000001;Bdew;e-werk Sachsenwald GmbH;Messstellenbetreiber;01.01.1900 00:00:00;533
 9900533000009;Bdew;e-werk Sachsenwald GmbH;Netzbetreiber;01.01.1900 00:00:00;533
 9903527000001;Bdew;e-werk Sachsenwald GmbH;Lieferant;01.01.1900 00:00:00;533
+9904114000008;Bdew;E-Werk Schweiger GmbH;Lieferant;01.01.1900 00:00:00;13830
 9900668000007;Bdew;E-Werk Wanfried von Scharfenberg GmbH & Co KG;Netzbetreiber;01.01.1900 00:00:00;657
 9905302000008;Bdew;E-Werk Wanfried von Scharfenberg GmbH & Co KG;Messstellenbetreiber;01.01.1900 00:00:00;657
 9903946000004;Bdew;E-Werk Wanfried von Scharfenberg GmbH & Co KG;Lieferant;01.01.1900 00:00:00;657
@@ -7024,6 +7061,7 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9979268000006;Bdew;Forward Energie GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;53660
 9981926000004;Bdew;Frank Düvelmeyer;Einsatzverantwortlicher;01.01.1900 00:00:00;58438
 9978218000008;Bdew;FRANK ECOenergy GmbH;Lieferant;01.01.1900 00:00:00;8740
+9984984000008;Bdew;Frank Elter;Einsatzverantwortlicher;01.01.1900 00:00:00;60949
 9982137000007;Bdew;Frank Gerlitz;Einsatzverantwortlicher;01.01.1900 00:00:00;58562
 9982138000006;Bdew;Frank Gerlitz;Betreiber einer technischen Ressource;01.01.1900 00:00:00;58562
 9984439000008;Bdew;Frank Wagner;Betreiber einer technischen Ressource;01.01.1900 00:00:00;60346
@@ -7147,9 +7185,7 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9984692000001;Bdew;GAG Servicegesellschaft mit beschränkter Haftung;Lieferant;01.01.1900 00:00:00;60614
 9904448000005;Bdew;GALERIA Karstadt Kaufhof GmbH;Lieferant;01.01.1900 00:00:00;1432
 9905868000005;Bdew;GALERIA Karstadt Kaufhof GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;1432
-9900214000005;Bdew;Gammertinger Energie- und Wasserversorgung GmbH;Netzbetreiber;01.01.1900 00:00:00;1088
 9903764000004;Bdew;Gammertinger Energie- und Wasserversorgung GmbH;Lieferant;01.01.1900 00:00:00;1088
-9904626000009;Bdew;Gammertinger Energie- und Wasserversorgung GmbH;Messstellenbetreiber;01.01.1900 00:00:00;1088
 9906242000009;Bdew;Gammertinger Energie- und Wasserversorgung GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;1088
 9984489000008;Bdew;Ganzert GmbH Wattelinfabrik;Einsatzverantwortlicher;01.01.1900 00:00:00;60390
 9984490000005;Bdew;Ganzert GmbH Wattelinfabrik;Betreiber einer technischen Ressource;01.01.1900 00:00:00;60390
@@ -7158,8 +7194,6 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 5056304700004;Bdew;Gas Management Services Limited;Energieserviceanbieter des Anschlussnutzers;01.01.1900 00:00:00;60851
 9904888000003;Bdew;Gas- und Energiegenossenschaft Ost- und Mitteldeutschland eG (GEG);Lieferant;01.01.1900 00:00:00;1091
 9905678000005;Bdew;Gas- und Energiegenossenschaft Ost- und Mitteldeutschland eG (GEG);Bilanzkreisverantwortlicher;01.01.1900 00:00:00;1091
-9979344000003;Bdew;Gas und Strom Mittelrhein GmbH;Lieferant;01.01.1900 00:00:00;56775
-9979381000008;Bdew;Gas und Strom Mittelrhein GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;56775
 9912028000006;Bdew;Gas- und Wärmedienst Börnsen GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;1092
 9903926000008;Bdew;Gas- und Wärmedienst Börnsen GmbH;Lieferant;01.01.1900 00:00:00;1092
 9910547000002;Bdew;Gas- und Wasserversorgung Höxter GmbH;Lieferant;01.01.1900 00:00:00;1093
@@ -7233,7 +7267,6 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9982772000008;Bdew;Gemeinde-Elektrizitäts- und Wasserwerk;Betreiber einer technischen Ressource;01.01.1900 00:00:00;1238
 9911487000003;Bdew;Gemeindestrom Wadgassen GmbH;Lieferant;01.01.1900 00:00:00;1118
 9903981000001;Bdew;Gemeindewerk Hördt;Lieferant;01.01.1900 00:00:00;1119
-9907254000003;Bdew;Gemeindewerk Hördt;Netzbetreiber;01.01.1900 00:00:00;1119
 9906884000003;Bdew;Gemeindewerk Hördt;Messstellenbetreiber;01.01.1900 00:00:00;1119
 9978793000002;Bdew;Gemeindewerk Sörup GmbH;Lieferant;01.01.1900 00:00:00;33464
 9904672000003;Bdew;Gemeindewerke Ammerbuch GmbH;Lieferant;01.01.1900 00:00:00;1121
@@ -7404,7 +7437,6 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9910324000001;Bdew;Gemeindewerke Rückersdorf;Messstellenbetreiber;01.01.1900 00:00:00;1182
 9903360000002;Bdew;Gemeindewerke Rückersdorf;Lieferant;01.01.1900 00:00:00;1182
 9906859000004;Bdew;Gemeindewerke Rülzheim;Messstellenbetreiber;01.01.1900 00:00:00;1183
-9907158000000;Bdew;Gemeindewerke Rülzheim;Netzbetreiber;01.01.1900 00:00:00;1183
 9903989000003;Bdew;Gemeindewerke Rülzheim;Lieferant;01.01.1900 00:00:00;1183
 9978239000003;Bdew;Gemeindewerke Ruppichteroth GmbH;Lieferant;01.01.1900 00:00:00;10738
 9907192000008;Bdew;Gemeindewerke Schönkirchen GmbH;Netzbetreiber;01.01.1900 00:00:00;1184
@@ -7442,9 +7474,6 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9907115000001;Bdew;Gemeindewerke Waging am See;Netzbetreiber;01.01.1900 00:00:00;1200
 9903066000009;Bdew;Gemeindewerke Waging am See;Lieferant;01.01.1900 00:00:00;1200
 9910072000006;Bdew;Gemeindewerke Waging am See;Messstellenbetreiber;01.01.1900 00:00:00;1200
-9911256000002;Bdew;Gemeindewerke Weidenthal;Messstellenbetreiber;01.01.1900 00:00:00;1203
-9903846000005;Bdew;Gemeindewerke Weidenthal;Lieferant;01.01.1900 00:00:00;1203
-9907159000009;Bdew;Gemeindewerke Weidenthal;Netzbetreiber;01.01.1900 00:00:00;1203
 9900677000006;Bdew;Gemeindewerke Wendelstein Kommunalunternehmen;Netzbetreiber;01.01.1900 00:00:00;1204
 9905032000005;Bdew;Gemeindewerke Wendelstein Kommunalunternehmen;Messstellenbetreiber;01.01.1900 00:00:00;1204
 9903707000003;Bdew;Gemeindewerke Wendelstein Kommunalunternehmen;Lieferant;01.01.1900 00:00:00;1204
@@ -7507,6 +7536,7 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9983479000002;Bdew;Gerwin Klotz;Betreiber einer technischen Ressource;01.01.1900 00:00:00;58536
 9982405000002;Bdew;Gesellschaft für Intelligente Infrastruktur Zwickau mbH;Einsatzverantwortlicher;01.01.1900 00:00:00;58723
 9982512000002;Bdew;Gesellschaft für Intelligente Infrastruktur Zwickau mbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;58723
+9984983000009;Bdew;Gesellschaft für Materialforschung und Prüfungsanstalt für das Bauwesen Leipzig mbH - MFPA Leipzig GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;60945
 9982566000008;Bdew;Gestamp Umformtechnik GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;58818
 9984743000009;Bdew;GESTERNOVA S.A.;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;60664
 9979813000005;Bdew;GET AG;Data Provider;01.01.1900 00:00:00;57208
@@ -7781,6 +7811,7 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9983081000002;Bdew;Hardkop-Ziemann Biogas GmbH & Co. KG;Betreiber einer technischen Ressource;01.01.1900 00:00:00;59111
 9984610000009;Bdew;Harmuth Entsorgung GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;60539
 9977825000005;Bdew;Hartmann Energie GmbH;Lieferant;01.01.1900 00:00:00;3501
+9905745000003;Bdew;HARTREE PARTNERS POWER & GAS COMPANY (UK) LIMITED;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;1323
 9903929000005;Bdew;Harz Energie GmbH & Co. KG;Lieferant;01.01.1900 00:00:00;1298
 9904552000008;Bdew;Harz Energie GmbH & Co. KG;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;1298
 9905547000003;Bdew;Harz Energie Netz GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;1299
@@ -7811,6 +7842,7 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 4007633000007;Bdew;Heibi-Metall Birmann GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;57738
 9981321000005;Bdew;Heiche Oberflächentechnik GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;58087
 9984531000005;Bdew;Heimatenergiewerke GmbH;Lieferant;01.01.1900 00:00:00;60445
+9984948000002;Bdew;Heimatenergiewerke GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;60445
 9978533000006;Bdew;Heimatstrom GmbH;Messstellenbetreiber;01.01.1900 00:00:00;21280
 9984409000004;Bdew;Heiner Schmitt;Betreiber einer technischen Ressource;01.01.1900 00:00:00;60295
 9982644000003;Bdew;Heino Schmielau;Einsatzverantwortlicher;01.01.1900 00:00:00;58862
@@ -7849,6 +7881,7 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9904472000005;Bdew;Hellenstein-Energie-Logistik GmbH;Messstellenbetreiber;01.01.1900 00:00:00;1313
 9979229000003;Bdew;Hellenstein-Energie-Logistik GmbH;Lieferant;01.01.1900 00:00:00;1313
 9984777000009;Bdew;Hello Energy B.V.;Energieserviceanbieter des Anschlussnutzers;01.01.1900 00:00:00;60699
+9985022000009;Bdew;Hello Energy B.V.;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;60699
 9910840000006;Bdew;Hellweg Energie GmbH;Lieferant;01.01.1900 00:00:00;1314
 9911636000002;Bdew;Helmstedter Revier GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;1315
 9911648000008;Bdew;Helmstedter Revier GmbH;Lieferant;01.01.1900 00:00:00;1315
@@ -7859,6 +7892,7 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9983942000000;Bdew;Hendrik Stolze;Einsatzverantwortlicher;01.01.1900 00:00:00;59835
 9983380000000;Bdew;Henglein GmbH & Co. KG;Einsatzverantwortlicher;01.01.1900 00:00:00;59354
 9983271000002;Bdew;Henkel AG & Co. KGaA;Einsatzverantwortlicher;01.01.1900 00:00:00;1316
+9984361000001;Bdew;HENNgineered Heinsdorfergrund GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;60242
 9980577000009;Bdew;HEP - Solar Spremberg GmbH & Co. KG;Betreiber einer technischen Ressource;01.01.1900 00:00:00;57658
 9980578000008;Bdew;hep energy GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;57659
 9906421000002;Bdew;Hera Trading S.r.l.;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;1317
@@ -7934,6 +7968,7 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9980945000003;Bdew;Hoos Philipp Schützner GbR;Betreiber einer technischen Ressource;01.01.1900 00:00:00;57676
 9980591000001;Bdew;HOPPE Aktiengesellschaft;Betreiber einer technischen Ressource;01.01.1900 00:00:00;57668
 9980590000002;Bdew;HOPPE Aktiengesellschaft;Einsatzverantwortlicher;01.01.1900 00:00:00;57668
+9984928000006;Bdew;Hörburger GmbH;Energieserviceanbieter des Anschlussnutzers;01.01.1900 00:00:00;60870
 9979899000003;Bdew;Horst Ickert;Einsatzverantwortlicher;01.01.1900 00:00:00;57259
 9979933000000;Bdew;Horst Ickert;Betreiber einer technischen Ressource;01.01.1900 00:00:00;57259
 9979957000002;Bdew;Horst May Wasserkraft GmbH & Co. KG;Einsatzverantwortlicher;01.01.1900 00:00:00;57293
@@ -7953,18 +7988,24 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9980355000007;Bdew;HUECK Engraving GmbH & Co. KG;Einsatzverantwortlicher;01.01.1900 00:00:00;57529
 9980357000005;Bdew;HUECK Engraving GmbH & Co. KG;Betreiber einer technischen Ressource;01.01.1900 00:00:00;57529
 9984901000007;Bdew;Hugo Benzing GmbH & Co. KG;Einsatzverantwortlicher;01.01.1900 00:00:00;60829
+9984980000002;Bdew;HUGO VOGELSANG GmbH & Co. KG;Netznutzer ohne All-Inklusiv-Vertrag;01.01.1900 00:00:00;60942
 9984509000003;Bdew;Hüls PV-Anlagen GbR;Betreiber einer technischen Ressource;01.01.1900 00:00:00;60419
 9979637000009;Bdew;Hüpen GbR;Betreiber einer technischen Ressource;01.01.1900 00:00:00;57095
 9904987000003;Bdew;Hüttenwerke Krupp Mannesmann Gesellschaft mit beschränkter Haftung;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;1345
 9904999000009;Bdew;Hüttenwerke Krupp Mannesmann Gesellschaft mit beschränkter Haftung;Lieferant;01.01.1900 00:00:00;1345
 9912004000004;Bdew;Hüttenwerke Krupp Mannesmann Gesellschaft mit beschränkter Haftung;Einsatzverantwortlicher;01.01.1900 00:00:00;1345
 9983239000002;Bdew;HWK Holzhey Wasserkraft GmbH & Co. KG;Betreiber einer technischen Ressource;01.01.1900 00:00:00;59240
+9984941000009;Bdew;Hycube Technologies GmbH;Lieferant;01.01.1900 00:00:00;60887
 9905482000001;Bdew;HYDRO ENERGI AS;Lieferant;01.01.1900 00:00:00;1728
 9905474000001;Bdew;HYDRO ENERGI AS;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;1728
 9980030000009;Bdew;i_PARK GmbH & Co. KG;Betreiber einer technischen Ressource;01.01.1900 00:00:00;57337
+9984965000001;Bdew;i-Access Energy GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;60913
+9984968000008;Bdew;i-Access Energy GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;60913
 9982267000000;Bdew;IAV GmbH Ingenieurgesellschaft Auto und Verkehr;Betreiber einer technischen Ressource;01.01.1900 00:00:00;113
 9978500000005;Bdew;IBAENERGIE GmbH;Lieferant;01.01.1900 00:00:00;20252
 9978501000004;Bdew;IBAENERGIE GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;20252
+9984969000007;Bdew;IBC GreenElements GmbH;Lieferant;01.01.1900 00:00:00;60922
+9985024000007;Bdew;IBC GreenElements GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;60922
 9982883000004;Bdew;ibeko-solar GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;58990
 9982885000002;Bdew;ibeko-solar GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;58990
 9911782000005;Bdew;Iberdrola Energia España S.A.U.;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;1352
@@ -7985,6 +8026,7 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9984548000006;Bdew;IKEA Deutschland Energieservice GmbH;Lieferant;01.01.1900 00:00:00;60146
 9984549000005;Bdew;IKEA Deutschland Energieservice GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;60146
 9984906000002;Bdew;IKEA Deutschland Energieservice GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;60146
+9984956000002;Bdew;IKEA Deutschland Energieservice GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;60146
 9911244000006;Bdew;ILG Energie + Elektro GmbH;Messstellenbetreiber;01.01.1900 00:00:00;1359
 9911776000003;Bdew;Illumia S.P.A.;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;1360
 9903329000001;Bdew;illwerke vkw AG;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;2777
@@ -8033,6 +8075,7 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9905939000009;Bdew;inetz GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;1373
 9905938000000;Bdew;inetz GmbH;Messstellenbetreiber;01.01.1900 00:00:00;1373
 9979051000007;Bdew;inetz GmbH;Lieferant;01.01.1900 00:00:00;1373
+9905048000007;Bdew;inexogy smart metering GmbH & Co. KG;Messstellenbetreiber;01.01.1900 00:00:00;60918
 9900207000004;Bdew;infra fürth gmbh;Netzbetreiber;01.01.1900 00:00:00;1374
 9904679000006;Bdew;infra fürth gmbh;Messstellenbetreiber;01.01.1900 00:00:00;1374
 9903016000009;Bdew;infra fürth gmbh;Lieferant;01.01.1900 00:00:00;1374
@@ -8051,6 +8094,7 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9910889000009;Bdew;Infraserv GmbH & Co. Höchst KG;Lieferant;01.01.1900 00:00:00;1378
 9911217000009;Bdew;Infraserv GmbH & Co. Höchst KG;Messstellenbetreiber;01.01.1900 00:00:00;1378
 9978945000008;Bdew;Infraserv GmbH & Co. Höchst KG;Einsatzverantwortlicher;01.01.1900 00:00:00;1378
+9984999000001;Bdew;Infraserv GmbH & Co. Höchst KG;Betreiber einer technischen Ressource;01.01.1900 00:00:00;1378
 9907464000009;Bdew;InfraServ GmbH & Co. Wiesbaden KG;Netzbetreiber;01.01.1900 00:00:00;1379
 9910964000007;Bdew;InfraServ GmbH & Co. Wiesbaden KG;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;1379
 9978336000005;Bdew;InfraServ GmbH & Co. Wiesbaden KG;Messstellenbetreiber;01.01.1900 00:00:00;1379
@@ -8101,10 +8145,12 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9984325000005;Bdew;Iqony GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;60201
 9984326000004;Bdew;Iqony GmbH;Lieferant;01.01.1900 00:00:00;60201
 9977979000000;Bdew;Iqony Technischer Service GmbH;Messstellenbetreiber;01.01.1900 00:00:00;6594
+9985005000000;Bdew;Iqony Technischer Service GmbH;Energieserviceanbieter des Anschlussnutzers;01.01.1900 00:00:00;6594
 9982235000008;Bdew;ISPEX Consulting GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;58625
 9982133000001;Bdew;ISS Communication Services GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;58559
 9982132000002;Bdew;ISS Communication Services GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;58559
 9984286000003;Bdew;ista SE;Messstellenbetreiber;01.01.1900 00:00:00;60228
+4399902289931;Bdew;ITC Internet-Trade-Center AG;Energieserviceanbieter des Anschlussnutzers;01.01.1900 00:00:00;60958
 9979654000008;Bdew;iTerra GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;57100
 9979658000004;Bdew;iTerra GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;57100
 9905148000006;Bdew;Itron Zähler & Systemtechnik GmbH;Messstellenbetreiber;01.01.1900 00:00:00;1401
@@ -8124,8 +8170,8 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9981937000001;Bdew;Jens Ehlers;Einsatzverantwortlicher;01.01.1900 00:00:00;58449
 9984047000002;Bdew;Jens Neubauer;Einsatzverantwortlicher;01.01.1900 00:00:00;59920
 9982916000004;Bdew;Jens Weigelt;Betreiber einer technischen Ressource;01.01.1900 00:00:00;59007
-9978897000007;Bdew;JES AG;Lieferant;01.01.1900 00:00:00;41541
-9978914000005;Bdew;JES AG;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;41541
+9978897000007;Bdew;JES STROM GmbH;Lieferant;01.01.1900 00:00:00;41541
+9978914000005;Bdew;JES STROM GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;41541
 4260263110007;Bdew;Jesser-Mühle GmbH & Co. KG;Einsatzverantwortlicher;01.01.1900 00:00:00;57896
 9983986000008;Bdew;Jether Energy Research Ltd.;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;59812
 9983316000008;Bdew;Jetzinger Biogas GbR;Betreiber einer technischen Ressource;01.01.1900 00:00:00;59304
@@ -8154,6 +8200,7 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9911870000008;Bdew;Josef Dorner Mineraloel - GmbH;Lieferant;01.01.1900 00:00:00;1416
 9981870000001;Bdew;Josef Frhr. von Beverfoerde;Einsatzverantwortlicher;01.01.1900 00:00:00;58020
 9981871000000;Bdew;Josef Frhr. von Beverfoerde;Betreiber einer technischen Ressource;01.01.1900 00:00:00;58020
+9983780000006;Bdew;Josef Kraus;Einsatzverantwortlicher;01.01.1900 00:00:00;59700
 9981951000003;Bdew;Josef Neuner GmbH & Co. KG;Betreiber einer technischen Ressource;01.01.1900 00:00:00;58457
 9981952000002;Bdew;Josef Neuner GmbH & Co. KG;Einsatzverantwortlicher;01.01.1900 00:00:00;58457
 9983301000005;Bdew;Josef Ott;Betreiber einer technischen Ressource;01.01.1900 00:00:00;59296
@@ -8306,8 +8353,8 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9982569000005;Bdew;Klein-Heßling Lohmar GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;58819
 9980794000006;Bdew;Kletzsch Photovoltaik GbR;Einsatzverantwortlicher;01.01.1900 00:00:00;57776
 9911460000004;Bdew;KlickEnergie GmbH & Co. KG;Lieferant;01.01.1900 00:00:00;1453
-9978786000001;Bdew;KlimaINVEST Green Concepts GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;29440
-9979335000004;Bdew;KlimaINVEST Green Concepts GmbH;Lieferant;01.01.1900 00:00:00;29440
+9978786000001;Bdew;KlimaInvest Green Concepts GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;29440
+9979335000004;Bdew;KlimaInvest Green Concepts GmbH;Lieferant;01.01.1900 00:00:00;29440
 9980529000007;Bdew;Klinik Mallersdorf;Betreiber einer technischen Ressource;01.01.1900 00:00:00;57635
 9980531000003;Bdew;Klinik Mallersdorf;Einsatzverantwortlicher;01.01.1900 00:00:00;57635
 9984003000004;Bdew;Klinik Manhagen GmbH & Co. KG;Einsatzverantwortlicher;01.01.1900 00:00:00;59883
@@ -8411,6 +8458,7 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9977864000008;Bdew;Kraftwerk Mehrum Gesellschaft mit beschränkter Haftung;Netznutzer ohne All-Inklusiv-Vertrag;01.01.1900 00:00:00;1486
 9984708000002;Bdew;Kraftwerk Neuss GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;60638
 9984714000004;Bdew;Kraftwerk Neuss GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;60638
+9984985000007;Bdew;Kraftwerk Neuss GmbH;Lieferant;01.01.1900 00:00:00;60638
 9978249000001;Bdew;Kraftwerk Obernburg GmbH;Lieferant;01.01.1900 00:00:00;2887
 9979358000007;Bdew;Kraftwerk Obernburg GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;2887
 9911916000003;Bdew;Kraftwerk Plattling GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;1487
@@ -8452,8 +8500,11 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9979910000007;Bdew;Kurgesellschaft Schlema mbH;Einsatzverantwortlicher;01.01.1900 00:00:00;57265
 9906116000002;Bdew;Kütro GmbH & Co. KG;Messstellenbetreiber;01.01.1900 00:00:00;1496
 9980271000008;Bdew;Kutz Gbr Rainer u. Andreas Kutz;Einsatzverantwortlicher;01.01.1900 00:00:00;57478
+5070002784302;Bdew;KVASIR TECHNOLOGIES LTD;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;60944
 9982171000005;Bdew;KW NaturEnergie GbR;Einsatzverantwortlicher;01.01.1900 00:00:00;58581
 9982170000006;Bdew;KW NaturEnergie GbR;Betreiber einer technischen Ressource;01.01.1900 00:00:00;58581
+9904342000002;Bdew;kW24 GmbH;Lieferant;01.01.1900 00:00:00;396
+9979110000005;Bdew;kW24 GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;396
 9900251000000;Bdew;KWH Netz GmbH;Netzbetreiber;01.01.1900 00:00:00;1499
 9910241000001;Bdew;KWH Netz GmbH;Messstellenbetreiber;01.01.1900 00:00:00;1499
 9982183000001;Bdew;KWH Netz GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;1499
@@ -8487,6 +8538,7 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9984422000007;Bdew;Landkreis Roth;Betreiber einer technischen Ressource;01.01.1900 00:00:00;60306
 9982721000009;Bdew;Landkreis Schmalkalden-Meiningen;Einsatzverantwortlicher;01.01.1900 00:00:00;58905
 9982722000008;Bdew;Landkreis Schmalkalden-Meiningen;Betreiber einer technischen Ressource;01.01.1900 00:00:00;58905
+4025500001162;Bdew;Landliebe GmbH;Netznutzer ohne All-Inklusiv-Vertrag;01.01.1900 00:00:00;60882
 9911495000003;Bdew;LandStrom GmbH & Co. KG;Lieferant;01.01.1900 00:00:00;1507
 9978190000001;Bdew;LandStrom GmbH & Co. KG;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;1507
 9984425000004;Bdew;Landwind Verwaltungs GmbH & Co. KG;Lieferant;01.01.1900 00:00:00;60311
@@ -8534,6 +8586,7 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9981109000003;Bdew;Leuchtturm Großvargula GmbH & Co. KG;Betreiber einer technischen Ressource;01.01.1900 00:00:00;57959
 9911174000001;Bdew;Leuendorff Strom und Erdgas GmbH;Lieferant;01.01.1900 00:00:00;1849
 9911175000000;Bdew;Leuendorff Strom und Erdgas GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;1849
+9984997000003;Bdew;Levl Energy GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;60963
 9900027000002;Bdew;LEW Verteilnetz GmbH;Netzbetreiber;01.01.1900 00:00:00;1518
 9906431000000;Bdew;LEW Verteilnetz GmbH;Messstellenbetreiber;01.01.1900 00:00:00;1518
 9905710000004;Bdew;LEW Verteilnetz GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;1518
@@ -8670,6 +8723,7 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9980558000002;Bdew;Manfred Oertel;Betreiber einer technischen Ressource;01.01.1900 00:00:00;57646
 9911304000003;Bdew;Manfred Welsch GmbH;Lieferant;01.01.1900 00:00:00;1554
 9984085000006;Bdew;Manfredo Friesen;Betreiber einer technischen Ressource;01.01.1900 00:00:00;59954
+9985007000008;Bdew;Mangfalltal Energie GmbH;Lieferant;01.01.1900 00:00:00;60974
 9904418000001;Bdew;MANN Naturenergie GmbH & Co. KG;Lieferant;01.01.1900 00:00:00;1555
 9978242000008;Bdew;MANN Naturenergie GmbH & Co. KG;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;1555
 9983650000003;Bdew;Mannesmannröhren-Werk GmbH;Netznutzer ohne All-Inklusiv-Vertrag;01.01.1900 00:00:00;59583
@@ -8893,6 +8947,7 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9980812000003;Bdew;Monika Willig;Betreiber einer technischen Ressource;01.01.1900 00:00:00;57788
 9980811000004;Bdew;Monika Willig;Einsatzverantwortlicher;01.01.1900 00:00:00;57788
 9984269000004;Bdew;Monolith Capital AG;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;60111
+9984953000005;Bdew;Monsson Trading SA;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;60898
 9911480000000;Bdew;MONTANA Energieversorgung GmbH & Co. KG;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;1618
 9911481000009;Bdew;MONTANA Energieversorgung GmbH & Co. KG;Lieferant;01.01.1900 00:00:00;1618
 9983068000009;Bdew;montanWIND Windpark Gohlocher Wald GmbH & Co. KG;Betreiber einer technischen Ressource;01.01.1900 00:00:00;59096
@@ -8973,6 +9028,10 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 4260016040025;Bdew;naturenergie hochrhein AG;Lieferant;01.01.1900 00:00:00;783
 4260016040148;Bdew;naturenergie hochrhein AG;Einsatzverantwortlicher;01.01.1900 00:00:00;783
 4260016040155;Bdew;naturenergie hochrhein AG;Betreiber einer technischen Ressource;01.01.1900 00:00:00;783
+4260016040117;Bdew;naturenergie netze GmbH;Netzbetreiber;01.01.1900 00:00:00;551
+9904647000004;Bdew;naturenergie netze GmbH;Messstellenbetreiber;01.01.1900 00:00:00;551
+4260016050086;Bdew;naturenergie netze GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;551
+4260016040131;Bdew;naturenergie netze GmbH;Lieferant;01.01.1900 00:00:00;551
 9980331000005;Bdew;Natürlich Insheim GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;57518
 9979478000002;Bdew;naturon GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;56956
 9979477000003;Bdew;naturon GmbH;Lieferant;01.01.1900 00:00:00;56956
@@ -8999,6 +9058,7 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9980664000003;Bdew;NECON Neue Energie-Concepte GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;56823
 9984289000000;Bdew;Nedschroef Altena GmbH;Netznutzer ohne All-Inklusiv-Vertrag;01.01.1900 00:00:00;60160
 9981112000008;Bdew;NEOPERL GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;57960
+9984962000004;Bdew;NEOS Energy GmbH;Lieferant;01.01.1900 00:00:00;60908
 9979993000008;Bdew;Neppel Photovoltaik;Einsatzverantwortlicher;01.01.1900 00:00:00;57311
 9979999000002;Bdew;Neppel Photovoltaik;Betreiber einer technischen Ressource;01.01.1900 00:00:00;57311
 9903135000005;Bdew;N-ERGIE Aktiengesellschaft;Lieferant;01.01.1900 00:00:00;1645
@@ -9275,7 +9335,12 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9982987000009;Bdew;Octopus Energy Germany GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;19125
 9984724000002;Bdew;Octopus Energy Germany GmbH;Energieserviceanbieter des Anschlussnutzers;01.01.1900 00:00:00;19125
 9984725000001;Bdew;Octopus Energy Germany GmbH;Messstellenbetreiber;01.01.1900 00:00:00;19125
+9984952000006;Bdew;Octopus Energy Germany GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;19125
+9912170000003;Bdew;Octopus Energy Germany Operations GmbH;Lieferant;01.01.1900 00:00:00;3386
+9978278000006;Bdew;Octopus Energy Germany Operations GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;3386
 9979905000004;Bdew;Oechsner;Betreiber einer technischen Ressource;01.01.1900 00:00:00;57263
+9985016000007;Bdew;OEDIV Oetker Daten- und Informationsverarbeitung KG;Betreiber einer technischen Ressource;01.01.1900 00:00:00;60994
+9985017000006;Bdew;OEDIV Oetker Daten- und Informationsverarbeitung KG;Einsatzverantwortlicher;01.01.1900 00:00:00;60994
 9978252000006;Bdew;oekostrom Handels GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;11742
 9980636000007;Bdew;Oettinger Brauerei GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;57701
 9980634000009;Bdew;Oettinger Brauerei GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;57701
@@ -9292,8 +9357,6 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9984703000007;Bdew;Oli Systems GmbH;Lieferant;01.01.1900 00:00:00;57372
 9984705000005;Bdew;Oli Systems GmbH;Energieserviceanbieter des Anschlussnutzers;01.01.1900 00:00:00;57372
 9984945000005;Bdew;Oli Systems GmbH;Messstellenbetreiber;01.01.1900 00:00:00;57372
-9983101000007;Bdew;Oliver Galonska;Einsatzverantwortlicher;01.01.1900 00:00:00;59127
-9983110000006;Bdew;Oliver Galonska;Betreiber einer technischen Ressource;01.01.1900 00:00:00;59127
 9984880000003;Bdew;Oliver Hanisch;Energieserviceanbieter des Anschlussnutzers;01.01.1900 00:00:00;60812
 9979474000006;Bdew;Oliver Ruoff, Thorsten Matusche GbR;Betreiber einer technischen Ressource;01.01.1900 00:00:00;56953
 9978684000004;Bdew;Omexom Renewable Energies Offshore GmbH;Messstellenbetreiber;01.01.1900 00:00:00;26415
@@ -9320,8 +9383,11 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9907648000007;Bdew;OQ Services GmbH;Netzbetreiber;01.01.1900 00:00:00;13775
 9979012000004;Bdew;OQ Services GmbH;Lieferant;01.01.1900 00:00:00;13775
 9982838000009;Bdew;OQ Services GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;13775
+9985015000008;Bdew;Orbis Energie- und Umwelttechnik GmbH;Energieserviceanbieter des Anschlussnutzers;01.01.1900 00:00:00;60992
 9980545000007;Bdew;ORION Grundstücksverwaltungs GbR;Betreiber einer technischen Ressource;01.01.1900 00:00:00;57643
 9980581000003;Bdew;ORION Grundstücksverwaltungs GbR;Einsatzverantwortlicher;01.01.1900 00:00:00;57643
+9984946000004;Bdew;ORLEN Energia Sp. z o.o.;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;60891
+9984947000003;Bdew;ORLEN Energia Sp. z o.o.;Lieferant;01.01.1900 00:00:00;60891
 5790001215675;Bdew;Orsted Bioenergy & Thermal Power A/S;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;501
 5790001406530;Bdew;Orsted Salg & Service A /S;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;502
 9911822000006;Bdew;Orsted Salg & Service A /S;Lieferant;01.01.1900 00:00:00;502
@@ -9449,6 +9515,7 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9906313000003;Bdew;Philipp Maier jun. Berneck, Inhaber Wilhelm Kempf Erben;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;1791
 9982164000004;Bdew;Philipp May Baustoffe GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;58578
 9982466000009;Bdew;Philipp May Baustoffe GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;58578
+9907825000002;Bdew;Phoenix Compounding Technology GmbH;Netzbetreiber;01.01.1900 00:00:00;60929
 9979683000003;Bdew;Photovoltaik Albert Friedl;Betreiber einer technischen Ressource;01.01.1900 00:00:00;57115
 9979684000002;Bdew;Photovoltaik Albert Friedl;Einsatzverantwortlicher;01.01.1900 00:00:00;57115
 9982509000007;Bdew;Pieper Oberflächentechnik Hermsdorf GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;58703
@@ -9485,6 +9552,7 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9979939000004;Bdew;Power Trading Management A/S;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;57277
 9983778000000;Bdew;POWER-ENG. GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;59686
 9911951000000;Bdew;POWERMART ApS;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;1805
+9978601000003;Bdew;Powertica Commodities AG;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;23329
 9906123000003;Bdew;Präg Strom & Gas GmbH & Co. KG;Lieferant;01.01.1900 00:00:00;1806
 9906221000004;Bdew;Präg Strom & Gas GmbH & Co. KG;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;1806
 9905496000005;Bdew;Prazska energetika, a.s.;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;1808
@@ -9552,6 +9620,7 @@ WNG;Dvgw;WINGAS GmbH;Lieferant / Transportkunde;13.03.2015 15:41:00;2560
 9982714000008;Bdew;PVA Burgbernheim GmbH & Co. KG;Betreiber einer technischen Ressource;01.01.1900 00:00:00;58892
 9984463000008;Bdew;PVA Klimmer GbR;Betreiber einer technischen Ressource;01.01.1900 00:00:00;60353
 9983608000005;Bdew;PV-Energie Eichenseer GbR;Einsatzverantwortlicher;01.01.1900 00:00:00;59551
+9985018000005;Bdew;PVSM Energy GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;60996
 9911627000003;Bdew;PVU Energienetze GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;1823
 9907061000006;Bdew;PVU Energienetze GmbH;Netzbetreiber;01.01.1900 00:00:00;1823
 9906985000001;Bdew;PVU Energienetze GmbH;Messstellenbetreiber;01.01.1900 00:00:00;1823
@@ -9600,6 +9669,7 @@ Management GmbH";Betreiber einer technischen Ressource;01.01.1900 00:00:00;59195
 9979334000005;Bdew;RABOT Energy GmbH;Lieferant;01.01.1900 00:00:00;56764
 9979437000001;Bdew;RABOT Energy GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;56764
 9978889000007;Bdew;Raffinerie Heide GmbH;Lieferant;01.01.1900 00:00:00;41531
+9984966000000;Bdew;RAG AKTIENGESELLSCHAFT;Netznutzer ohne All-Inklusiv-Vertrag;01.01.1900 00:00:00;60914
 9984006000001;Bdew;Raiffeisen - meine Bank eG;Einsatzverantwortlicher;01.01.1900 00:00:00;59886
 9981543000007;Bdew;Raiffeisen Bezugs- und Handelsgenossenschaft Erzgebirge e.G. (BHG);Betreiber einer technischen Ressource;01.01.1900 00:00:00;58227
 4399902232050;Bdew;Raiffeisen Energie GmbH & Co. KG;Lieferant;01.01.1900 00:00:00;1828
@@ -9634,7 +9704,6 @@ Management GmbH";Betreiber einer technischen Ressource;01.01.1900 00:00:00;59195
 9900938000000;Bdew;REDINET Burgenland GmbH;Netzbetreiber;01.01.1900 00:00:00;1839
 9910154000007;Bdew;REDINET Burgenland GmbH;Messstellenbetreiber;01.01.1900 00:00:00;1839
 9979039000003;Bdew;REDINET Burgenland GmbH;Lieferant;01.01.1900 00:00:00;1839
-9979701000000;Bdew;Regenerative Energie Roger Wappler;Betreiber einer technischen Ressource;01.01.1900 00:00:00;57131
 9900531000001;Bdew;Regensburg Netz GmbH;Netzbetreiber;01.01.1900 00:00:00;1841
 9910820000000;Bdew;Regensburg Netz GmbH;Messstellenbetreiber;01.01.1900 00:00:00;1841
 9906150000000;Bdew;Regensburg Netz GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;1841
@@ -9718,6 +9787,7 @@ Management GmbH";Betreiber einer technischen Ressource;01.01.1900 00:00:00;59195
 9904779000005;Bdew;REWAG REGENSBURGER ENERGIE- UND WASSERVERSORGUNG AG & CO KG;Messstellenbetreiber;01.01.1900 00:00:00;1861
 9982139000005;Bdew;REWAG REGENSBURGER ENERGIE- UND WASSERVERSORGUNG AG & CO KG;Einsatzverantwortlicher;01.01.1900 00:00:00;1861
 9982145000007;Bdew;REWAG REGENSBURGER ENERGIE- UND WASSERVERSORGUNG AG & CO KG;Betreiber einer technischen Ressource;01.01.1900 00:00:00;1861
+9979701000000;Bdew;ReWap GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;60989
 9983463000000;Bdew;Rex Granit GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;59421
 9978686000002;Bdew;Rhegio Dienstleistungen GmbH;Messstellenbetreiber;01.01.1900 00:00:00;26417
 9910734000005;Bdew;Rhegio Natur GmbH;Messstellenbetreiber;01.01.1900 00:00:00;1862
@@ -9808,6 +9878,7 @@ Management GmbH";Betreiber einer technischen Ressource;01.01.1900 00:00:00;59195
 9983142000008;Bdew;Rose GmbH für Medizintechnik;Einsatzverantwortlicher;01.01.1900 00:00:00;59140
 9979857000003;Bdew;Rosemarie Schneller-Müller;Messstellenbetreiber;01.01.1900 00:00:00;57239
 9983619000002;Bdew;Rosemarie Schneller-Müller;Einsatzverantwortlicher;01.01.1900 00:00:00;57239
+9985026000005;Bdew;Rossmann EcoPower GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;61003
 9984589000007;Bdew;Rosswag GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;60514
 9910393000008;Bdew;Rothmoser GmbH & Co. KG;Messstellenbetreiber;01.01.1900 00:00:00;1885
 9906035000000;Bdew;Rothmoser GmbH & Co. KG;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;1885
@@ -9835,10 +9906,7 @@ Management GmbH";Betreiber einer technischen Ressource;01.01.1900 00:00:00;59195
 9984864000003;Bdew;RuhrEnergie GmbH, EVR;Messstellenbetreiber;01.01.1900 00:00:00;1893
 9978081000003;Bdew;Ruhrverband;Netznutzer ohne All-Inklusiv-Vertrag;01.01.1900 00:00:00;8659
 9978201000007;Bdew;Ruhrverband;Lieferant;01.01.1900 00:00:00;8659
-9982613000000;Bdew;Runnebaum Invest GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;58848
-9982614000009;Bdew;Runnebaum Invest GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;58848
 9983744000000;Bdew;Ruppert Häuslmeier;Einsatzverantwortlicher;01.01.1900 00:00:00;59660
-9981409000000;Bdew;RWE Brise Windparkbetriebsgesellschaft mbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;58135
 9984225000006;Bdew;RWE Evendorf Windparkbetriebsgesellschaft mbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;60087
 9979303000002;Bdew;RWE Generation Hydro GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;55688
 9911470000002;Bdew;RWE Generation SE;Lieferant;01.01.1900 00:00:00;1897
@@ -9851,17 +9919,16 @@ Management GmbH";Betreiber einer technischen Ressource;01.01.1900 00:00:00;59195
 9911805000007;Bdew;RWE Power AG;Einsatzverantwortlicher;01.01.1900 00:00:00;1900
 9905400000009;Bdew;RWE Power AG;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;1900
 9905399000003;Bdew;RWE Power AG;Lieferant;01.01.1900 00:00:00;1900
-9978925000002;Bdew;RWE Renewables GmbH;Netznutzer ohne All-Inklusiv-Vertrag;01.01.1900 00:00:00;41569
-9978924000003;Bdew;RWE Renewables GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;41569
-9978923000004;Bdew;RWE Renewables GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;41569
-9981117000003;Bdew;RWE Renewables GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;41569
+9978925000002;Bdew;RWE Renewables Europe & Australia GmbH;Netznutzer ohne All-Inklusiv-Vertrag;01.01.1900 00:00:00;41569
+9978924000003;Bdew;RWE Renewables Europe & Australia GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;41569
+9978923000004;Bdew;RWE Renewables Europe & Australia GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;41569
+9981117000003;Bdew;RWE Renewables Europe & Australia GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;41569
 9981415000002;Bdew;RWE Sommerland Windparkbetriebsgesellschaft mbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;58141
 4044479001201;Bdew;RWE Supply & Trading GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;1901
 4044479000006;Bdew;RWE Supply & Trading GmbH;Lieferant;01.01.1900 00:00:00;1901
 9911844000000;Bdew;RWE Supply & Trading GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;1901
 9980799000001;Bdew;RWE Supply & Trading GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;1901
 9984811000006;Bdew;RWE Wind Onshore & PV Deutschland GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;60737
-9984809000000;Bdew;RWE Windpark Bedburg A44n GmbH & Co. KG;Betreiber einer technischen Ressource;01.01.1900 00:00:00;60732
 9981418000009;Bdew;RWE Windpark Bedburg GmbH & Co. KG;Betreiber einer technischen Ressource;01.01.1900 00:00:00;58144
 9981419000008;Bdew;RWE Windpark Garzweiler GmbH & Co. KG;Betreiber einer technischen Ressource;01.01.1900 00:00:00;58145
 9979921000004;Bdew;RWV GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;57270
@@ -10000,6 +10067,7 @@ Management GmbH";Betreiber einer technischen Ressource;01.01.1900 00:00:00;59195
 9983532000006;Bdew;Schwienhorst;Einsatzverantwortlicher;01.01.1900 00:00:00;59490
 9983558000006;Bdew;Schwienhorst;Betreiber einer technischen Ressource;01.01.1900 00:00:00;59490
 9984569000001;Bdew;Schwörer Haus KG;Einsatzverantwortlicher;01.01.1900 00:00:00;58621
+9984958000000;Bdew;SCMI GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;60906
 9979457000007;Bdew;SCMI Limited;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;56935
 9911209000009;Bdew;SE Energy Trading GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;1934
 9911167000000;Bdew;SE SAUBER ENERGIE GmbH & Co. KG;Lieferant;01.01.1900 00:00:00;1935
@@ -10022,6 +10090,7 @@ Management GmbH";Betreiber einer technischen Ressource;01.01.1900 00:00:00;59195
 9905613000002;Bdew;SEFE MARKETING & TRADING LIMITED;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;1099
 5060131240077;Bdew;SEFE Marketing & Trading Switzerland AG;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;38501
 9981521000003;Bdew;Seger Elektro GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;58210
+9985020000001;Bdew;SEGULA TECHNOLOGIES GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;60997
 9980953000003;Bdew;Semita Group GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;57866
 9981833000006;Bdew;Semmelhaack Logistik GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;58382
 9911787000000;Bdew;SENEC GmbH;Messstellenbetreiber;01.01.1900 00:00:00;480
@@ -10043,8 +10112,8 @@ Management GmbH";Betreiber einer technischen Ressource;01.01.1900 00:00:00;59195
 9979062000004;Bdew;SEtrade GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;46576
 9984833000000;Bdew;SEtrade GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;46576
 9984897000004;Bdew;SEtrade GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;46576
-9978601000003;Bdew;Sev.en Commodities AG;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;23329
 9984744000008;Bdew;Seven Stone Energy GbR;Einsatzverantwortlicher;01.01.1900 00:00:00;60666
+9984972000002;Bdew;SEW Solutions GmbH;Energieserviceanbieter des Anschlussnutzers;01.01.1900 00:00:00;60926
 9900175000003;Bdew;SEW Stromversorgungs GmbH;Netzbetreiber;01.01.1900 00:00:00;1941
 9910401000007;Bdew;SEW Stromversorgungs GmbH;Messstellenbetreiber;01.01.1900 00:00:00;1941
 9903209000006;Bdew;SEW Stromversorgungs GmbH;Lieferant;01.01.1900 00:00:00;1941
@@ -10057,8 +10126,6 @@ Management GmbH";Betreiber einer technischen Ressource;01.01.1900 00:00:00;59195
 9978323000000;Bdew;Shell Energy Deutschland GmbH;Lieferant;01.01.1900 00:00:00;13776
 9905527000007;Bdew;SHELL ENERGY EUROPE LIMITED;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;1943
 9979363000000;Bdew;SHELL ENERGY EUROPE LIMITED;Lieferant;01.01.1900 00:00:00;1943
-9912170000003;Bdew;Shell Energy Retail GmbH;Lieferant;01.01.1900 00:00:00;3386
-9978278000006;Bdew;Shell Energy Retail GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;3386
 9905334000000;Bdew;Siegener Versorgungsbetriebe GmbH;Lieferant;01.01.1900 00:00:00;175
 9983592000004;Bdew;Siegener Versorgungsbetriebe GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;175
 9981135000001;Bdew;Siegfried Meier;Betreiber einer technischen Ressource;01.01.1900 00:00:00;57973
@@ -10088,7 +10155,9 @@ Management GmbH";Betreiber einer technischen Ressource;01.01.1900 00:00:00;59195
 9980459000002;Bdew;SLM Kunststofftechnik GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;57597
 9905458000001;Bdew;Slovenské elektrárne, a.s.;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;1948
 9978920000007;Bdew;Slovenský plynárenský priemysel, a.s.;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;41567
+9985000000005;Bdew;SLR Giesserei St. Leon-Rot GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;60966
 9980815000000;Bdew;SM Solar GmbH & Co. KG;Betreiber einer technischen Ressource;01.01.1900 00:00:00;57790
+9985021000000;Bdew;SmartestEnergy Limited;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;60999
 9980167000005;Bdew;SMS group GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;57393
 9980169000003;Bdew;SMS group GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;57393
 9983057000002;Bdew;Socra Solar GbR;Einsatzverantwortlicher;01.01.1900 00:00:00;59085
@@ -10173,6 +10242,7 @@ Management GmbH";Betreiber einer technischen Ressource;01.01.1900 00:00:00;59195
 9979096000004;Bdew;sonnen eServices Deutschland GmbH;Lieferant;01.01.1900 00:00:00;46581
 9977917000004;Bdew;sonnen eServices GmbH;Lieferant;01.01.1900 00:00:00;3574
 9978763000008;Bdew;sonnen eServices GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;3574
+9984933000009;Bdew;SONNENEXT energy GmbH;Lieferant;01.01.1900 00:00:00;60877
 9982729000001;Bdew;Sonneninitiative e.V;Betreiber einer technischen Ressource;01.01.1900 00:00:00;58908
 9984214000009;Bdew;SonnenKraftwerk GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;60075
 9984587000009;Bdew;SonnenKraftwerk GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;60075
@@ -10194,6 +10264,7 @@ Management GmbH";Betreiber einer technischen Ressource;01.01.1900 00:00:00;59195
 9981618000007;Bdew;Sportzentrum Denzlingen GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;58265
 9984860000007;Bdew;SpotmyEnergy GmbH;Messstellenbetreiber;01.01.1900 00:00:00;60795
 9984871000004;Bdew;SpotmyEnergy GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;60795
+9984863000004;Bdew;SpotmyEnergy GmbH;Lieferant;01.01.1900 00:00:00;60795
 9978247000003;Bdew;SpreeStromErzeugungs GmbH;Lieferant;01.01.1900 00:00:00;10741
 9984350000004;Bdew;SPRELA GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;60232
 9984351000003;Bdew;SPRELA GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;60232
@@ -10374,7 +10445,6 @@ Management GmbH";Betreiber einer technischen Ressource;01.01.1900 00:00:00;59195
 9900775000007;Bdew;Stadtwerke Arnstadt Netz GmbH & Co. KG;Netzbetreiber;01.01.1900 00:00:00;2010
 9979034000008;Bdew;Stadtwerke Arnstadt Netz GmbH & Co. KG;Lieferant;01.01.1900 00:00:00;2010
 9903556000006;Bdew;Stadtwerke Aschersleben GmbH;Lieferant;01.01.1900 00:00:00;2011
-9905052000001;Bdew;Stadtwerke Aschersleben GmbH;Messstellenbetreiber;01.01.1900 00:00:00;2011
 9905004000009;Bdew;Stadtwerke Aue - Bad Schlema GmbH;Messstellenbetreiber;01.01.1900 00:00:00;2012
 9900949000007;Bdew;Stadtwerke Aue - Bad Schlema GmbH;Netzbetreiber;01.01.1900 00:00:00;2012
 9903668000001;Bdew;Stadtwerke Aue - Bad Schlema GmbH;Lieferant;01.01.1900 00:00:00;2012
@@ -10844,6 +10914,7 @@ Management GmbH";Betreiber einer technischen Ressource;01.01.1900 00:00:00;59195
 9911592000005;Bdew;Stadtwerke Essen Aktiengesellschaft;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;2133
 9983402000003;Bdew;Stadtwerke Essen Aktiengesellschaft;Messstellenbetreiber;01.01.1900 00:00:00;2133
 9978212000004;Bdew;Stadtwerke Esslingen am Neckar GmbH & Co. KG;Lieferant;01.01.1900 00:00:00;8738
+9984995000005;Bdew;Stadtwerke Esslingen am Neckar GmbH & Co. KG;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;8738
 9906145000007;Bdew;Stadtwerke Ettlingen GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;2137
 9903410000001;Bdew;Stadtwerke Ettlingen GmbH;Lieferant;01.01.1900 00:00:00;2137
 9904197000009;Bdew;Stadtwerke Eutin GmbH;Lieferant;01.01.1900 00:00:00;2138
@@ -10853,6 +10924,7 @@ Management GmbH";Betreiber einer technischen Ressource;01.01.1900 00:00:00;59195
 9903848000003;Bdew;Stadtwerke EVB Huntetal GmbH;Lieferant;01.01.1900 00:00:00;160
 9910473000001;Bdew;Stadtwerke EVB Huntetal Netz GmbH;Messstellenbetreiber;01.01.1900 00:00:00;60890
 9900137000009;Bdew;Stadtwerke EVB Huntetal Netz GmbH;Netzbetreiber;01.01.1900 00:00:00;60890
+9984971000003;Bdew;Stadtwerke EVB Huntetal Netz GmbH;Lieferant;01.01.1900 00:00:00;60890
 9906043000000;Bdew;Stadtwerke Fellbach GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;2139
 9903277000004;Bdew;Stadtwerke Fellbach GmbH;Lieferant;01.01.1900 00:00:00;2139
 9905189000007;Bdew;Stadtwerke Fellbach GmbH;Messstellenbetreiber;01.01.1900 00:00:00;2139
@@ -10977,7 +11049,6 @@ Management GmbH";Betreiber einer technischen Ressource;01.01.1900 00:00:00;59195
 9903814000003;Bdew;Stadtwerke Goch Gesellschaft mit beschränkter Haftung;Lieferant;01.01.1900 00:00:00;2167
 9907028000007;Bdew;Stadtwerke Goch Gesellschaft mit beschränkter Haftung;Netzbetreiber;01.01.1900 00:00:00;2167
 9910193000000;Bdew;Stadtwerke Goch Gesellschaft mit beschränkter Haftung;Messstellenbetreiber;01.01.1900 00:00:00;2167
-9910747000000;Bdew;Stadtwerke Goch Gesellschaft mit beschränkter Haftung;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;2167
 9906052000009;Bdew;Stadtwerke Görlitz Aktiengesellschaft;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;2169
 9907029000006;Bdew;Stadtwerke Görlitz Aktiengesellschaft;Netzbetreiber;01.01.1900 00:00:00;2169
 9910084000002;Bdew;Stadtwerke Görlitz Aktiengesellschaft;Messstellenbetreiber;01.01.1900 00:00:00;2169
@@ -11099,6 +11170,7 @@ Management GmbH";Betreiber einer technischen Ressource;01.01.1900 00:00:00;59195
 9903434000003;Bdew;Stadtwerke Hemer Gesellschaft mit beschränkter Haftung;Lieferant;01.01.1900 00:00:00;31465
 9906632000007;Bdew;Stadtwerke Hemer Gesellschaft mit beschränkter Haftung;Messstellenbetreiber;01.01.1900 00:00:00;31465
 9907264000001;Bdew;Stadtwerke Hemer Gesellschaft mit beschränkter Haftung;Netzbetreiber;01.01.1900 00:00:00;31465
+9984974000000;Bdew;Stadtwerke Hennigsdorf GmbH;Lieferant;01.01.1900 00:00:00;60930
 9904193000003;Bdew;Stadtwerke Herborn Gesellschaft mit beschränkter Haftung;Lieferant;01.01.1900 00:00:00;2203
 9905044000001;Bdew;Stadtwerke Herborn Gesellschaft mit beschränkter Haftung;Messstellenbetreiber;01.01.1900 00:00:00;2203
 9900287000008;Bdew;Stadtwerke Herborn Gesellschaft mit beschränkter Haftung;Netzbetreiber;01.01.1900 00:00:00;2203
@@ -11280,7 +11352,6 @@ Management GmbH";Betreiber einer technischen Ressource;01.01.1900 00:00:00;59195
 9903151000005;Bdew;Stadtwerke Leipzig GmbH;Lieferant;01.01.1900 00:00:00;117
 9904512000006;Bdew;Stadtwerke Leipzig GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;117
 9911841000003;Bdew;Stadtwerke Leipzig GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;117
-9905171000007;Bdew;Stadtwerke Leipzig GmbH;Messstellenbetreiber;01.01.1900 00:00:00;117
 9979878000008;Bdew;Stadtwerke Leipzig GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;117
 9905641000008;Bdew;Stadtwerke Lemgo GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;2255
 9900381000003;Bdew;Stadtwerke Lemgo GmbH;Netzbetreiber;01.01.1900 00:00:00;2255
@@ -11492,7 +11563,6 @@ Management GmbH";Betreiber einer technischen Ressource;01.01.1900 00:00:00;59195
 9979904000005;Bdew;Stadtwerke Neuruppin GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;2302
 9903487000000;Bdew;Stadtwerke Neuss Energie und Wasser GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;2303
 9904970000002;Bdew;Stadtwerke Neuss Energie und Wasser GmbH;Lieferant;01.01.1900 00:00:00;2303
-9978521000000;Bdew;Stadtwerke Neuss Energie und Wasser GmbH;Messstellenbetreiber;01.01.1900 00:00:00;2303
 9911633000005;Bdew;Stadtwerke Neuss GmbH;Lieferant;01.01.1900 00:00:00;2304
 9903890000001;Bdew;Stadtwerke Neustadt a. d. Aisch GmbH;Lieferant;01.01.1900 00:00:00;2307
 9900462000005;Bdew;Stadtwerke Neustadt a. d. Aisch GmbH;Netzbetreiber;01.01.1900 00:00:00;2307
@@ -11657,6 +11727,7 @@ Management GmbH";Betreiber einer technischen Ressource;01.01.1900 00:00:00;59195
 9904222000007;Bdew;Stadtwerke Pritzwalk GmbH;Lieferant;01.01.1900 00:00:00;2344
 9905970000000;Bdew;Stadtwerke Pritzwalk GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;2344
 9904947000001;Bdew;Stadtwerke Pulheim GmbH;Lieferant;01.01.1900 00:00:00;2346
+9984982000000;Bdew;Stadtwerke Pulheim GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;2346
 9903577000001;Bdew;Stadtwerke Quedlinburg GmbH;Lieferant;01.01.1900 00:00:00;2347
 9900953000001;Bdew;Stadtwerke Quedlinburg GmbH;Netzbetreiber;01.01.1900 00:00:00;2347
 9906796000000;Bdew;Stadtwerke Quedlinburg GmbH;Messstellenbetreiber;01.01.1900 00:00:00;2347
@@ -11664,7 +11735,6 @@ Management GmbH";Betreiber einer technischen Ressource;01.01.1900 00:00:00;59195
 9904234000003;Bdew;Stadtwerke Quickborn GmbH;Lieferant;01.01.1900 00:00:00;2348
 9906846000009;Bdew;Stadtwerke Quickborn GmbH;Messstellenbetreiber;01.01.1900 00:00:00;2348
 9900522000002;Bdew;Stadtwerke Quickborn GmbH;Netzbetreiber;01.01.1900 00:00:00;2348
-9910829000001;Bdew;Stadtwerke Quickborn GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;2348
 9901014000005;Bdew;Stadtwerke Radevormwald GmbH;Netzbetreiber;01.01.1900 00:00:00;2349
 9903246000001;Bdew;Stadtwerke Radevormwald GmbH;Lieferant;01.01.1900 00:00:00;2349
 9905126000002;Bdew;Stadtwerke Radevormwald GmbH;Messstellenbetreiber;01.01.1900 00:00:00;2349
@@ -11715,8 +11785,6 @@ Management GmbH";Betreiber einer technischen Ressource;01.01.1900 00:00:00;59195
 9904076000005;Bdew;Stadtwerke Rinteln GmbH;Lieferant;01.01.1900 00:00:00;2358
 9905597000003;Bdew;Stadtwerke Rinteln GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;2358
 9905683000008;Bdew;Stadtwerke Rinteln GmbH;Messstellenbetreiber;01.01.1900 00:00:00;2358
-9911609000005;Bdew;Stadtwerke Rodgau;Lieferant;01.01.1900 00:00:00;2359
-9911608000006;Bdew;Stadtwerke Rodgau;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;2359
 9987099000004;Bdew;Stadtwerke Rodgau Energie GmbH;Lieferant;01.01.1900 00:00:00;3355
 9912136000005;Bdew;Stadtwerke Rodgau Energie GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;3355
 9910718000005;Bdew;Stadtwerke Rosenheim GmbH & Co. KG;Lieferant;01.01.1900 00:00:00;176
@@ -11724,8 +11792,6 @@ Management GmbH";Betreiber einer technischen Ressource;01.01.1900 00:00:00;59195
 9900553000005;Bdew;Stadtwerke Rosenheim Netze GmbH;Netzbetreiber;01.01.1900 00:00:00;2363
 9904494000009;Bdew;Stadtwerke Rosenheim Netze GmbH;Messstellenbetreiber;01.01.1900 00:00:00;2363
 9979134000007;Bdew;Stadtwerke Rosenheim Netze GmbH;Lieferant;01.01.1900 00:00:00;2363
-9980323000005;Bdew;Stadtwerke Rosenheim Netze GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;2363
-9980326000002;Bdew;Stadtwerke Rosenheim Netze GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;2363
 9903442000003;Bdew;Stadtwerke Rosenheim Versorgungs GmbH;Lieferant;01.01.1900 00:00:00;82
 9905252000009;Bdew;Stadtwerke Rosenheim Versorgungs GmbH;Messstellenbetreiber;01.01.1900 00:00:00;82
 9979811000007;Bdew;Stadtwerke Rosenheim Versorgungs GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;82
@@ -12653,6 +12719,9 @@ Management GmbH";Betreiber einer technischen Ressource;01.01.1900 00:00:00;59195
 9910234000000;Bdew;T.W.O. Technische Werke Osning GmbH;Messstellenbetreiber;01.01.1900 00:00:00;2670
 9980715000001;Bdew;T.W.O. Technische Werke Osning GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;2670
 9980716000000;Bdew;T.W.O. Technische Werke Osning GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;2670
+9911256000002;Bdew;Talwerk GmbH;Messstellenbetreiber;01.01.1900 00:00:00;60931
+9903846000005;Bdew;Talwerk GmbH;Lieferant;01.01.1900 00:00:00;60931
+9907159000009;Bdew;Talwerk GmbH;Netzbetreiber;01.01.1900 00:00:00;60931
 9982928000000;Bdew;TAMALA GbR;Betreiber einer technischen Ressource;01.01.1900 00:00:00;59014
 9982927000001;Bdew;TAMALA GbR;Einsatzverantwortlicher;01.01.1900 00:00:00;59014
 9983375000007;Bdew;Tanja Rode;Einsatzverantwortlicher;01.01.1900 00:00:00;59351
@@ -12787,7 +12856,8 @@ Management GmbH";Betreiber einer technischen Ressource;01.01.1900 00:00:00;59195
 9979237000003;Bdew;Tibber Deutschland GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;47579
 9979633000003;Bdew;Tiedemann Bioenergie GbR;Einsatzverantwortlicher;01.01.1900 00:00:00;57092
 9983669000002;Bdew;Tierzuchtgenossenschaft Gulow eG;Betreiber einer technischen Ressource;01.01.1900 00:00:00;59599
-9977922000007;Bdew;TIGAS-Erdgas Tirol GmbH;Lieferant;01.01.1900 00:00:00;4567
+9977922000007;Bdew;TIGAS-Wärme Tirol GmbH;Lieferant;01.01.1900 00:00:00;4567
+9984977000007;Bdew;Tillmann Haustechnik GmbH;Energieserviceanbieter des Anschlussnutzers;01.01.1900 00:00:00;60940
 9981958000006;Bdew;Timo Kraft;Einsatzverantwortlicher;01.01.1900 00:00:00;58461
 9981691000008;Bdew;Timo Zimmer;Einsatzverantwortlicher;01.01.1900 00:00:00;58298
 9983026000009;Bdew;Timo Zimmer;Betreiber einer technischen Ressource;01.01.1900 00:00:00;58298
@@ -12819,6 +12889,7 @@ Management GmbH";Betreiber einer technischen Ressource;01.01.1900 00:00:00;59195
 9984843000008;Bdew;Trafigura Denmark ApS;Lieferant;01.01.1900 00:00:00;60294
 9984844000007;Bdew;Trafigura Denmark ApS;Betreiber einer technischen Ressource;01.01.1900 00:00:00;60294
 9984850000009;Bdew;Trafigura Denmark ApS;Einsatzverantwortlicher;01.01.1900 00:00:00;60294
+7609999522109;Bdew;Trafigura Trading (Europe) Sàrl;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;60952
 9911473000009;Bdew;TrailStone GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;2651
 4270000696107;Bdew;TrailStone Renewables GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;41532
 9984474000005;Bdew;TrailStone Renewables GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;41532
@@ -12965,6 +13036,8 @@ Management GmbH";Betreiber einer technischen Ressource;01.01.1900 00:00:00;59195
 9978067000001;Bdew;Universitätsklinikum Leipzig AöR;Netznutzer ohne All-Inklusiv-Vertrag;01.01.1900 00:00:00;8653
 9979093000007;Bdew;Universitätsklinikum Leipzig AöR;Lieferant;01.01.1900 00:00:00;8653
 9979371000000;Bdew;Universitätsklinikum Leipzig AöR;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;8653
+9984987000005;Bdew;Universitätsklinikum Leipzig AöR;Einsatzverantwortlicher;01.01.1900 00:00:00;8653
+9984988000004;Bdew;Universitätsklinikum Leipzig AöR;Betreiber einer technischen Ressource;01.01.1900 00:00:00;8653
 9981840000007;Bdew;Untere Iller GmbH;Lieferant;01.01.1900 00:00:00;58387
 9983946000006;Bdew;Untergrafendorfer PV GbR;Einsatzverantwortlicher;01.01.1900 00:00:00;59838
 9981518000008;Bdew;Unterholzner Besitz GmbH & Co. KG;Betreiber einer technischen Ressource;01.01.1900 00:00:00;58207
@@ -13042,8 +13115,8 @@ Management GmbH";Betreiber einer technischen Ressource;01.01.1900 00:00:00;59195
 9981624000009;Bdew;venetPower GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;58269
 9981063000008;Bdew;VENSYS Elektrotechnik GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;57929
 9982925000003;Bdew;VENSYS Elektrotechnik GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;57929
-9984580000006;Bdew;Ventus Energy GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;60499
-9984938000004;Bdew;Ventus Energy GmbH;Lieferant;01.01.1900 00:00:00;60499
+9984580000006;Bdew;VentusVentures Energy GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;60499
+9984938000004;Bdew;VentusVentures Energy GmbH;Lieferant;01.01.1900 00:00:00;60499
 9907348000000;Bdew;Veolia Industriepark Deutschland GmbH;Netzbetreiber;01.01.1900 00:00:00;1736
 9910697000001;Bdew;Veolia Industriepark Deutschland GmbH;Messstellenbetreiber;01.01.1900 00:00:00;1736
 9904010000003;Bdew;Veolia Industriepark Deutschland GmbH;Lieferant;01.01.1900 00:00:00;1736
@@ -13131,6 +13204,7 @@ Management GmbH";Betreiber einer technischen Ressource;01.01.1900 00:00:00;59195
 4399902489119;Bdew;VIROQUE ENERGY, S.L.;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;60792
 9979379000002;Bdew;Vitol Gas & Power B.V.;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;56826
 9905536000006;Bdew;Vitol SA;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;2768
+9985023000008;Bdew;Vitus Capital AG;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;61000
 9981750000006;Bdew;VIVAVIS AG;Betreiber einer technischen Ressource;01.01.1900 00:00:00;1255
 9981782000008;Bdew;VIVAVIS AG;Einsatzverantwortlicher;01.01.1900 00:00:00;1255
 9906411000004;Bdew;vivi-power GmbH;Lieferant;01.01.1900 00:00:00;2769
@@ -13158,6 +13232,7 @@ Management GmbH";Betreiber einer technischen Ressource;01.01.1900 00:00:00;59195
 9984680000005;Bdew;Volkswagen Group Charging GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;29452
 9984754000006;Bdew;Volkswagen Group Charging GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;29452
 5063312000033;Bdew;Volta Energy Designated Activity Company;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;60742
+9984964000002;Bdew;Voltaik Check OHG;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;60910
 9904468000001;Bdew;VOLTARIS GmbH;Messstellenbetreiber;01.01.1900 00:00:00;2775
 9978905000006;Bdew;Voltego GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;41552
 9978907000004;Bdew;Voltego GmbH;Lieferant;01.01.1900 00:00:00;41552
@@ -13177,6 +13252,7 @@ Management GmbH";Betreiber einer technischen Ressource;01.01.1900 00:00:00;59195
 9978831000005;Bdew;vraend GmbH;Lieferant;01.01.1900 00:00:00;36479
 9978058000002;Bdew;VSB Service GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;8647
 9984581000005;Bdew;VSB Service GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;8647
+9985004000001;Bdew;VSB Service GmbH;Energieserviceanbieter des Anschlussnutzers;01.01.1900 00:00:00;8647
 9904191000005;Bdew;VSE Aktiengesellschaft;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;2780
 9911823000005;Bdew;VSE Aktiengesellschaft;Einsatzverantwortlicher;01.01.1900 00:00:00;2780
 9903305000009;Bdew;VSE Aktiengesellschaft;Lieferant;01.01.1900 00:00:00;2780
@@ -13243,6 +13319,7 @@ Management GmbH";Betreiber einer technischen Ressource;01.01.1900 00:00:00;59195
 9978797000008;Bdew;WEB Windenergie Deutschland GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;33465
 9979620000008;Bdew;WEB Windenergie Deutschland GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;33465
 9982003000008;Bdew;Weber Kraftwerkstechnik GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;58413
+9984775000001;Bdew;wechselstrom und wechselgas GmbH;Lieferant;01.01.1900 00:00:00;60697
 9981492000009;Bdew;WEFA Inotec GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;58193
 9981648000001;Bdew;WEFA Inotec GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;58193
 9979127000006;Bdew;WEG Weidener Energie GmbH;Lieferant;01.01.1900 00:00:00;46599
@@ -13324,6 +13401,7 @@ Management GmbH";Betreiber einer technischen Ressource;01.01.1900 00:00:00;59195
 9979119000006;Bdew;wesernetz Bremerhaven GmbH;Lieferant;01.01.1900 00:00:00;2809
 9984731000003;Bdew;WeShareEnergy GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;60575
 9984650000001;Bdew;WeShareEnergy GmbH;Lieferant;01.01.1900 00:00:00;60575
+9985014000009;Bdew;WeShareEnergy GmbH;Messstellenbetreiber;01.01.1900 00:00:00;60575
 9983039000004;Bdew;Westbridge Energy GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;58542
 9983037000006;Bdew;Westbridge Energy GmbH;Lieferant;01.01.1900 00:00:00;58542
 9977933000004;Bdew;Westdeutscher Rundfunk Köln - Anstalt des öffentlichen Rechts;Netznutzer ohne All-Inklusiv-Vertrag;01.01.1900 00:00:00;4576
@@ -13405,6 +13483,7 @@ Management GmbH";Betreiber einer technischen Ressource;01.01.1900 00:00:00;59195
 9978541000006;Bdew;Windströöm GmbH;Lieferant;01.01.1900 00:00:00;21292
 9978567000006;Bdew;Windströöm GmbH;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;21292
 9984055000002;Bdew;Winfried Bayer;Einsatzverantwortlicher;01.01.1900 00:00:00;59929
+9984990000000;Bdew;Winning Plastics - Diepersdorf GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;60951
 9979519000002;Bdew;Win-Solar KG;Betreiber einer technischen Ressource;01.01.1900 00:00:00;57001
 9978681000007;Bdew;Wintershall Dea AG;Netznutzer ohne All-Inklusiv-Vertrag;01.01.1900 00:00:00;25421
 9982249000002;Bdew;Wirth Immobilien GmbH & Co. KG;Betreiber einer technischen Ressource;01.01.1900 00:00:00;58633
@@ -13462,7 +13541,6 @@ Management GmbH";Betreiber einer technischen Ressource;01.01.1900 00:00:00;59195
 9978596000001;Bdew;Xenon Capital Market Limited;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;22323
 5909000893252;Bdew;XOOG OPERATOR SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ;Bilanzkreisverantwortlicher;01.01.1900 00:00:00;60427
 4041408000007;Bdew;Yello Strom GmbH;Lieferant;01.01.1900 00:00:00;2863
-4041408000106;Bdew;Yello Strom GmbH;Messstellenbetreiber;01.01.1900 00:00:00;2863
 9979388000001;Bdew;Yippie GmbH;Lieferant;01.01.1900 00:00:00;56845
 9907571000009;Bdew;Yncoris GmbH & Co. KG;Netzbetreiber;01.01.1900 00:00:00;1376
 9978794000001;Bdew;Yncoris GmbH & Co. KG;Messstellenbetreiber;01.01.1900 00:00:00;1376
@@ -13484,6 +13562,7 @@ Management GmbH";Betreiber einer technischen Ressource;01.01.1900 00:00:00;59195
 9984164000000;Bdew;ZENNER Connect GmbH;Energieserviceanbieter des Anschlussnutzers;01.01.1900 00:00:00;60730
 9984930000002;Bdew;Zerberus Invest GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;60871
 9984931000001;Bdew;Zerberus Invest GmbH;Betreiber einer technischen Ressource;01.01.1900 00:00:00;60871
+9985011000002;Bdew;zevvy AG;Energieserviceanbieter des Anschlussnutzers;01.01.1900 00:00:00;60978
 9981749000009;Bdew;ZfP Südwürttemberg;Betreiber einer technischen Ressource;01.01.1900 00:00:00;58335
 9979760000009;Bdew;ZG Raiffeisen Technik Immobilien GmbH;Einsatzverantwortlicher;01.01.1900 00:00:00;57179
 9984216000007;Bdew;Ziegel- und Klinkerwerke Janinhoff GmbH & Co. KG;Einsatzverantwortlicher;01.01.1900 00:00:00;60080
